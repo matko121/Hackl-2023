@@ -1,0 +1,353 @@
+# Translation of Plugins - WP Accessibility - Stable (latest release) in Croatian
+# This file is distributed under the same license as the Plugins - WP Accessibility - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-09-15 09:58:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: hr\n"
+"Project-Id-Version: Plugins - WP Accessibility - Stable (latest release)\n"
+
+#: wp-accessibility.php:341
+msgid "Long Description"
+msgstr "Opšriniji opis"
+
+#: wp-accessibility-longdesc.php:180
+msgid "Has Long Description"
+msgstr "Postoji opširniji opis"
+
+#: wp-accessibility.php:782
+msgid "Please describe your problem."
+msgstr "Molimo opišite problem."
+
+#: wp-accessibility-settings.php:714
+msgid "Cookies"
+msgstr "Kolačići"
+
+#: wp-accessibility-settings.php:711
+msgid "Privacy"
+msgstr "Privatnost"
+
+#: wp-accessibility-settings.php:715
+msgid "The accessibility toolbar sets cookies to maintain awareness of the user's selected accessibility options. If the toolbar is not in use, WP Accessibility does not set any cookies."
+msgstr "Alatna traka pristupačnosti postavlja kolačiće za održavanje odabira korisnika unutar opcija pristupačnosti. Ako se alatna traka ne koristi, WP Accessibility ne postavlja kolačiće."
+
+#. Translators: Contrast ratio, foreground Hex color, background Hex color.
+#: wp-accessibility-settings.php:558
+msgid "Luminosity Contrast Ratio for %2$s and %3$s is %1$s (Threshold: greater than 7:1 for AAA, 4.5:1 for AA)"
+msgstr "Omjer kontrasta svjetlosti za %2$s i %3$s je %1$s (Prag: veći od 7: 1 za AAA, 4,5: 1 za AA)"
+
+#: wp-accessibility-settings.php:429
+msgid "Support <code>longdesc</code> on featured images"
+msgstr "Podrška <code> longdesc </code> na istaknutim slikama"
+
+#: wp-accessibility.php:404
+msgid "Skip links"
+msgstr "Preskoči poveznice"
+
+#: wp-accessibility-settings.php:348
+msgid "Update Toolbar Settings"
+msgstr "Ažuriraj postavke alatne trake"
+
+#: wp-accessibility-settings.php:340
+msgid "Hide toolbar on small screens."
+msgstr "Sakrij alatnu traku na malim ekranima."
+
+#: wp-accessibility-settings.php:155
+msgid "Toolbar Settings Updated"
+msgstr "Ažurirane su postavke Alatne trake"
+
+#: wp-accessibility-settings.php:328
+msgid "Use alternate font resizing stylesheet"
+msgstr "Upotrijebite tablicu stilova za promjenu veličine fonta"
+
+#. Author URI of the plugin
+msgid "http://www.joedolson.com/"
+msgstr "http://www.joedolson.com/"
+
+#. Plugin Name of the plugin
+msgid "WP Accessibility"
+msgstr "WP Accessibility"
+
+#. Plugin URI of the plugin
+msgid "http://www.joedolson.com/wp-accessibility/"
+msgstr "http://www.joedolson.com/wp-accessibility/"
+
+#. Author of the plugin
+msgid "Joe Dolson"
+msgstr "Joe Dolson"
+
+#. Description of the plugin
+msgid "Helps improve accessibility in your WordPress site, like removing title attributes."
+msgstr "Pomaže poboljšnju pristupačnost vašeg WordPress web mjesta, poput uklanjanja atributa naslova."
+
+#: wp-accessibility-alt.php:177
+msgid "All images must either have an alt attribute or be declared as decorative."
+msgstr "Sve slike moraju imati alt atribut ili biti proglašene dekorativnim."
+
+#: wp-accessibility.php:800
+msgid "From:"
+msgstr "Od:"
+
+#: wp-accessibility-alt.php:73
+msgid "N/A"
+msgstr "N/A"
+
+#: wp-accessibility-alt.php:26
+msgid "Accessibility"
+msgstr "Pristupačnost"
+
+#: wp-accessibility-alt.php:68
+msgid "Has <code>alt</code>"
+msgstr "Ima <code>alt</code>"
+
+#: wp-accessibility-alt.php:57
+msgid "Add <code>alt</code> text"
+msgstr "Dodaj <code>alt</code> tekst"
+
+#: wp-accessibility.php:813
+msgid "The following additional information will be sent with your support request:"
+msgstr "S vašim zahtjevom za podršku bit će poslane sljedeće dodatne informacije:"
+
+#: wp-accessibility.php:808
+msgid "Support Request:"
+msgstr "Zahtjev za podrškom:"
+
+#: wp-accessibility.php:811
+msgid "Send Support Request"
+msgstr "Pošaljite zahtjev za podršku"
+
+#: wp-accessibility-alt.php:60 wp-accessibility-alt.php:174
+msgid "Decorative"
+msgstr "Dekorativno"
+
+#: wp-accessibility.php:788
+msgid "I cannot provide support, but will treat your request as a bug report, and will incorporate any permanent solutions I discover into the plug-in."
+msgstr "Ne mogu pružiti podršku, ali će vaš zahtjev tretirati kao izvješće o grešci, a u dodatak će uključiti sva trajna rješenja koja otkrijem."
+
+#: wp-accessibility.php:786
+msgid "Thank you for supporting the continuing development of this plug-in! I'll get back to you as soon as I can."
+msgstr "Hvala vam što podržavate kontinuirani razvoj ovog dodatka! Javit ću vam se čim budem mogao."
+
+#: wp-accessibility-settings.php:694
+msgid "Your Theme"
+msgstr "Vaša tema"
+
+#: wp-accessibility-settings.php:628
+msgid "Support this Plugin"
+msgstr "Podržite ovaj dodatak"
+
+#: wp-accessibility-settings.php:657
+msgid "Accessibility References"
+msgstr "Reference pristupačnosti"
+
+#: wp-accessibility-help.php:28
+msgid "Get Plug-in Support"
+msgstr "Potražite podršku za ovaj dodatak"
+
+#: wp-accessibility-settings.php:605
+msgid "Check Color Contrast"
+msgstr "Provjerite kontrast boja"
+
+#: wp-accessibility-settings.php:314
+msgid "Default size"
+msgstr "Standardna veličina"
+
+#: wp-accessibility-settings.php:595
+msgid "Background color"
+msgstr "Pozadinska boja"
+
+#: wp-accessibility-settings.php:586
+msgid "Test of relative luminosity"
+msgstr "Test relativne svjetline"
+
+#: wp-accessibility-settings.php:571
+msgid "Test another set of colors"
+msgstr "Testirajte drugi skup boja"
+
+#: wp-accessibility-settings.php:590
+msgid "Foreground color"
+msgstr "Boja prednjeg plana"
+
+#: wp-accessibility-settings.php:569
+msgid "The colors compared <strong>do not pass</strong> the relative luminosity test."
+msgstr "Uspoređene boje <strong> ne prolaze </strong> test relativne svjetline."
+
+#: wp-accessibility-settings.php:563
+msgid "The colors compared <strong>pass</strong> the relative luminosity test at level AA."
+msgstr "Uspoređene boje <strong> prolaze </strong> test relativne svjetline na razini AA."
+
+#: wp-accessibility-settings.php:560
+msgid "The colors compared <strong>pass</strong> the relative luminosity test at level AAA."
+msgstr "Uspoređene boje <strong> prolaze </strong> test relativne svjetline na razini AAA."
+
+#: wp-accessibility-settings.php:540
+msgid "Color Contrast Tester"
+msgstr "Ispitivač kontrasta boja"
+
+#: wp-accessibility-settings.php:408
+msgid "Update Miscellaneous Settings"
+msgstr "Ažurirajte razne postavke"
+
+#: wp-accessibility-settings.php:399
+msgid "Outline color (hexadecimal, optional)"
+msgstr "Boja obrisa (heksadecimalno, izborno)"
+
+#: wp-accessibility-settings.php:396
+msgid "Add outline to elements on keyboard focus"
+msgstr "Dodajte konture (outline) elementima na fokusu tipkovnice"
+
+#: wp-accessibility-settings.php:486
+msgid "Enable diagnostic CSS"
+msgstr "Omogući dijagnostički CSS"
+
+#: wp-accessibility-settings.php:332
+msgid "Support Accessibility toolbar as shortcode or widget"
+msgstr "Podrži Alatnu traku za pristupačnost kao kratki kôd ili widget"
+
+#: wp-accessibility-settings.php:312
+msgid "Toolbar font size"
+msgstr "Veličina fonta na alatnoj traci"
+
+#: wp-accessibility-settings.php:365
+msgid "Add post title to \"more\" links."
+msgstr "Dodaj naslov objave u poveznicu 'više'"
+
+#: wp-accessibility-settings.php:424
+msgid "Button trigger to overlay image"
+msgstr "Okidač za preklapanje slike"
+
+#: wp-accessibility-settings.php:423
+msgid "Link to description"
+msgstr "Poveznica (link) na opis"
+
+#: wp-accessibility-settings.php:420
+msgid "Long Description UI"
+msgstr "Opširan UI opis"
+
+#: wp-accessibility-settings.php:388
+msgid "Remove tabindex from focusable elements"
+msgstr "Uklonite tabindex iz elemenata za fokusiranje"
+
+#: wp-accessibility-settings.php:526
+msgid "Tag clouds"
+msgstr "Oblaci oznaka"
+
+#: wp-accessibility-settings.php:535
+msgid "Update Title Attribute Settings"
+msgstr "Ažuriraj svojstva naslova"
+
+#: wp-accessibility-settings.php:274
+msgid "Update Skiplink Settings"
+msgstr "Ažurirajte postavke preskakanja (Skiplink)"
+
+#: wp-accessibility-settings.php:243
+msgid "Link text for your link"
+msgstr "Tekst poveznice za vašu poveznicu"
+
+#: wp-accessibility-settings.php:239
+msgid "Add your own link (link or container ID)"
+msgstr "Dodajte svoju vezu (veza ili ID spremnika)"
+
+#: wp-accessibility-settings.php:222
+msgid "Site Map link target (URL for your site map)"
+msgstr "Cilj poveznice na mapu web stranice (URL za vašu mapu web lokacije)"
+
+#: wp-accessibility-settings.php:199
+msgid "Skiplinks always visible"
+msgstr "Preskakanje poveznica (Skiplinkovi) su uvijek vidljivi"
+
+#: wp-accessibility-settings.php:195
+msgid "Enable Skiplinks"
+msgstr "Omogućite preskakanje poveznica (Skiplinkove)"
+
+#: wp-accessibility-settings.php:191
+msgid "Configure Skiplinks"
+msgstr "Konfiguriraj preskakanje poveznica (Skiplinkove)"
+
+#: wp-accessibility-settings.php:184
+msgid "Your <code>accessibility-ready</code> theme has skip links built in."
+msgstr "Vaša <code> pristupačna </code> tema ima ugrađene poveznice za preskakanje."
+
+#: wp-accessibility-settings.php:177
+msgid "Add Skiplinks"
+msgstr "Dodaj poveznicu za preskakanje (Skiplink)"
+
+#: wp-accessibility-settings.php:523
+msgid "Remove title attributes from:"
+msgstr "Uklonite atribute naslova iz:"
+
+#: wp-accessibility-settings.php:517
+msgid "Remove Title Attributes"
+msgstr "Uklonite atribute naslova"
+
+#: wp-accessibility-settings.php:129
+msgid "Miscellaneous Accessibility Settings Updated"
+msgstr "Ažurirane su razne postavke pristupačnosti"
+
+#: wp-accessibility-settings.php:76
+msgid "WP Accessibility does not provide any styles for visible skiplinks. You can still set the look of the links using the textareas provided, but all other layout must be assigned in your theme."
+msgstr "WP Accessibility ne nudi nikakve stilove za vidljive poveznice preskakanje. I dalje možete postaviti izgled poveznica pomoću ponuđenih tekstualnih područja, ali svi ostali prikazi moraju biti dodijeljeni vašoj temi."
+
+#: wp-accessibility-settings.php:54
+msgid "Remove Title Attributes Settings Updated"
+msgstr "Ukloni Postavke atributa naslova - Ažurirano"
+
+#: wp-accessibility.php:401
+msgid "Site map"
+msgstr "Mapa weba"
+
+#: wp-accessibility.php:400
+msgid "Skip to navigation"
+msgstr "Skoči do navigacije"
+
+#: wp-accessibility-toolbar.php:137 wp-accessibility-toolbar.php:189
+msgid "Toggle Font size"
+msgstr "Uključi / isključi veličinu fonta"
+
+#: wp-accessibility-toolbar.php:136 wp-accessibility-toolbar.php:188
+msgid "Toggle Grayscale"
+msgstr "Uključi / isključi sive tonove"
+
+#: wp-accessibility-toolbar.php:135 wp-accessibility-toolbar.php:187
+msgid "Toggle High Contrast"
+msgstr "Uključi / isključi visoki kontrast"
+
+#: class-wp-accessibility-toolbar.php:66
+msgid "Title:"
+msgstr "Naziv:"
+
+#: class-wp-accessibility-toolbar.php:33 wp-accessibility-settings.php:282
+msgid "Accessibility Toolbar"
+msgstr "Alatna traka za pristupačnost"
+
+#: wp-accessibility.php:413
+msgid "Comment"
+msgstr "Komentar"
+
+#: wp-accessibility.php:412
+msgid "Website"
+msgstr "Web stranica"
+
+#: wp-accessibility.php:411
+msgid "Email"
+msgstr "E-mail"
+
+#: wp-accessibility.php:410
+msgid "Name"
+msgstr "Naziv"
+
+#: wp-accessibility-stats.php:25 wp-accessibility.php:409
+msgid "Search"
+msgstr "Traži"
+
+#: wp-accessibility.php:134
+msgid "Accessibility Settings"
+msgstr "Postavke pristupačnosti"
+
+#: templates/longdesc-template.php:36
+msgid "Return to article."
+msgstr "Povratak na članak."

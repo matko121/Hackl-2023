@@ -1,0 +1,7335 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Amelia\n"
+"POT-Creation-Date: 2023-11-09 13:35+0100\n"
+"PO-Revision-Date: 2023-11-09 13:35+0100\n"
+"Last-Translator: \n"
+"Language-Team: Amelia\n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ../../src/Infrastructure/WP/Translations\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;gettext;gettext_noop;_\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: LiteBackendStrings.php:24
+msgid "Admin"
+msgstr ""
+
+#: LiteBackendStrings.php:25
+msgid "Add Date"
+msgstr "Tilføj dato"
+
+#: LiteBackendStrings.php:26
+msgid "Add Language"
+msgstr ""
+
+#: LiteBackendStrings.php:27
+msgid "All Services"
+msgstr "Alle tjenester"
+
+#: LiteBackendStrings.php:28 LiteBackendStrings.php:507
+msgid "Appointment"
+msgstr "Aftale"
+
+#: LiteBackendStrings.php:29
+msgid "Appointments"
+msgstr "Aftaler"
+
+#: LiteBackendStrings.php:30
+msgid "Approved"
+msgstr "Godkendt"
+
+#: LiteBackendStrings.php:31
+msgid "Booked"
+msgstr ""
+
+#: LiteBackendStrings.php:32 LiteFrontendStrings.php:87
+msgid "Cancel"
+msgstr "Annuller"
+
+#: LiteBackendStrings.php:33 LiteFrontendStrings.php:88
+msgid "Canceled"
+msgstr "Annulleret"
+
+#: LiteBackendStrings.php:34
+msgid "Spots"
+msgstr ""
+
+#: LiteBackendStrings.php:35
+msgid ""
+"Don't use Text mode option if you already have HTML code in the description,"
+"<br>since once this option is enabled the existing HTML tags could be lost."
+msgstr ""
+
+#: LiteBackendStrings.php:36 LiteBackendStrings.php:1384
+#: LiteFrontendStrings.php:198
+msgid "Close"
+msgstr "Luk"
+
+#: LiteBackendStrings.php:37 LiteBackendStrings.php:1010
+#: LiteFrontendStrings.php:90
+msgid "Closed"
+msgstr "Lukket"
+
+#: LiteBackendStrings.php:38
+msgid "Select Delimiter"
+msgstr "Vælg afgrænset"
+
+#: LiteBackendStrings.php:39
+msgid "Comma (,)"
+msgstr "Komma (,)"
+
+#: LiteBackendStrings.php:40 LiteFrontendStrings.php:146
+msgid "Continue"
+msgstr "Fortsæt"
+
+#: LiteBackendStrings.php:41
+#, fuzzy
+#| msgid "Coupons"
+msgid "Coupon code"
+msgstr "Rabatkoder"
+
+#: LiteBackendStrings.php:42 LiteBackendStrings.php:502
+msgid "Customer"
+msgstr "Kunde"
+
+#: LiteBackendStrings.php:43 LiteBackendStrings.php:1223
+#: LiteFrontendStrings.php:176
+msgid "Date"
+msgstr "Dato"
+
+#: LiteBackendStrings.php:44
+msgid "Delete"
+msgstr "Slet"
+
+#: LiteBackendStrings.php:45 LiteFrontendStrings.php:225
+msgid "Description"
+msgstr "Beskrivelse"
+
+#: LiteBackendStrings.php:46 LiteBackendStrings.php:1046
+msgid "Details"
+msgstr "Detaljer"
+
+#: LiteBackendStrings.php:47
+msgid "Disabled"
+msgstr "Deaktiveret"
+
+#: LiteBackendStrings.php:48 LiteBackendStrings.php:1116
+msgid "Duration"
+msgstr "Varighed"
+
+#: LiteBackendStrings.php:49
+msgid "Duplicate"
+msgstr "Kopier"
+
+#: LiteBackendStrings.php:50
+msgid "Edit"
+msgstr "Rediger"
+
+#: LiteBackendStrings.php:51 LiteBackendStrings.php:796
+msgid "example@mail.com"
+msgstr "eksempel@mail.com"
+
+#: LiteBackendStrings.php:52 LiteBackendStrings.php:277
+#: LiteBackendStrings.php:504 LiteBackendStrings.php:1226
+#: LiteFrontendStrings.php:179
+msgid "Employee"
+msgstr "Medarbejder"
+
+#: LiteBackendStrings.php:53 LiteFrontendStrings.php:101
+msgid "Please enter email"
+msgstr "Indtast venligst e-mail"
+
+#: LiteBackendStrings.php:54 LiteFrontendStrings.php:105
+msgid "Please enter a valid email address"
+msgstr "Indtast venligst en gyldig e-mailadresse"
+
+#: LiteBackendStrings.php:55
+msgid "Error"
+msgstr "Fejl"
+
+#: LiteBackendStrings.php:56 LiteBackendStrings.php:508
+#: LiteBackendStrings.php:1386 LiteFrontendStrings.php:172
+msgid "Event"
+msgstr "Begivenhed"
+
+#: LiteBackendStrings.php:57
+msgid "Events"
+msgstr "Begivenheder"
+
+#: LiteBackendStrings.php:58
+msgid "Export"
+msgstr "Eksporter"
+
+#: LiteBackendStrings.php:59
+msgid "Extras"
+msgstr "Ekstra"
+
+#: LiteBackendStrings.php:60
+#, fuzzy
+#| msgid "Extras Cost:"
+msgid "Extras total price"
+msgstr "Ekstra omkostninger:"
+
+#: LiteBackendStrings.php:61
+msgid "Google Calendar"
+msgstr "Google Kalender"
+
+#: LiteBackendStrings.php:62
+msgid "Join With Google Meet"
+msgstr ""
+
+#: LiteBackendStrings.php:63
+msgid "Outlook Calendar"
+msgstr ""
+
+#: LiteBackendStrings.php:64 LiteFrontendStrings.php:110
+msgid "h"
+msgstr "t"
+
+#: LiteBackendStrings.php:65
+msgid "ID"
+msgstr ""
+
+#: LiteBackendStrings.php:66
+msgid "Language"
+msgstr ""
+
+#: LiteBackendStrings.php:67
+msgid "Lesson Space"
+msgstr ""
+
+#: LiteBackendStrings.php:68
+msgid "Delete Amelia content"
+msgstr ""
+
+#: LiteBackendStrings.php:69
+msgid ""
+"Delete tables, roles, files and settings once the Amelia plugin is deleted."
+msgstr ""
+
+#: LiteBackendStrings.php:70
+msgid ""
+"Enable this option if you want to delete plugin tables, roles, files and "
+"settings<br>when deleting the plugin from plugins page"
+msgstr ""
+
+#: LiteBackendStrings.php:71
+msgid "Appointment Space Name"
+msgstr ""
+
+#: LiteBackendStrings.php:72
+msgid "Event Space Name"
+msgstr ""
+
+#: LiteBackendStrings.php:73
+msgid "Join Space"
+msgstr ""
+
+#: LiteBackendStrings.php:74
+msgid "Create spaces for pending appointments"
+msgstr ""
+
+#: LiteBackendStrings.php:75
+msgid "Limit the additional number of people"
+msgstr ""
+
+#: LiteBackendStrings.php:76
+msgid "Set Limit"
+msgstr ""
+
+#: LiteBackendStrings.php:77
+msgid "Limit the number of people that one customer can add during the booking"
+msgstr ""
+
+#: LiteBackendStrings.php:78
+msgid "Lite vs Premium"
+msgstr ""
+
+#: LiteBackendStrings.php:79 LiteBackendStrings.php:506
+#: LiteBackendStrings.php:1227
+msgid "Location"
+msgstr "Lokation"
+
+#: LiteBackendStrings.php:80
+msgid "Locations"
+msgstr "Lokationer"
+
+#: LiteBackendStrings.php:81 LiteFrontendStrings.php:112
+msgid "min"
+msgstr "min"
+
+#: LiteBackendStrings.php:82
+msgid "Name"
+msgstr "Navn"
+
+#: LiteBackendStrings.php:83
+msgid "Please enter name"
+msgstr "Indtast venligst navnet"
+
+#: LiteBackendStrings.php:84 LiteBackendStrings.php:721
+msgid "Name Ascending"
+msgstr "Navn Stigende"
+
+#: LiteBackendStrings.php:85 LiteBackendStrings.php:722
+msgid "Name Descending"
+msgstr "Navn Faldende"
+
+#: LiteBackendStrings.php:86
+msgid "Need Help"
+msgstr "Brug for hjælp"
+
+#: LiteBackendStrings.php:87
+msgid "No"
+msgstr "Nej"
+
+#: LiteBackendStrings.php:88
+msgid "There are no results..."
+msgstr "Der er ingen resultater ..."
+
+#: LiteBackendStrings.php:89
+msgid "You don't have any packages here yet..."
+msgstr ""
+
+#: LiteBackendStrings.php:90
+msgid "You don't have any resources yet..."
+msgstr "Du har ikke nogen tjenester her endnu ..."
+
+#: LiteBackendStrings.php:91
+msgid "You don't have any services here yet..."
+msgstr "Du har ikke nogen tjenester her endnu ..."
+
+#: LiteBackendStrings.php:92
+msgid "No-show"
+msgstr ""
+
+#: LiteBackendStrings.php:93 LiteBackendStrings.php:787
+msgid "Note"
+msgstr "Note"
+
+#: LiteBackendStrings.php:94
+msgid "Note (Internal)"
+msgstr "Bemærkninger (intern)"
+
+#: LiteBackendStrings.php:95
+msgid "Notification"
+msgstr "Notifikation"
+
+#: LiteBackendStrings.php:96
+msgid "of"
+msgstr "af"
+
+#: LiteBackendStrings.php:97 LiteFrontendStrings.php:113
+msgid "On-site"
+msgstr "On-site"
+
+#: LiteBackendStrings.php:98
+msgid "Opened"
+msgstr "Åbnet"
+
+#: LiteBackendStrings.php:99
+msgid "out of"
+msgstr ""
+
+#: LiteBackendStrings.php:100
+msgid "Packages"
+msgstr ""
+
+#: LiteBackendStrings.php:101
+msgid "Paid"
+msgstr "Betalt"
+
+#: LiteBackendStrings.php:102
+msgid "Partially Paid"
+msgstr ""
+
+#: LiteBackendStrings.php:103 LiteBackendStrings.php:503
+#: LiteBackendStrings.php:1209 LiteBackendStrings.php:1219
+#: LiteBackendStrings.php:1370 LiteBackendStrings.php:1391
+#: LiteFrontendStrings.php:175 LiteFrontendStrings.php:200
+msgid "Payment"
+msgstr "Betaling"
+
+#: LiteBackendStrings.php:104
+msgid "Payment Amount"
+msgstr "Betalingsdato"
+
+#: LiteBackendStrings.php:105
+msgid "Payment Method"
+msgstr "Betalingsmetode"
+
+#: LiteBackendStrings.php:106
+msgid "Payment Status"
+msgstr ""
+
+#: LiteBackendStrings.php:107
+msgid "Pending"
+msgstr "Afventer"
+
+#: LiteBackendStrings.php:108 LiteBackendStrings.php:1159
+#: LiteBackendStrings.php:1301
+msgid "Phone"
+msgstr "Telefon"
+
+#: LiteBackendStrings.php:109
+msgid "Rejected"
+msgstr "Afvist"
+
+#: LiteBackendStrings.php:110
+msgid "Resources"
+msgstr ""
+
+#: LiteBackendStrings.php:111 LiteBackendStrings.php:1114
+msgid "Save"
+msgstr "Gem"
+
+#: LiteBackendStrings.php:112
+msgid "Please select date"
+msgstr "Vælg dato"
+
+#: LiteBackendStrings.php:113
+msgid "Please select time"
+msgstr "Vælg tid"
+
+#: LiteBackendStrings.php:114 LiteBackendStrings.php:279
+#: LiteBackendStrings.php:1183 LiteBackendStrings.php:1188
+#: LiteBackendStrings.php:1190 LiteBackendStrings.php:1225
+#: LiteBackendStrings.php:1348 LiteFrontendStrings.php:159
+#: LiteFrontendStrings.php:162 LiteFrontendStrings.php:178
+#: LiteFrontendStrings.php:234
+msgid "Service"
+msgstr "Service"
+
+#: LiteBackendStrings.php:115 LiteBackendStrings.php:280
+#: LiteBackendStrings.php:1211 LiteBackendStrings.php:1349
+#: LiteFrontendStrings.php:170 LiteFrontendStrings.php:235
+msgid "Services"
+msgstr "Services"
+
+#: LiteBackendStrings.php:116
+msgid "Settings has been saved"
+msgstr "Indstillingerne er gemt"
+
+#: LiteBackendStrings.php:117
+msgid "Showing"
+msgstr "Viser"
+
+#: LiteBackendStrings.php:118 LiteBackendStrings.php:1017
+msgid "Status"
+msgstr "Status"
+
+#: LiteBackendStrings.php:119 LiteBackendStrings.php:550
+msgid "Status:"
+msgstr "Status:"
+
+#: LiteBackendStrings.php:120
+msgid "Success"
+msgstr "Succes"
+
+#: LiteBackendStrings.php:121
+msgid "Text Mode"
+msgstr ""
+
+#: LiteBackendStrings.php:122
+msgid "HTML Mode"
+msgstr ""
+
+#: LiteBackendStrings.php:123
+msgid "to"
+msgstr "til"
+
+#: LiteBackendStrings.php:124
+msgid "Today"
+msgstr "I dag"
+
+#: LiteBackendStrings.php:125
+msgid "Tomorrow"
+msgstr "I morgen"
+
+#: LiteBackendStrings.php:126 LiteBackendStrings.php:1091
+msgid "Total"
+msgstr "Total"
+
+#: LiteBackendStrings.php:127
+msgid "Translate"
+msgstr ""
+
+#: LiteBackendStrings.php:128
+msgid "Translation"
+msgstr ""
+
+#: LiteBackendStrings.php:129
+msgid "View"
+msgstr "Vis"
+
+#: LiteBackendStrings.php:130
+msgid "Friday"
+msgstr "Fredag"
+
+#: LiteBackendStrings.php:131
+msgid "Monday"
+msgstr "Mandag"
+
+#: LiteBackendStrings.php:132
+msgid "Saturday"
+msgstr "Lørdag"
+
+#: LiteBackendStrings.php:133
+msgid "Sunday"
+msgstr "Søndag"
+
+#: LiteBackendStrings.php:134
+msgid "Thursday"
+msgstr "Torsdag"
+
+#: LiteBackendStrings.php:135
+msgid "Tuesday"
+msgstr "Tirsdag"
+
+#: LiteBackendStrings.php:136
+msgid "Wednesday"
+msgstr "Onsdag"
+
+#: LiteBackendStrings.php:137
+msgid "Yes"
+msgstr "Ja"
+
+#: LiteBackendStrings.php:138
+msgid "Zoom"
+msgstr "Zoom"
+
+#: LiteBackendStrings.php:139
+msgid "Join Zoom Meeting"
+msgstr "Deltag i Zoom-mødet"
+
+#: LiteBackendStrings.php:140
+msgid "Start Zoom Meeting"
+msgstr "Start Zoommøde"
+
+#: LiteBackendStrings.php:141
+msgid "What's new"
+msgstr ""
+
+#: LiteBackendStrings.php:153
+msgid "Activate"
+msgstr "Aktiver"
+
+#: LiteBackendStrings.php:154
+msgid "Activation"
+msgstr "Aktivering"
+
+#: LiteBackendStrings.php:155
+msgid "Activation Settings"
+msgstr "Aktiveringsindstillinger"
+
+#: LiteBackendStrings.php:156
+msgid ""
+"Use this setting to activate the plugin code so you can have access to auto "
+"updates of Amelia"
+msgstr ""
+"Brug denne indstilling til at aktivere plugin-koden, så du kan få adgang til "
+"autoopdateringer af Amelia"
+
+#: LiteBackendStrings.php:157
+msgid "Activate the plugin by entering Purchase code or using Envato API."
+msgstr "Aktivér plugin ved at indtaste købskode eller bruge Envato API."
+
+#: LiteBackendStrings.php:158
+msgid "Add New Web Hook"
+msgstr "Tilføj ny webhook"
+
+#: LiteBackendStrings.php:159
+msgid "Show Add To Calendar option to customers"
+msgstr "Vis indstillingen Tilføj til Kalender til kunder"
+
+#: LiteBackendStrings.php:160
+msgid ""
+"Suggest customers to add an appointment to their calendar<br/>when booking "
+"is finalized."
+msgstr ""
+"Foreslå kunder at tilføje en aftale i deres kalender<br/>når reservationen "
+"er afsluttet."
+
+#: LiteBackendStrings.php:161 LiteBackendStrings.php:1105
+msgid "Address"
+msgstr "Adresse"
+
+#: LiteBackendStrings.php:162
+msgid "After"
+msgstr "Efter"
+
+#: LiteBackendStrings.php:163
+msgid "After with space"
+msgstr "Efter med plads"
+
+#: LiteBackendStrings.php:164
+msgid "Allow booking below minimum capacity"
+msgstr "Tillad booking under minimum kapacitet"
+
+#: LiteBackendStrings.php:165
+msgid "Allow admin to book appointment at any time"
+msgstr ""
+
+#: LiteBackendStrings.php:166
+msgid ""
+"If you enable this option, Admin will be able to book appointment at any "
+"time<br>(working hours, special days and days off for all employees will be "
+"ignored)."
+msgstr ""
+
+#: LiteBackendStrings.php:167
+msgid "Configure their days off"
+msgstr "Konfigurer deres fridage"
+
+#: LiteBackendStrings.php:168
+msgid "Configure their services"
+msgstr "Konfigurer deres tjenester"
+
+#: LiteBackendStrings.php:169
+msgid "Configure their schedule"
+msgstr "Konfigurer deres tidsplan"
+
+#: LiteBackendStrings.php:170
+msgid "Configure their special days"
+msgstr "Konfigurer deres specielle dage"
+
+#: LiteBackendStrings.php:171
+msgid "Allow booking above maximum capacity"
+msgstr "Tillad Booking ved under min. antal"
+
+#: LiteBackendStrings.php:172
+msgid "Allow customers to reschedule their own appointments"
+msgstr "Giv kunder mulighed for at omlægge deres egne aftaler"
+
+#: LiteBackendStrings.php:173
+msgid ""
+"Enable this option if you want to allow your customers to reschedule their "
+"own appointments."
+msgstr ""
+"Aktivér denne indstilling, hvis du vil tillade dine kunder at omplanlægge "
+"deres egne aftaler."
+
+#: LiteBackendStrings.php:174
+msgid "Allow customers to delete their profile"
+msgstr "Tillad kunder at slette deres profil"
+
+#: LiteBackendStrings.php:175
+msgid "Allow customers to cancel packages"
+msgstr ""
+
+#: LiteBackendStrings.php:176
+msgid "Manage their appointments"
+msgstr "Administrer deres aftaler"
+
+#: LiteBackendStrings.php:177
+msgid "Manage their events"
+msgstr "Administrer deres begivenheder"
+
+#: LiteBackendStrings.php:178
+msgid "Appointments Settings"
+msgstr "Booking indstillinger"
+
+#: LiteBackendStrings.php:179
+msgid "Use these settings to manage frontend bookings"
+msgstr "Brug disse indstillinger til at være synlige på hjemmesiden"
+
+#: LiteBackendStrings.php:180
+#, fuzzy
+#| msgid "Redirect URL After Booking"
+msgid "Redirect URL for Successfully Approved Booking"
+msgstr "Omdiriger URL efter reservation"
+
+#: LiteBackendStrings.php:181
+#, fuzzy
+#| msgid "Redirect URL After Booking"
+msgid "Redirect URL for Unsuccessfully Approved Booking"
+msgstr "Omdiriger URL efter reservation"
+
+#: LiteBackendStrings.php:182
+msgid "Automatically create Amelia Customer user"
+msgstr "Opret automatisk Amelia kundebruger"
+
+#: LiteBackendStrings.php:183
+msgid ""
+"If you enable this option every time a new customer schedules the "
+"appointment<br/>he will get Amelia Customer user role and automatic email "
+"with login details."
+msgstr ""
+"Hvis du aktiverer denne mulighed, hver gang en ny kunde planlægger "
+"aftalen<br/>vil der blive givet en Amelia brugerrolle og automatisk e-mail "
+"med login-oplysninger."
+
+#: LiteBackendStrings.php:184
+msgid "Support Amelia by enabling this option"
+msgstr ""
+
+#: LiteBackendStrings.php:185
+msgid ""
+"Allow the short description below the booking form to support<br/>Amelia "
+"Booking Plugin and spread the word about it."
+msgstr ""
+
+#: LiteBackendStrings.php:186
+msgid "Send all notifications to additional addresses"
+msgstr "Send alle meddelelser til ekstra adresser"
+
+#: LiteBackendStrings.php:187
+msgid ""
+"Here you can enter additional email addresses where all notifications will "
+"be sent.<br/>To add an address click Enter."
+msgstr ""
+
+#: LiteBackendStrings.php:188
+msgid "Send all SMS messages to additional numbers"
+msgstr ""
+
+#: LiteBackendStrings.php:189
+msgid ""
+"Here you can enter additional phone numbers where all SMS messages will be "
+"sent.<br/>To add a number click Enter."
+msgstr ""
+
+#: LiteBackendStrings.php:190
+msgid "Before"
+msgstr "Før"
+
+#: LiteBackendStrings.php:191
+msgid "Before with space"
+msgstr "Før med mellemrum"
+
+#: LiteBackendStrings.php:192
+msgid "Include service buffer time in time slots"
+msgstr ""
+
+#: LiteBackendStrings.php:193 LiteBackendStrings.php:1089
+#: LiteBackendStrings.php:1459
+msgid "Calendar"
+msgstr "Kalender"
+
+#: LiteBackendStrings.php:194
+msgid "Unsuccessful Cancellation Redirect URL"
+msgstr "Mislykket annullering af omdirigering URL"
+
+#: LiteBackendStrings.php:195
+msgid ""
+"URL on which will user be redirected if appointment can't be canceled<br/"
+">because of 'Minimum time required before canceling' value"
+msgstr ""
+"URL, hvorved brugeren omdirigeres til, hvis aftalen ikke kan annulleres <br/"
+"> på grund af min. tid er overskredet for annullering er overskredet"
+
+#: LiteBackendStrings.php:196
+msgid "Successful Cancellation Redirect URL"
+msgstr "Vellykket annullering af omdirigeringswebadresse"
+
+#: LiteBackendStrings.php:197
+msgid "Please enter URL"
+msgstr "Indtast venligst URL"
+
+#: LiteBackendStrings.php:198
+msgid "Comma-Dot"
+msgstr "Komma-dot"
+
+#: LiteBackendStrings.php:199 LiteBackendStrings.php:501
+msgid "Company"
+msgstr "Firma"
+
+#: LiteBackendStrings.php:200
+msgid "Company Settings"
+msgstr "Firmaindstillinger"
+
+#: LiteBackendStrings.php:201
+msgid ""
+"Use these settings to set up picture, name, address, phone and website of "
+"your company"
+msgstr ""
+"Brug disse indstillinger til at konfigurere din virksomheds billede, navn, "
+"adresse, telefon og websted"
+
+#: LiteBackendStrings.php:202
+msgid "Cart"
+msgstr ""
+
+#: LiteBackendStrings.php:203 LiteBackendStrings.php:889
+msgid "Coupons"
+msgstr "Rabatkoder"
+
+#: LiteBackendStrings.php:204
+msgid "Enable Google Meet"
+msgstr ""
+
+#: LiteBackendStrings.php:205
+msgid "Facebook Pixel"
+msgstr ""
+
+#: LiteBackendStrings.php:206
+msgid "Google Universal Analytics"
+msgstr ""
+
+#: LiteBackendStrings.php:207
+msgid "Google Analytics"
+msgstr ""
+
+#: LiteBackendStrings.php:208
+#, fuzzy
+#| msgid "Employee Dialog"
+msgid "Employee selection logic"
+msgstr "Medarbejders e-mail"
+
+#: LiteBackendStrings.php:209
+msgid "Random"
+msgstr ""
+
+#: LiteBackendStrings.php:210
+msgid "Currency"
+msgstr "Valuta"
+
+#: LiteBackendStrings.php:211
+#, fuzzy
+#| msgid "Customize"
+msgid "Customize Page"
+msgstr "Tilpas"
+
+#: LiteBackendStrings.php:212
+msgid "Add Event's Attendees"
+msgstr "Tilføj begivenhedens deltagere"
+
+#: LiteBackendStrings.php:213
+msgid "Customer Panel Page URL"
+msgstr "Kundepanelsideside-URL"
+
+#: LiteBackendStrings.php:214
+msgid "Employee Panel Page URL"
+msgstr ""
+
+#: LiteBackendStrings.php:215
+msgid "Default Appointment Status"
+msgstr "Standard aftalestatus"
+
+#: LiteBackendStrings.php:216
+msgid "All appointments will be scheduled with the<br/>status you choose here."
+msgstr "Alle aftaler planlægges med <br/> status du vælger her."
+
+#: LiteBackendStrings.php:217
+msgid "Default items per page"
+msgstr "Standard antal services pr. side"
+
+#: LiteBackendStrings.php:218
+msgid "Default page on back-end"
+msgstr "Standardside på back-end"
+
+#: LiteBackendStrings.php:219
+msgid "Default Payment Method"
+msgstr "Standard betalingsmetode"
+
+#: LiteBackendStrings.php:220
+msgid "Default phone country code"
+msgstr "Standard landekode for telefon"
+
+#: LiteBackendStrings.php:221
+msgid "Default Time Slot Step"
+msgstr "Standard Time Slot Step"
+
+#: LiteBackendStrings.php:222
+msgid ""
+"The Time Slot Step you define here will be applied<br/>for all time slots in "
+"the plugin."
+msgstr ""
+"Det tidsvinduet, du definerer her, anvendes <br/> for alle tidsvinduer i "
+"plugin."
+
+#: LiteBackendStrings.php:223
+msgid "Dot-Comma"
+msgstr "Dot-komma"
+
+#: LiteBackendStrings.php:224
+msgid "Enable Labels Settings"
+msgstr "Aktivér etiketter indstillinger"
+
+#: LiteBackendStrings.php:225
+msgid ""
+"Disable this option if you want to translate these<br/>strings using the "
+"third party translation plugin."
+msgstr ""
+"Deaktiver denne mulighed, hvis du ønsker at oversætte disse<br/>sætninger "
+"ved brug af tredje parts oversættelsesplugin."
+
+#: LiteBackendStrings.php:226
+msgid "Enable Customer Panel"
+msgstr "Aktivér kundepanel"
+
+#: LiteBackendStrings.php:227
+msgid "Enable No-show tag"
+msgstr ""
+
+#: LiteBackendStrings.php:228
+#, fuzzy
+#| msgid ""
+#| "Enable this option if you want your customers to<br/>receive an email "
+#| "about the event."
+msgid "Enable this option if you want to see which Customers were a No-show"
+msgstr ""
+"Aktivér denne mulighed, hvis du vil have dine kunder til<br/>at mod tage en "
+"e-mail om eventen."
+
+#: LiteBackendStrings.php:229
+msgid "Enable Employee Panel"
+msgstr ""
+
+#: LiteBackendStrings.php:230
+msgid "Enable usage for older IE browsers"
+msgstr ""
+
+#: LiteBackendStrings.php:231
+msgid "Envato API"
+msgstr "Envato API"
+
+#: LiteBackendStrings.php:232
+msgid "Activate with Envato"
+msgstr "Aktivér med Envato"
+
+#: LiteBackendStrings.php:233
+msgid "Event Title and Description"
+msgstr ""
+
+#: LiteBackendStrings.php:234
+msgid "Meeting Title"
+msgstr "Mødetitel"
+
+#: LiteBackendStrings.php:235
+msgid "Meeting Agenda"
+msgstr "Møde agenda"
+
+#: LiteBackendStrings.php:236
+msgid "General"
+msgstr "Generelt"
+
+#: LiteBackendStrings.php:237
+msgid "General Settings"
+msgstr "Generelle indstillinger"
+
+#: LiteBackendStrings.php:238
+msgid ""
+"Please note that these labels are applied only to the old booking forms and "
+"WooCommerce payments. To set labels for the 2.0 Amelia Booking forms kindly "
+"visit the"
+msgstr ""
+
+#: LiteBackendStrings.php:239
+msgid ""
+"Use these settings to define plugin general settings and default settings "
+"for your services and appointments"
+msgstr ""
+"Brug disse indstillinger til at definere generelle indstillinger og "
+"standardindstillinger for dine ydelser og aftaler"
+
+#: LiteBackendStrings.php:240
+msgid "Google Map API Key"
+msgstr "Google Map API-Nøgle"
+
+#: LiteBackendStrings.php:241
+msgid ""
+"Add Google Map API Key to show Google static map on<br/>\"Locations\" page."
+msgstr ""
+"Tilføj Google Map API-nøgle for at vise Googles statiske kort på<br/>siden "
+"\"Lokationer\"."
+
+#: LiteBackendStrings.php:242 LiteBackendStrings.php:253
+msgid "Client ID"
+msgstr "Client ID"
+
+#: LiteBackendStrings.php:243 LiteBackendStrings.php:245
+#: LiteBackendStrings.php:249 LiteBackendStrings.php:254
+msgid "Client Secret"
+msgstr "Client Secret"
+
+#: LiteBackendStrings.php:244
+msgid "Application (client) ID"
+msgstr ""
+
+#: LiteBackendStrings.php:246 LiteBackendStrings.php:247
+msgid "Redirect URI"
+msgstr "Omdirigerings-URI"
+
+#: LiteBackendStrings.php:248
+msgid "Client Key"
+msgstr "Client Key"
+
+#: LiteBackendStrings.php:250
+msgid ""
+"The JWT app type is deprecated. We recommend that you create Server-to-"
+"Server OAuth"
+msgstr ""
+
+#: LiteBackendStrings.php:251
+msgid "Enable Server-to-Server OAuth"
+msgstr ""
+
+#: LiteBackendStrings.php:252
+msgid "Account ID"
+msgstr "Beløb"
+
+#: LiteBackendStrings.php:255
+msgid "Lesson Space API Key"
+msgstr ""
+
+#: LiteBackendStrings.php:256
+msgid "Limit appointments per customer"
+msgstr "Aftalepris"
+
+#: LiteBackendStrings.php:257
+msgid "Limit package purchases per customer"
+msgstr ""
+
+#: LiteBackendStrings.php:258
+msgid "Limit events per customer"
+msgstr ""
+
+#: LiteBackendStrings.php:259
+msgid "Integrations"
+msgstr "Integrationer"
+
+#: LiteBackendStrings.php:260
+msgid ""
+"Manage Google Calendar Integration, Outlook Calendar Integration, Zoom "
+"Integration and Web Hooks"
+msgstr ""
+
+#: LiteBackendStrings.php:261
+msgid "1h"
+msgstr "1t"
+
+#: LiteBackendStrings.php:262
+msgid "10h"
+msgstr "10t"
+
+#: LiteBackendStrings.php:263
+msgid "11h"
+msgstr "11t"
+
+#: LiteBackendStrings.php:264
+msgid "12h"
+msgstr "12t"
+
+#: LiteBackendStrings.php:265
+msgid "1h 30min"
+msgstr "1t 30m"
+
+#: LiteBackendStrings.php:266
+msgid "2h"
+msgstr "2t"
+
+#: LiteBackendStrings.php:267
+msgid "3h"
+msgstr "3t"
+
+#: LiteBackendStrings.php:268
+msgid "4h"
+msgstr "4t"
+
+#: LiteBackendStrings.php:269
+msgid "6h"
+msgstr "6t"
+
+#: LiteBackendStrings.php:270
+msgid "8h"
+msgstr "8h"
+
+#: LiteBackendStrings.php:271
+msgid "9h"
+msgstr "9h"
+
+#: LiteBackendStrings.php:272
+msgid "Identify country code by user's IP address"
+msgstr "Identificer landekode efter brugers IP-adresse"
+
+#: LiteBackendStrings.php:273
+msgid "Insert Pending Appointments"
+msgstr "Indsæt afventende aftaler"
+
+#: LiteBackendStrings.php:274
+msgid "Create Meetings For Pending Appointments"
+msgstr "Opret møder til afventende aftaler"
+
+#: LiteBackendStrings.php:275
+msgid "Check customer's name for existing email when booking"
+msgstr "Kontroller kundens navn for eksisterende e-mail ved reservation"
+
+#: LiteBackendStrings.php:276
+msgid ""
+"Enable this option if you don't want to allow \"existing customer\"<br/>to "
+"use different first and last name when booking."
+msgstr ""
+"Aktivér denne indstilling, hvis du ikke vil tillade \"eksisterende kunde\" "
+"<br/> at bruge forskellige for- og efternavne ved reservation."
+
+#: LiteBackendStrings.php:278 LiteBackendStrings.php:597
+msgid "Employees"
+msgstr "Medarbejdere"
+
+#: LiteBackendStrings.php:281
+msgid "Labels"
+msgstr "Etiketter"
+
+#: LiteBackendStrings.php:282
+msgid "Labels Settings"
+msgstr "Indstillinger for etiketter"
+
+#: LiteBackendStrings.php:283
+msgid "Use these settings to change labels on frontend pages"
+msgstr "Brug disse indstillinger til at ændre etiketter på frontend-sider"
+
+#: LiteBackendStrings.php:284
+msgid "Mail Service"
+msgstr "Mail Service"
+
+#: LiteBackendStrings.php:285
+msgid "Mailgun"
+msgstr "Mailgun"
+
+#: LiteBackendStrings.php:286
+msgid "Manage languages"
+msgstr ""
+
+#: LiteBackendStrings.php:287
+msgid ""
+"Here you can define languages that you want to have in the plugin<br>for "
+"translating dynamic strings (names, descriptions, notifications)."
+msgstr ""
+
+#: LiteBackendStrings.php:288
+msgid "Marketing Tools"
+msgstr ""
+
+#: LiteBackendStrings.php:289
+msgid "1min"
+msgstr "1min"
+
+#: LiteBackendStrings.php:290
+msgid "10min"
+msgstr "10min"
+
+#: LiteBackendStrings.php:291
+msgid "12min"
+msgstr "12min"
+
+#: LiteBackendStrings.php:292
+msgid "15min"
+msgstr "15min"
+
+#: LiteBackendStrings.php:293
+msgid "2min"
+msgstr "2min"
+
+#: LiteBackendStrings.php:294
+msgid "20min"
+msgstr "20min"
+
+#: LiteBackendStrings.php:295
+msgid "30min"
+msgstr "30min"
+
+#: LiteBackendStrings.php:296
+msgid "45min"
+msgstr "45min"
+
+#: LiteBackendStrings.php:297
+msgid "5min"
+msgstr "5min"
+
+#: LiteBackendStrings.php:298
+msgid "Minimum time required before booking"
+msgstr "Seneste tidspunkt for booking af aftale"
+
+#: LiteBackendStrings.php:299
+msgid ""
+"Set the time before the appointment when customers<br/>will not be able to "
+"book the appointment."
+msgstr ""
+"Indstil klokkeslættet før aftalen, når kunder <br/> vil ikke være i stand "
+"til at booke aftalen."
+
+#: LiteBackendStrings.php:300
+msgid "Minimum time required before canceling"
+msgstr ""
+
+#: LiteBackendStrings.php:301
+msgid ""
+"Set the time before the appointment when customers<br/>will not be able to "
+"cancel the appointment."
+msgstr ""
+
+#: LiteBackendStrings.php:302
+msgid "Minimum time required before rescheduling"
+msgstr ""
+
+#: LiteBackendStrings.php:303
+msgid ""
+"Set the time before the appointment when customers<br/>will not be able to "
+"reschedule the appointment."
+msgstr ""
+
+#: LiteBackendStrings.php:304
+msgid "Notification Settings"
+msgstr "Indstillinger for beskeder"
+
+#: LiteBackendStrings.php:305
+msgid ""
+"Use these settings to set your mail settings which will be used to notify "
+"your customers and employees"
+msgstr ""
+"Brug disse indstillinger til at indstille dine mailindstillinger, som vil "
+"blive brugt til at underrette dine kunder og ansatte"
+
+#: LiteBackendStrings.php:306
+msgid "Notify the customer(s) by default"
+msgstr "Underret kunde(r) som standard"
+
+#: LiteBackendStrings.php:307
+msgid "Maximum Number Of Events Returned"
+msgstr "Maksimum antal returnerede begivenheder"
+
+#: LiteBackendStrings.php:308
+msgid "Outdated"
+msgstr ""
+
+#: LiteBackendStrings.php:309
+msgid "Allow payment via Payment Link"
+msgstr ""
+
+#: LiteBackendStrings.php:310 LiteBackendStrings.php:898
+#: LiteFrontendStrings.php:169
+msgid "Payments"
+msgstr "Betalinger"
+
+#: LiteBackendStrings.php:311
+msgid "Payments Settings"
+msgstr "﻿Betalings Indstillinger"
+
+#: LiteBackendStrings.php:312
+msgid ""
+"Use these settings to set price format, payment method and coupons that will "
+"be used in all bookings"
+msgstr ""
+"Brug disse indstillinger til at indstille prisformat, betalingsmetode og "
+"kuponer, der vil blive brugt i alle bookinger"
+
+#: LiteBackendStrings.php:313
+msgid "Period available for booking in advance"
+msgstr "Angiv hvor længe før, kunden kan booke en aftale"
+
+#: LiteBackendStrings.php:314
+msgid "Set how far customers can book."
+msgstr "Angiv, hvor langt kunderne kan booke en aftale."
+
+#: LiteBackendStrings.php:315
+msgid "PHP Mail"
+msgstr "PHP mail"
+
+#: LiteBackendStrings.php:316
+msgid "Price Number Of Decimals"
+msgstr "Antal decimaler (Pris)"
+
+#: LiteBackendStrings.php:317
+msgid "Price Separator"
+msgstr "Prisadskiller"
+
+#: LiteBackendStrings.php:318
+msgid "Price Symbol Position"
+msgstr "Symbolplacering (Pris)"
+
+#: LiteBackendStrings.php:319
+msgid "Purchase code"
+msgstr "Købskode"
+
+#: LiteBackendStrings.php:320
+#, fuzzy
+#| msgid "Service Details"
+msgid "Provider Details"
+msgstr "Serviceoplysninger"
+
+#: LiteBackendStrings.php:321
+#, fuzzy
+#| msgid "Use these settings to manage frontend bookings"
+msgid "Use this setting to configure provider details"
+msgstr "Brug disse indstillinger til at være synlige på hjemmesiden"
+
+#: LiteBackendStrings.php:322
+msgid "Enable Google reCAPTCHA"
+msgstr ""
+
+#: LiteBackendStrings.php:323
+#, fuzzy
+#| msgid "Redirect URI"
+msgid "Redirect URLs"
+msgstr "Omdirigerings-URI"
+
+#: LiteBackendStrings.php:324
+msgid "Redirect URL After Booking"
+msgstr "Omdiriger URL efter reservation"
+
+#: LiteBackendStrings.php:325
+msgid ""
+"Customer will be redirected to this URL once he schedules the appointment."
+msgstr ""
+"Kunden vil blive omdirigeret til denne webadresse, når de har booket en "
+"aftale."
+
+#: LiteBackendStrings.php:326
+msgid "Remove Google Calendar Busy Slots"
+msgstr "Fjern Google kalender optaget slots"
+
+#: LiteBackendStrings.php:327
+msgid "Remove Outlook Calendar Busy Slots"
+msgstr ""
+
+#: LiteBackendStrings.php:328
+msgid "Include Buffer time in Google events"
+msgstr ""
+
+#: LiteBackendStrings.php:329
+msgid "Include Buffer time in Outlook events"
+msgstr ""
+
+#: LiteBackendStrings.php:330
+#, fuzzy
+#| msgid "Redirect URL After Booking"
+msgid "Redirect URL for Successfully Rejected Booking"
+msgstr "Omdiriger URL efter reservation"
+
+#: LiteBackendStrings.php:331
+#, fuzzy
+#| msgid "Redirect URL After Booking"
+msgid "Redirect URL for Unsuccessfully Rejected Booking"
+msgstr "Omdiriger URL efter reservation"
+
+#: LiteBackendStrings.php:332
+msgid "Require password for login"
+msgstr "Kræv adgangskode til login"
+
+#: LiteBackendStrings.php:333
+msgid "Set email as a mandatory field"
+msgstr "Angive et telefonnummer som obligatorisk felt"
+
+#: LiteBackendStrings.php:334
+msgid "Set a phone number as a mandatory field"
+msgstr "Angive et telefonnummer som obligatorisk felt"
+
+#: LiteBackendStrings.php:335
+msgid "Roles Settings"
+msgstr "Rolleindstillinger"
+
+#: LiteBackendStrings.php:336
+msgid ""
+"Use these settings to define settings that will be applied for the specific "
+"Amelia roles"
+msgstr ""
+"Brug disse indstillinger til at definere indstillinger, der skal anvendes "
+"til de specifikke Amelia-roller"
+
+#: LiteBackendStrings.php:337
+msgid "Send Event Invitation Email"
+msgstr "Send Invitations mail til begivenhed"
+
+#: LiteBackendStrings.php:338
+msgid "Send ics file for Approved bookings"
+msgstr ""
+
+#: LiteBackendStrings.php:339
+msgid "Send ics file for Pending bookings"
+msgstr ""
+
+#: LiteBackendStrings.php:340
+msgid ""
+"Enable this option if you want to send ics file in email after approved "
+"bookings."
+msgstr ""
+
+#: LiteBackendStrings.php:341
+msgid ""
+"Enable this option if you want to send ics file in email after pending "
+"bookings."
+msgstr ""
+
+#: LiteBackendStrings.php:342
+msgid "Remind me when my SMS balance is low"
+msgstr ""
+
+#: LiteBackendStrings.php:343
+msgid ""
+"Enable this option to receive a reminder email when your SMS balance reaches "
+"set minimum"
+msgstr ""
+
+#: LiteBackendStrings.php:344
+msgid "Credit minimum to send reminder"
+msgstr ""
+
+#: LiteBackendStrings.php:345
+#, fuzzy
+#| msgid "Send Test Email"
+msgid "Send to e-mail"
+msgstr "Send test e-mail"
+
+#: LiteBackendStrings.php:346
+msgid "Sender Email"
+msgstr "Afsender-e-mail"
+
+#: LiteBackendStrings.php:347
+msgid "Please enter sender email"
+msgstr "Indtast afsender-e-mail"
+
+#: LiteBackendStrings.php:348
+msgid "Sender Name"
+msgstr "E-mail-afsendernavn"
+
+#: LiteBackendStrings.php:349
+msgid "Please enter sender name"
+msgstr "Indtast afsendernavn"
+
+#: LiteBackendStrings.php:350
+msgid "Use service duration for booking a time slot"
+msgstr "Brug servicevarighed for at reservere et tidsrum"
+
+#: LiteBackendStrings.php:351
+msgid ""
+"Enable this option if you want to make time slot step<br/>the same as "
+"service duration in the booking process"
+msgstr ""
+"Aktivér denne indstilling, hvis du vil sætte tidsintervallet til <br/> det "
+"samme som servicevarighed i bookingprocessen"
+
+#: LiteBackendStrings.php:352
+msgid "Set Ics File Description"
+msgstr ""
+
+#: LiteBackendStrings.php:353 LiteBackendStrings.php:574
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: LiteBackendStrings.php:354
+msgid "Allow customers to see other attendees"
+msgstr "Tillad kunden, at se deltagerliste"
+
+#: LiteBackendStrings.php:355
+msgid "Show booking slots in client time zone"
+msgstr "Vis reservations slots i klientens tidszone"
+
+#: LiteBackendStrings.php:356
+msgid ""
+"Enable this option if you want to show booking slots<br/>in client time zone."
+msgstr ""
+"Aktivér denne indstilling, hvis du vil vise reservations slots <br/> i "
+"klientens tidszone."
+
+#: LiteBackendStrings.php:357
+msgid "SMTP"
+msgstr "SMTP"
+
+#: LiteBackendStrings.php:358
+msgid "Space-Comma"
+msgstr "Plads-komma"
+
+#: LiteBackendStrings.php:359
+msgid "Space-Dot"
+msgstr "Space-dot"
+
+#: LiteBackendStrings.php:360
+msgid "Load Entities on page load"
+msgstr ""
+
+#: LiteBackendStrings.php:361
+msgid ""
+"Enable this option if you want to avoid AJAX calls<br>for fetching entities "
+"(services, employees, locations, packages, tags)"
+msgstr ""
+
+#: LiteBackendStrings.php:362
+msgid ""
+"SSL (HTTPS) is not enabled. You will not be able to use Outlook Calendar "
+"integration until SSL is enabled."
+msgstr ""
+
+#: LiteBackendStrings.php:363
+msgid "Update for all"
+msgstr "Opdatering for alle"
+
+#: LiteBackendStrings.php:364
+msgid "Attachment upload path"
+msgstr "Sti til vedhæftning"
+
+#: LiteBackendStrings.php:365
+msgid ""
+"If you leave this field empty, all attachments will be uploaded into the "
+"Wordpress uploads folder."
+msgstr ""
+"Hvis du lader dette felt være tomt, uploades alle vedhæftede filer i mappen "
+"Wordpress uploads."
+
+#: LiteBackendStrings.php:366
+msgid "View Activation Settings"
+msgstr "Se aktiveringsindstillinger"
+
+#: LiteBackendStrings.php:367
+msgid "View Appointments Settings"
+msgstr "Se aftale indstillinger"
+
+#: LiteBackendStrings.php:368
+msgid "View Company Settings"
+msgstr "Se firma indstillinger"
+
+#: LiteBackendStrings.php:369
+msgid "View General Settings"
+msgstr "Se generelle indstillinger"
+
+#: LiteBackendStrings.php:370
+msgid "View Integrations Settings"
+msgstr "Se Integrationsindstillinger"
+
+#: LiteBackendStrings.php:371
+msgid "View Labels Settings"
+msgstr "Se etiketter Indstillinger"
+
+#: LiteBackendStrings.php:372
+msgid "View Notifications Settings"
+msgstr "Se notifikation Indstillinger"
+
+#: LiteBackendStrings.php:373
+msgid "View Payments Settings"
+msgstr "Se indstillinger for betalinger"
+
+#: LiteBackendStrings.php:374
+#, fuzzy
+#| msgid "View General Settings"
+msgid "View Provider Details Settings"
+msgstr "Se generelle indstillinger"
+
+#: LiteBackendStrings.php:375
+msgid "View Roles Settings"
+msgstr "Se rolle indstillinger"
+
+#: LiteBackendStrings.php:376
+msgid "Website"
+msgstr "Hjemmeside"
+
+#: LiteBackendStrings.php:377
+msgid "Web Hooks"
+msgstr "Webhooks"
+
+#: LiteBackendStrings.php:378
+msgid "WP Mail"
+msgstr "WP Mail"
+
+#: LiteBackendStrings.php:379
+msgid "Hide Currency Symbol on the booking form"
+msgstr ""
+
+#: LiteBackendStrings.php:380
+msgid "Custom Currency Symbol"
+msgstr ""
+
+#: LiteBackendStrings.php:392
+msgid "Amelia SMS"
+msgstr "Amelia SMS"
+
+#: LiteBackendStrings.php:393
+msgid "Balance:"
+msgstr "Balance:"
+
+#: LiteBackendStrings.php:394
+msgid "Your balance has been recharged"
+msgstr "Din saldo er blevet genopfyldt"
+
+#: LiteBackendStrings.php:395
+msgid "Carrier:"
+msgstr "Carrier:"
+
+#: LiteBackendStrings.php:396
+msgid "Change Alpha Sender ID"
+msgstr "Skift Alpha sender-ID"
+
+#: LiteBackendStrings.php:397
+msgid "Change Password"
+msgstr "Skift adgangskode"
+
+#: LiteBackendStrings.php:398
+msgid "Cost:"
+msgstr "Omkostninger:"
+
+#: LiteBackendStrings.php:399
+msgid "Create New Notification"
+msgstr ""
+
+#: LiteBackendStrings.php:400
+msgid "Current Password:"
+msgstr "Nuværende kodeord:"
+
+#: LiteBackendStrings.php:401
+msgid "Please enter current password"
+msgstr "Indtast venligst den nuværende adgangskode"
+
+#: LiteBackendStrings.php:402 LiteBackendStrings.php:513
+msgid "Appointment Approved"
+msgstr "Aftalen er godkendt"
+
+#: LiteBackendStrings.php:403 LiteBackendStrings.php:514
+msgid "Appointment Canceled"
+msgstr "Aftalen er annulleret"
+
+#: LiteBackendStrings.php:404
+msgid "Appointment Follow Up"
+msgstr "Aftaleopfølgning"
+
+#: LiteBackendStrings.php:405 LiteBackendStrings.php:515
+msgid "Appointment Next Day Reminder"
+msgstr "Påmindelse om aftale næste dag"
+
+#: LiteBackendStrings.php:406 LiteBackendStrings.php:521
+msgid "Appointment Pending"
+msgstr "Aftale afventer"
+
+#: LiteBackendStrings.php:407 LiteBackendStrings.php:522
+msgid "Appointment Rejected"
+msgstr "Aftalen er afvist"
+
+#: LiteBackendStrings.php:408 LiteBackendStrings.php:523
+msgid "Appointment Rescheduled"
+msgstr "Aftalen er omplanlagt"
+
+#: LiteBackendStrings.php:409
+msgid "Customer Panel Access"
+msgstr ""
+
+#: LiteBackendStrings.php:410 LiteBackendStrings.php:516
+msgid "Appointment Details Changed"
+msgstr "Aftalen er annulleret"
+
+#: LiteBackendStrings.php:411
+msgid "Birthday Greeting"
+msgstr "Fødselsdagshilsen"
+
+#: LiteBackendStrings.php:412 LiteBackendStrings.php:524
+msgid "Event Booked"
+msgstr "Arrangementet er reserveret"
+
+#: LiteBackendStrings.php:413 LiteBackendStrings.php:525
+msgid "Event Canceled By Attendee"
+msgstr "Arrangement annulleret af deltager"
+
+#: LiteBackendStrings.php:414
+msgid "Event Follow Up"
+msgstr "Arrangementsopfølgning"
+
+#: LiteBackendStrings.php:415 LiteBackendStrings.php:526
+msgid "Event Next Day Reminder"
+msgstr "Påmindelse om næste dag"
+
+#: LiteBackendStrings.php:416 LiteBackendStrings.php:527
+msgid "Event Canceled By Admin"
+msgstr "Arrangement annulleret af administrator"
+
+#: LiteBackendStrings.php:417 LiteBackendStrings.php:528
+msgid "Event Rescheduled"
+msgstr "Arrangementet er omplanlagt"
+
+#: LiteBackendStrings.php:418 LiteBackendStrings.php:529
+msgid "Event Details Changed"
+msgstr "Begivenhed annulleret"
+
+#: LiteBackendStrings.php:419 LiteBackendStrings.php:420
+msgid "Other"
+msgstr "Andet"
+
+#: LiteBackendStrings.php:421 LiteBackendStrings.php:500
+#, fuzzy
+#| msgid "Purchase code"
+msgid "Cart Purchase"
+msgstr "Købskode"
+
+#: LiteBackendStrings.php:422 LiteBackendStrings.php:517
+msgid "Package Canceled"
+msgstr ""
+
+#: LiteBackendStrings.php:423 LiteBackendStrings.php:518
+msgid "Package Purchased"
+msgstr ""
+
+#: LiteBackendStrings.php:424
+msgid "Customize SMS"
+msgstr "Tilpas SMS"
+
+#: LiteBackendStrings.php:425 LiteFrontendStrings.php:97
+msgid "Date:"
+msgstr "Dato:"
+
+#: LiteBackendStrings.php:426
+msgid "Don't have an account?"
+msgstr "Har du ikke en konto?"
+
+#: LiteBackendStrings.php:427 LiteFrontendStrings.php:99
+msgid "Email:"
+msgstr "E-mail:"
+
+#: LiteBackendStrings.php:428
+msgid "Email Notifications"
+msgstr "E-mail notifikationer"
+
+#: LiteBackendStrings.php:429
+msgid "Please enter password"
+msgstr "Indtast venligst adgangskode"
+
+#: LiteBackendStrings.php:430
+msgid "Please enter recipient phone"
+msgstr "Indtast venligst modtagertelefon"
+
+#: LiteBackendStrings.php:431
+msgid "Forgot Password?"
+msgstr "Glemt adgangskode?"
+
+#: LiteBackendStrings.php:432
+msgid "You have entered an incorrect email"
+msgstr "Du har indtastet en forkert e-mail"
+
+#: LiteBackendStrings.php:433
+msgid "You have entered an incorrect password"
+msgstr "Du har indtastet en forkert adgangskode"
+
+#: LiteBackendStrings.php:434
+msgid "Insert email placeholders"
+msgstr ""
+
+#: LiteBackendStrings.php:435
+msgid ""
+"Choose one of the placeholders from the lists below, click on it to copy and "
+"then paste into the template."
+msgstr ""
+
+#: LiteBackendStrings.php:436
+msgid "Logout"
+msgstr "Log ud"
+
+#: LiteBackendStrings.php:437
+msgid "Message:"
+msgstr "Besked:"
+
+#: LiteBackendStrings.php:438
+msgid "messages"
+msgstr "beskeder"
+
+#: LiteBackendStrings.php:439
+msgid "New Password:"
+msgstr "Ny adgangskode:"
+
+#: LiteBackendStrings.php:440
+msgid "Please enter new password"
+msgstr "Indtast venligst ny adgangskode"
+
+#: LiteBackendStrings.php:441
+msgid "Notification has been saved"
+msgstr "Underretningen er gemt"
+
+#: LiteBackendStrings.php:442
+msgid "Notification Template"
+msgstr "Underretningsskabelon"
+
+#: LiteBackendStrings.php:443
+msgid "Notifications"
+msgstr "Notifikationer"
+
+#: LiteBackendStrings.php:444
+msgid "Password:"
+msgstr "Adgangskode:"
+
+#: LiteBackendStrings.php:445
+msgid "Payment History"
+msgstr "Betalingshistorik"
+
+#: LiteBackendStrings.php:446
+msgid "Date of the appointment"
+msgstr "Dato for arrangementet"
+
+#: LiteBackendStrings.php:447
+msgid "Date & Time of the appointment"
+msgstr "Dato og klokkeslæt for aftalen"
+
+#: LiteBackendStrings.php:448
+msgid "Duration of the appointment"
+msgstr ""
+
+#: LiteBackendStrings.php:449
+msgid "End time of the appointment"
+msgstr "Sluttidspunktet for aftalen"
+
+#: LiteBackendStrings.php:450
+msgid "Id of the appointment"
+msgstr ""
+
+#: LiteBackendStrings.php:451
+msgid "Appointment notes"
+msgstr "Aftalenoter"
+
+#: LiteBackendStrings.php:452
+msgid "Appointment price"
+msgstr "Aftalepris"
+
+#: LiteBackendStrings.php:453
+msgid "Payment type"
+msgstr ""
+
+#: LiteBackendStrings.php:454
+msgid "Status of the appointment"
+msgstr ""
+
+#: LiteBackendStrings.php:455
+msgid "Start time of the appointment"
+msgstr "Starttidspunkt for aftalen"
+
+#: LiteBackendStrings.php:456
+msgid "Attendee code"
+msgstr "Deltagerkode"
+
+#: LiteBackendStrings.php:457
+msgid "Booked Customer (full name, email, phone)"
+msgstr "Reserveret kunde (fuldt navn, mail, telefon)"
+
+#: LiteBackendStrings.php:458 LiteBackendStrings.php:1016
+msgid "Number of people"
+msgstr ""
+
+#: LiteBackendStrings.php:459
+msgid "Category name"
+msgstr "Kategori navn"
+
+#: LiteBackendStrings.php:460
+msgid "Company address"
+msgstr "Firma adresse"
+
+#: LiteBackendStrings.php:461
+msgid "Company name"
+msgstr "Firmanavn"
+
+#: LiteBackendStrings.php:462
+msgid "Company phone"
+msgstr "Firmatelefon"
+
+#: LiteBackendStrings.php:463
+msgid "Company website"
+msgstr "Firma Hjemmeside"
+
+#: LiteBackendStrings.php:464
+msgid "Company email"
+msgstr ""
+
+#: LiteBackendStrings.php:465
+msgid "Customer email"
+msgstr "Kundens mail"
+
+#: LiteBackendStrings.php:466
+msgid "Customer first name"
+msgstr "Kunde fornavn"
+
+#: LiteBackendStrings.php:467
+msgid "Customer full name"
+msgstr "Kundens fulde navn"
+
+#: LiteBackendStrings.php:468
+msgid "Customer last name"
+msgstr "Kunde efter navn"
+
+#: LiteBackendStrings.php:469
+msgid "Customer note"
+msgstr "Besked fra køber"
+
+#: LiteBackendStrings.php:470
+msgid "Customer phone"
+msgstr "Kundetelefon"
+
+#: LiteBackendStrings.php:471
+msgid "Employee description"
+msgstr ""
+
+#: LiteBackendStrings.php:472
+msgid "Employee email"
+msgstr "Medarbejders e-mail"
+
+#: LiteBackendStrings.php:473
+msgid "Employee first name"
+msgstr "Medarbejderens fornavn"
+
+#: LiteBackendStrings.php:474
+msgid "Employee full name"
+msgstr "Ansattes fulde navn"
+
+#: LiteBackendStrings.php:475
+msgid "Employee last name"
+msgstr "Medarbejderens efternavn"
+
+#: LiteBackendStrings.php:476
+msgid "Employee name, email & phone"
+msgstr "Medarbejderens navn, e-mail og telefon"
+
+#: LiteBackendStrings.php:477
+msgid "Employee note"
+msgstr "Medarbejdernotat"
+
+#: LiteBackendStrings.php:478
+msgid "Employee phone"
+msgstr "Medarbejderens telefon"
+
+#: LiteBackendStrings.php:479
+msgid "Event description"
+msgstr "Service beskrivelse"
+
+#: LiteBackendStrings.php:480 LiteBackendStrings.php:1166
+msgid "Event Location"
+msgstr ""
+
+#: LiteBackendStrings.php:481
+msgid "End date of the event"
+msgstr "Begivenheds slutdato"
+
+#: LiteBackendStrings.php:482
+msgid "End date & time of the event"
+msgstr "Slutdato og tidspunkt for begivenheden"
+
+#: LiteBackendStrings.php:483
+msgid "End time of the event"
+msgstr "Begivenhedens sluttid"
+
+#: LiteBackendStrings.php:484
+msgid "Event name"
+msgstr "Arrangementsnavn"
+
+#: LiteBackendStrings.php:485
+msgid "Date period of the event"
+msgstr "Datoperiode for arrangementet"
+
+#: LiteBackendStrings.php:486
+msgid "Date & Time period of the event"
+msgstr "Dato og tidsperiode for arrangementet"
+
+#: LiteBackendStrings.php:487
+msgid "Event price"
+msgstr "Arrangementspris"
+
+#: LiteBackendStrings.php:488
+msgid "Booking price"
+msgstr ""
+
+#: LiteBackendStrings.php:489
+msgid "Start date of the event"
+msgstr "Begyndelsesdato for begivenheden"
+
+#: LiteBackendStrings.php:490
+msgid "Start date & time of the event"
+msgstr "Begyndelsesdato og tidspunkt for begivenheden"
+
+#: LiteBackendStrings.php:491
+msgid "Start time of the event"
+msgstr "Begyndelsestid for begivenheden"
+
+#: LiteBackendStrings.php:492
+msgid "Group event details"
+msgstr "Event detaljer"
+
+#: LiteBackendStrings.php:493
+msgid ""
+"Set what details you want to send to your customers/employees about their "
+"recurring appointments."
+msgstr ""
+
+#: LiteBackendStrings.php:494
+msgid "Service description"
+msgstr "Behandlings beskrivelse"
+
+#: LiteBackendStrings.php:495
+msgid "Service duration"
+msgstr "Ydelsevarighed"
+
+#: LiteBackendStrings.php:496 LiteBackendStrings.php:1162
+msgid "Service name"
+msgstr "Servicenavn"
+
+#: LiteBackendStrings.php:497
+msgid "Service price"
+msgstr "Servicepris"
+
+#: LiteBackendStrings.php:498
+msgid "Time Zone"
+msgstr ""
+
+#: LiteBackendStrings.php:499 LiteFrontendStrings.php:116
+msgid "Phone:"
+msgstr "Telefon:"
+
+#: LiteBackendStrings.php:505 LiteBackendStrings.php:944
+#: LiteBackendStrings.php:1189 LiteFrontendStrings.php:161
+msgid "Category"
+msgstr "Kategori"
+
+#: LiteBackendStrings.php:509
+msgid "Extra"
+msgstr ""
+
+#: LiteBackendStrings.php:510
+msgid "Placeholder Copied"
+msgstr ""
+
+#: LiteBackendStrings.php:511 LiteBackendStrings.php:707
+#: LiteBackendStrings.php:771 LiteBackendStrings.php:1072
+msgid "Price"
+msgstr "Pris"
+
+#: LiteBackendStrings.php:512 LiteBackendStrings.php:1009
+msgid "Pricing"
+msgstr "Priser"
+
+#: LiteBackendStrings.php:519
+msgid "Employee Panel Access"
+msgstr ""
+
+#: LiteBackendStrings.php:520
+msgid "Employee Panel Recovery"
+msgstr ""
+
+#: LiteBackendStrings.php:530
+msgid "Queued"
+msgstr "Sat i kø"
+
+#: LiteBackendStrings.php:531
+msgid "Please enter new password again"
+msgstr "Indtast nyt kodeord igen"
+
+#: LiteBackendStrings.php:532
+msgid "Recharge"
+msgstr "Genopfyld"
+
+#: LiteBackendStrings.php:533
+msgid "Recharge Balance"
+msgstr "Genopfyld balance"
+
+#: LiteBackendStrings.php:534
+msgid "Recipient Email"
+msgstr "Modtagers e-mail"
+
+#: LiteBackendStrings.php:535
+msgid "Refresh"
+msgstr "Opdater"
+
+#: LiteBackendStrings.php:536
+msgid "Requires Scheduling Setup"
+msgstr "Kræver opsætning af planlægning"
+
+#: LiteBackendStrings.php:537
+msgid "Re-type New Password:"
+msgstr "Gentag den nye adgangskode:"
+
+#: LiteBackendStrings.php:538
+msgid "Security"
+msgstr "Sikkerhed"
+
+#: LiteBackendStrings.php:539
+msgid "Segments:"
+msgstr "Segmenter:"
+
+#: LiteBackendStrings.php:540
+msgid "Send"
+msgstr "Send"
+
+#: LiteBackendStrings.php:541
+msgid "Send Recovery Email"
+msgstr "Send kontogendannelses-e-mail"
+
+#: LiteBackendStrings.php:542
+msgid "Send Test Email"
+msgstr "Send test e-mail"
+
+#: LiteBackendStrings.php:543
+msgid "Send Test SMS"
+msgstr "Send Test SMS"
+
+#: LiteBackendStrings.php:544
+msgid "Alpha Sender ID:"
+msgstr "Alpha afsender ID:"
+
+#: LiteBackendStrings.php:545
+msgid "Sign In"
+msgstr "Log ind"
+
+#: LiteBackendStrings.php:546
+msgid "Sign Up"
+msgstr "Tilmeld dig"
+
+#: LiteBackendStrings.php:547
+msgid "SMS History"
+msgstr "SMS-historie"
+
+#: LiteBackendStrings.php:548
+msgid "SMS Notifications"
+msgstr "SMS notifikationer"
+
+#: LiteBackendStrings.php:549
+msgid ""
+"If you are from a country where VAT or GST applies, a VAT/GST charge will be "
+"added to the transaction."
+msgstr ""
+
+#: LiteBackendStrings.php:551
+msgid "Subject"
+msgstr "Emne"
+
+#: LiteBackendStrings.php:552
+msgid "Email has not been sent"
+msgstr "E-mail er ikke sendt"
+
+#: LiteBackendStrings.php:553
+msgid "Email has been sent"
+msgstr "Emailen er sendt"
+
+#: LiteBackendStrings.php:554
+msgid ""
+"To be able to send test email please configure \"Sender Email\" in "
+"Notification Settings."
+msgstr ""
+"For at kunne sende test-e-mail skal du konfigurere \"Afsender-e-mail\" i "
+"underretningsindstillinger."
+
+#: LiteBackendStrings.php:555
+msgid "To be able to send test SMS please recharge your balance."
+msgstr "For at kunne sende test SMS skal du genopfylde din saldo."
+
+#: LiteBackendStrings.php:556
+msgid "Text:"
+msgstr "Tekst:"
+
+#: LiteBackendStrings.php:557 LiteBackendStrings.php:1047
+msgid "Time:"
+msgstr "Tid:"
+
+#: LiteBackendStrings.php:558
+msgid "To Customer"
+msgstr "Til kunde"
+
+#: LiteBackendStrings.php:559
+msgid "To Employee"
+msgstr "Til medarbejder"
+
+#: LiteBackendStrings.php:560
+msgid "User:"
+msgstr "Bruger:"
+
+#: LiteBackendStrings.php:561
+msgid "User Profile"
+msgstr "Brugerprofil"
+
+#: LiteBackendStrings.php:562
+msgid "View pricing for:"
+msgstr "Se priser for:"
+
+#: LiteBackendStrings.php:563
+msgid "View Profile"
+msgstr "Vis profil"
+
+#: LiteBackendStrings.php:564
+msgid "Permanent access token"
+msgstr ""
+
+#: LiteBackendStrings.php:565
+msgid "Enable Auto-reply message"
+msgstr "Aktivér kundepanel"
+
+#: LiteBackendStrings.php:566
+msgid ""
+"Messages sent through WhatsApp are without a reply option, so we advise "
+"setting the “Auto-Reply” message"
+msgstr ""
+
+#: LiteBackendStrings.php:567
+msgid "WhatsApp Webhook Verify Token"
+msgstr ""
+
+#: LiteBackendStrings.php:568
+msgid "WhatsApp Auto-reply message"
+msgstr ""
+
+#: LiteBackendStrings.php:569
+msgid "WhatsApp Business Account ID"
+msgstr ""
+
+#: LiteBackendStrings.php:570
+msgid "Default language"
+msgstr ""
+
+#: LiteBackendStrings.php:571
+msgid "WhatsApp Notifications"
+msgstr ""
+
+#: LiteBackendStrings.php:572
+msgid "Enable WhatsApp Notifications"
+msgstr "E-mail notifikationer"
+
+#: LiteBackendStrings.php:573
+msgid "Phone number ID"
+msgstr ""
+
+#: LiteBackendStrings.php:575
+msgid "WhatsApp Webhook Callback URL"
+msgstr ""
+
+#: LiteBackendStrings.php:587
+msgid "# of appointments"
+msgstr "# aftaler"
+
+#: LiteBackendStrings.php:588
+msgid "Sum of payments"
+msgstr "Sum af betalinger"
+
+#: LiteBackendStrings.php:589
+msgid "# of Hours in appointment"
+msgstr "# timer i aftale"
+
+#: LiteBackendStrings.php:590
+#, php-format
+msgid "% of load"
+msgstr "% af belastning"
+
+#: LiteBackendStrings.php:591
+msgid "Approved Appointments"
+msgstr "Godkendte aftaler"
+
+#: LiteBackendStrings.php:592
+msgid ""
+"Indicates the number of approved appointments<br/>for a chosen date range."
+msgstr "Angiver antallet af godkendte aftaler <br/> for et valgt datointerval."
+
+#: LiteBackendStrings.php:593
+msgid "Interests / Conversions"
+msgstr "Interesser / konverteringer"
+
+#: LiteBackendStrings.php:594
+msgid ""
+"Shows the number of views for the employee/service/location<br/>vs. the "
+"number of times they were booked during<br/>the selected date range."
+msgstr ""
+"Viser antallet af visninger for medarbejderen/services/lokationen <br/> Det "
+"antal gange, de blev booket i løbet af <br/> det valgte datointerval."
+
+#: LiteBackendStrings.php:595
+msgid ""
+"Indicates the number of new and returning customers<br/>for the selected "
+"date range."
+msgstr ""
+"Angiver antallet af nye og tilbagevendende kunder <br/> for det valgte "
+"datointerval."
+
+#: LiteBackendStrings.php:596
+msgid "Dashboard"
+msgstr "Kontrolpanel"
+
+#: LiteBackendStrings.php:598
+#, fuzzy
+#| msgid "Work Hours"
+msgid "Grab Yours"
+msgstr "Arbejdstimer"
+
+#: LiteBackendStrings.php:599
+msgid "New"
+msgstr "Ny"
+
+#: LiteBackendStrings.php:600
+msgid "You don't have any upcoming appointments yet"
+msgstr "Du har ikke nogen kommende aftaler endnu"
+
+#: LiteBackendStrings.php:601
+msgid "Don't show again"
+msgstr ""
+
+#: LiteBackendStrings.php:602 LiteBackendStrings.php:809
+msgid "Pending Appointments"
+msgstr "Ventende aftaler"
+
+#: LiteBackendStrings.php:603
+msgid "Percentage of Load"
+msgstr "Procent af belastning"
+
+#: LiteBackendStrings.php:604
+msgid ""
+"Indicates the percentage of occupied time against available time for "
+"appointments<br/>in the chosen date range."
+msgstr "Viser antallet af godkendte aftaler<br/>for den valgte periode."
+
+#: LiteBackendStrings.php:605
+msgid "Returning"
+msgstr "Tilbagevendende"
+
+#: LiteBackendStrings.php:606
+msgid "Revenue"
+msgstr "Indtægter"
+
+#: LiteBackendStrings.php:607
+msgid ""
+"Shows the total income for paid appointments<br/>in the chosen date range."
+msgstr ""
+"Viser den samlede omsætning for betalte bookinger<br/>for den valgte periode."
+
+#: LiteBackendStrings.php:608 LiteBackendStrings.php:972
+#: LiteBackendStrings.php:1073
+msgid "Time"
+msgstr "Tid"
+
+#: LiteBackendStrings.php:609
+msgid "Views"
+msgstr "Visninger"
+
+#: LiteBackendStrings.php:610
+msgid "Hello"
+msgstr "Hej"
+
+#: LiteBackendStrings.php:611
+msgid "You have"
+msgstr "Du har"
+
+#: LiteBackendStrings.php:612
+msgid "and"
+msgstr "og"
+
+#: LiteBackendStrings.php:613
+msgid "for today"
+msgstr "i dag"
+
+#: LiteBackendStrings.php:614
+msgid "Upcoming appointments"
+msgstr "Kommende aftaler"
+
+#: LiteBackendStrings.php:626
+msgid "Add Day Off"
+msgstr "Tilføj Day Off"
+
+#: LiteBackendStrings.php:627
+msgid "Add Special Day"
+msgstr "Tilføj Speciel Dag"
+
+#: LiteBackendStrings.php:628
+msgid "Apply to All Days"
+msgstr "Anvend til alle dage"
+
+#: LiteBackendStrings.php:629
+msgid "Breaks"
+msgstr "Pauser"
+
+#: LiteBackendStrings.php:630
+msgid "Day Off name"
+msgstr "Day Off-navn"
+
+#: LiteBackendStrings.php:631
+msgid "Days Off"
+msgstr "Faste fridage"
+
+#: LiteBackendStrings.php:632
+msgid "Once Off"
+msgstr "Når slukket"
+
+#: LiteBackendStrings.php:633
+msgid "Repeat Every Year"
+msgstr "Gentag hvert år"
+
+#: LiteBackendStrings.php:634
+msgid "Please enter date"
+msgstr "Indtast dato"
+
+#: LiteBackendStrings.php:635
+msgid "Please enter end time"
+msgstr "Angiv venligst slut tidspunkt"
+
+#: LiteBackendStrings.php:636
+msgid "Please enter start time"
+msgstr "Angiv venligst start tidspunkt"
+
+#: LiteBackendStrings.php:637
+msgid "Work Hours"
+msgstr "Arbejdstimer"
+
+#: LiteBackendStrings.php:638
+msgid "Break Hours"
+msgstr ""
+
+#: LiteBackendStrings.php:650
+msgid "Hide"
+msgstr "Skjul"
+
+#: LiteBackendStrings.php:651 LiteBackendStrings.php:1440
+msgid "Show"
+msgstr "Vis"
+
+#: LiteBackendStrings.php:663
+msgid "Add Location"
+msgstr "Tilføj lokation"
+
+#: LiteBackendStrings.php:664
+msgid "Search Locations..."
+msgstr "Søg efter placeringer ..."
+
+#: LiteBackendStrings.php:676
+msgid "Add Category"
+msgstr "Tilføj Kategori"
+
+#: LiteBackendStrings.php:677 LiteBackendStrings.php:1104
+msgid "Add Extra"
+msgstr "Tilføj Ekstra"
+
+#: LiteBackendStrings.php:678
+msgid "Add Image"
+msgstr "Tilføj Billede"
+
+#: LiteBackendStrings.php:679
+msgid "Add Package"
+msgstr ""
+
+#: LiteBackendStrings.php:680
+msgid "Add Service"
+msgstr "Tilføj Service"
+
+#: LiteBackendStrings.php:681
+msgid "Add Resource"
+msgstr "Tilføj Service"
+
+#: LiteBackendStrings.php:682 LiteBackendStrings.php:1308
+#: LiteFrontendStrings.php:223
+msgid "Categories"
+msgstr "Kategorier"
+
+#: LiteBackendStrings.php:683
+msgid "Categories positions has been saved"
+msgstr "Kategorier positioner er gemt"
+
+#: LiteBackendStrings.php:684
+msgid "Category has been deleted"
+msgstr "Kategori er blevet slettet"
+
+#: LiteBackendStrings.php:685
+msgid "Category has been duplicated"
+msgstr "Kategori er kopieret"
+
+#: LiteBackendStrings.php:686
+msgid "Category has been saved"
+msgstr "Kategori er gemt"
+
+#: LiteBackendStrings.php:687
+msgid "Start by clicking the Add Category button"
+msgstr "Start med at klikke på knappen Tilføj kategori"
+
+#: LiteBackendStrings.php:688
+msgid "Start by clicking the Add Package button"
+msgstr ""
+
+#: LiteBackendStrings.php:689
+msgid "Start by clicking the Add Resource button"
+msgstr "Start med at klikke på knappen Tilføj service"
+
+#: LiteBackendStrings.php:690
+msgid "Start by clicking the Add Service button"
+msgstr "Start med at klikke på knappen Tilføj service"
+
+#: LiteBackendStrings.php:691
+msgid "Are you sure you want to delete this service?"
+msgstr "Er du sikker på, at du vil slette denne service?"
+
+#: LiteBackendStrings.php:692
+msgid "Are you sure you want to duplicate this service?"
+msgstr "Er du sikker på, at du vil duplikere denne service?"
+
+#: LiteBackendStrings.php:693
+msgid ""
+"You will change a setting which is also set for each employee separately. Do "
+"you want to update it for all employees?"
+msgstr ""
+"Du ændrer en indstilling, der også er indstillet for hver medarbejder "
+"separat. Vil du opdatere det for alle ansatte?"
+
+#: LiteBackendStrings.php:694
+msgid "Are you sure you want to hide this service?"
+msgstr "Er du sikker på, at du vil skjule denne service?"
+
+#: LiteBackendStrings.php:695
+msgid "Are you sure you want to show this service?"
+msgstr "Er du sikker på, at du vil vise denne service?"
+
+#: LiteBackendStrings.php:696
+msgid "Are you sure you want to delete this category"
+msgstr "Er du sikker på, at du vil slette denne kategori"
+
+#: LiteBackendStrings.php:697
+msgid "Duration & Pricing "
+msgstr ""
+
+#: LiteBackendStrings.php:698
+msgid "Edit Service"
+msgstr "Rediger service"
+
+#: LiteBackendStrings.php:699
+msgid "Gallery"
+msgstr "Galleri"
+
+#: LiteBackendStrings.php:700
+msgid "Hex"
+msgstr "Hex"
+
+#: LiteBackendStrings.php:701
+msgid "Maximum Capacity"
+msgstr "Maksimal kapacitet"
+
+#: LiteBackendStrings.php:702
+msgid "Here you can set the maximum number of people<br/>per one appointment."
+msgstr ""
+
+#: LiteBackendStrings.php:703
+msgid "Minimum Capacity"
+msgstr "Minimum kapacitet"
+
+#: LiteBackendStrings.php:704
+msgid ""
+"Here you can set the minimum number of people<br/>per one booking of this "
+"service."
+msgstr ""
+
+#: LiteBackendStrings.php:705
+msgid "New Category"
+msgstr "Ny kategori"
+
+#: LiteBackendStrings.php:706
+msgid "New Service"
+msgstr "Ny service"
+
+#: LiteBackendStrings.php:708
+msgid "Please select duration"
+msgstr "Vælg varighed"
+
+#: LiteBackendStrings.php:709
+msgid "Buffer Time After"
+msgstr "Buffertid efter"
+
+#: LiteBackendStrings.php:710
+msgid ""
+"Time after the appointment (rest, clean up, etc.),<br/>when another booking "
+"for same service and<br/>employee cannot be made."
+msgstr ""
+"Tid efter udnævnelsen (pause, oprydning, etc.), <br/> når en anden booker "
+"for samme service og <br/> medarbejder ikke kan foretages."
+
+#: LiteBackendStrings.php:711
+msgid "Buffer Time Before"
+msgstr "Buffertid før"
+
+#: LiteBackendStrings.php:712
+msgid ""
+"Time needed to prepare for the appointment, when<br/>another booking for "
+"same service and employee<br/>cannot be made."
+msgstr ""
+"Tid til at forberede sig til udnævnelsen, når <br/> en anden booker for "
+"samme service og medarbejder <br/> kan ikke foretages."
+
+#: LiteBackendStrings.php:713
+msgid "Service has been deleted"
+msgstr "Servicen er blevet slettet"
+
+#: LiteBackendStrings.php:714
+msgid "Service is hidden"
+msgstr "Servicen er skjult"
+
+#: LiteBackendStrings.php:715
+msgid "Service has been saved"
+msgstr "Servicen er blevet gemt"
+
+#: LiteBackendStrings.php:716
+msgid "Service is visible"
+msgstr "Servicen er synlig"
+
+#: LiteBackendStrings.php:717
+msgid "Services positions has been saved"
+msgstr "Service positioner er blevet gemt"
+
+#: LiteBackendStrings.php:718
+msgid "Unable to save services positions"
+msgstr "Kan ikke gemme service positioner"
+
+#: LiteBackendStrings.php:719
+msgid "Sort Services:"
+msgstr "Sorter Services:"
+
+#: LiteBackendStrings.php:720
+msgid "Custom"
+msgstr "Brugerdefineret"
+
+#: LiteBackendStrings.php:723
+msgid "Price Ascending"
+msgstr "Pris Stigende"
+
+#: LiteBackendStrings.php:724
+msgid "Price Descending"
+msgstr "Pris Faldende"
+
+#: LiteBackendStrings.php:725
+msgid "Show service on site"
+msgstr "Vis service på stedet"
+
+#: LiteBackendStrings.php:726
+msgid "Set recurring appointment"
+msgstr "Kommende aftaler"
+
+#: LiteBackendStrings.php:727
+msgid ""
+"If this option is disabled, your customers won't be able to book recurring "
+"appointments at the same time."
+msgstr ""
+"Hvis denne indstilling er deaktiveret, er service kun tilgængelig til "
+"reservation fra back-end-sider."
+
+#: LiteBackendStrings.php:739
+msgid "Create New"
+msgstr "Opret ny"
+
+#: LiteBackendStrings.php:740 LiteBackendStrings.php:1157
+#: LiteBackendStrings.php:1300
+msgid "Email"
+msgstr "E-mail"
+
+#: LiteBackendStrings.php:741 LiteBackendStrings.php:1201
+#: LiteFrontendStrings.php:102
+msgid "Please enter first name"
+msgstr "Indtast fornavn"
+
+#: LiteBackendStrings.php:742 LiteBackendStrings.php:1203
+#: LiteFrontendStrings.php:103
+msgid "Please enter last name"
+msgstr "Indtast efternavn"
+
+#: LiteBackendStrings.php:743 LiteBackendStrings.php:1154
+#: LiteBackendStrings.php:1298
+msgid "First Name"
+msgstr "Fornavn"
+
+#: LiteBackendStrings.php:744 LiteBackendStrings.php:1155
+#: LiteBackendStrings.php:1299
+msgid "Last Name"
+msgstr "Efternavn"
+
+#: LiteBackendStrings.php:745
+msgid "Female"
+msgstr "Kvinde"
+
+#: LiteBackendStrings.php:746
+msgid "Male"
+msgstr "Mand"
+
+#: LiteBackendStrings.php:747
+msgid "Notification Language"
+msgstr "Notifikation"
+
+#: LiteBackendStrings.php:748
+msgid "Select or Create New"
+msgstr "Vælg eller Opret nyt"
+
+#: LiteBackendStrings.php:749
+msgid "WordPress User"
+msgstr "WordPress-bruger"
+
+#: LiteBackendStrings.php:750
+msgid ""
+"Here you can map a WordPress user to the customer if<br/>you want to give "
+"customers access to the list of their<br/>appointments in the back-end of "
+"the plugin."
+msgstr ""
+"Her kan du knytte en WordPress-bruger til kunden, hvis<br/>du ønsker at give "
+"kunderne adgang til listen<br/>over deres aftaler i back-enden af pluginnet."
+
+#: LiteBackendStrings.php:751
+msgid ""
+"Here you can map a WordPress user to the employee if<br/>you want to give "
+"employee access to the list of their<br/>appointments in the back-end of the "
+"plugin."
+msgstr ""
+"Her kan du knytte en WordPress-bruger til medarbejderen, hvis<br/>du ønsker "
+"at give kunderne adgang til listen<br/>over deres aftaler i back-enden af "
+"pluginnet."
+
+#: LiteBackendStrings.php:752
+msgid ""
+"This is the language in which the customer will receive notifications for "
+"bookings made on the admin/employee panel. It is preselected if the customer "
+"has booked on a page in the language available in Amelia notifications, or "
+"it can be set here."
+msgstr ""
+
+#: LiteBackendStrings.php:764
+msgid "Assigned Services"
+msgstr "Tildelte tjenester"
+
+#: LiteBackendStrings.php:765
+msgid "Capacity"
+msgstr "Kapacitet"
+
+#: LiteBackendStrings.php:766
+#, fuzzy
+#| msgid "Roles Settings"
+msgid "Provider Settings"
+msgstr "Rolleindstillinger"
+
+#: LiteBackendStrings.php:767
+msgid "Employee has been saved"
+msgstr "Medarbejderen er blevet gemt"
+
+#: LiteBackendStrings.php:768
+msgid "Employee Panel Password"
+msgstr ""
+
+#: LiteBackendStrings.php:769
+msgid "Applied for all assigned services"
+msgstr "Anvendes for alle tildelte tjenester"
+
+#: LiteBackendStrings.php:770
+msgid ""
+"Select only specific services for this period.<br/>If no services are "
+"selected, then all assigned services for this employee<br/>will be available "
+"for booking in this period."
+msgstr ""
+"Vælg kun specifikke tjenester for denne periode. <br/> Hvis der ikke er "
+"valgt nogen tjenester, vil alle tildelte tjenester til denne medarbejder <br/"
+"> være tilgængelige for booking i denne periode."
+
+#: LiteBackendStrings.php:772
+msgid "Special Days"
+msgstr "Specielle Dage"
+
+#: LiteBackendStrings.php:784
+msgid "Add Customer"
+msgstr "Tilføj kunde"
+
+#: LiteBackendStrings.php:785
+msgid "Are you sure you want to delete this customer?"
+msgstr "Er du sikker på, at du vil slette kunden?"
+
+#: LiteBackendStrings.php:786
+msgid "Customer has been deleted"
+msgstr "Kunden er blevet slettet"
+
+#: LiteBackendStrings.php:788
+msgid "Customer has been saved"
+msgstr "Kunden er gemt"
+
+#: LiteBackendStrings.php:789
+msgid "Customers"
+msgstr "Kunder"
+
+#: LiteBackendStrings.php:790
+msgid "Customers have been deleted"
+msgstr "Kunder er blevet slettet"
+
+#: LiteBackendStrings.php:791
+msgid "customers"
+msgstr "kunder"
+
+#: LiteBackendStrings.php:792
+msgid "Search Customers..."
+msgstr "Søg efter kunder ..."
+
+#: LiteBackendStrings.php:793
+msgid "Created On"
+msgstr ""
+
+#: LiteBackendStrings.php:794
+msgid "Date of Birth"
+msgstr "Fødselsdato"
+
+#: LiteBackendStrings.php:795
+msgid "Edit Customer"
+msgstr "Rediger kunde"
+
+#: LiteBackendStrings.php:797
+msgid "You can use this option to export customers in CSV file."
+msgstr "Du kan bruge denne mulighed til at eksportere kunder til en CSV-filen."
+
+#: LiteBackendStrings.php:798
+msgid "Gender"
+msgstr "Køn"
+
+#: LiteBackendStrings.php:799
+msgid ""
+"<ul><li>No first row with column names</li><li><b>First</b> and <b>Last "
+"name</b> are two separate fields</li><li><b>Date of birth</b> in the same "
+"format as chosen in your WP settings (if date format with a comma is used "
+"the dates should be in quotes)</li><li><b>Phone</b> has a country code</"
+"li><li><b>Gender</b> in Male or Female form</li></ul>"
+msgstr ""
+
+#: LiteBackendStrings.php:800
+msgid ""
+"Valid <b>First</b> and <b>Last name</b> are required fields. <br>If invalid, "
+"other values will be skipped and not imported.<br>If multiple customers have "
+"the same email address, only the first one will be imported."
+msgstr ""
+
+#: LiteBackendStrings.php:801
+msgid "customers have been imported successfully to your customer list"
+msgstr ""
+
+#: LiteBackendStrings.php:802
+msgid "You can use this option to import customers from a CSV file."
+msgstr ""
+
+#: LiteBackendStrings.php:803
+msgid "Imported customers from file:"
+msgstr ""
+
+#: LiteBackendStrings.php:804
+msgid "Last Appointment"
+msgstr "Sidste aftale"
+
+#: LiteBackendStrings.php:805
+msgid "Last Appointment Ascending"
+msgstr "Sidste aftale (stigende)"
+
+#: LiteBackendStrings.php:806
+msgid "Last Appointment Descending"
+msgstr "Sidste aftale (faldende)"
+
+#: LiteBackendStrings.php:807
+msgid "New Customer"
+msgstr "Ny kunde"
+
+#: LiteBackendStrings.php:808
+msgid "You don't have any customers here yet..."
+msgstr "Du har ikke nogen kunder her endnu ..."
+
+#: LiteBackendStrings.php:810
+msgid "Required fields are: <b>First Name</b> and <b>Last Name</b>."
+msgstr ""
+
+#: LiteBackendStrings.php:811
+msgid "Select Date of Birth"
+msgstr "Vælg fødselsdato"
+
+#: LiteBackendStrings.php:812
+msgid "Total Appointments"
+msgstr "Antal aftaler"
+
+#: LiteBackendStrings.php:813
+msgid "Upload Customers .csv file"
+msgstr ""
+
+#: LiteBackendStrings.php:825
+msgid "Drag and drop or choose from <em>files</em>"
+msgstr ""
+
+#: LiteBackendStrings.php:826
+msgid "Import customer data"
+msgstr ""
+
+#: LiteBackendStrings.php:827
+msgid "Import rules"
+msgstr ""
+
+#: LiteBackendStrings.php:828
+msgid "Import successful"
+msgstr ""
+
+#: LiteBackendStrings.php:829
+msgid "Please map corresponding data to columns."
+msgstr ""
+
+#: LiteBackendStrings.php:830
+msgid "Some records have a wrong format"
+msgstr ""
+
+#: LiteBackendStrings.php:842
+msgid "Welcome to wpAmelia"
+msgstr ""
+
+#: LiteBackendStrings.php:843
+msgid ""
+"Congratulations! You are about to use the most powerful WordPress booking "
+"plugin - Amelia is designed to make the process of bookings representation "
+"and interaction quick, easy and effective."
+msgstr ""
+
+#: LiteBackendStrings.php:844
+msgid "Discover Amelia"
+msgstr ""
+
+#: LiteBackendStrings.php:845
+msgid "News Blog"
+msgstr ""
+
+#: LiteBackendStrings.php:846
+msgid "Keep up to date!"
+msgstr ""
+
+#: LiteBackendStrings.php:847
+msgid ""
+"Never miss notifications about new cool features, promotions, giveaways or "
+"freebies!"
+msgstr ""
+
+#: LiteBackendStrings.php:848
+msgid "Enter your email"
+msgstr "Skriv din email"
+
+#: LiteBackendStrings.php:849
+msgid "Subscribe"
+msgstr ""
+
+#: LiteBackendStrings.php:850
+msgid "Take a look at how our clients use Amelia"
+msgstr ""
+
+#: LiteBackendStrings.php:851
+#, fuzzy
+#| msgid "Success Color"
+msgid "Read Success Stories"
+msgstr "Succes"
+
+#: LiteBackendStrings.php:852
+msgid "Have questions?"
+msgstr ""
+
+#: LiteBackendStrings.php:853
+msgid "Our Support team will answer any of your questions"
+msgstr ""
+
+#: LiteBackendStrings.php:854
+msgid "Contact our support"
+msgstr ""
+
+#: LiteBackendStrings.php:855
+msgid "Most used Premium features"
+msgstr ""
+
+#: LiteBackendStrings.php:856
+#, fuzzy
+#| msgid "Payments"
+msgid "Online Payments"
+msgstr "Betalinger"
+
+#: LiteBackendStrings.php:857
+#, fuzzy
+#| msgid "Package Services List"
+msgid "Packages of services"
+msgstr "PayPal service"
+
+#: LiteBackendStrings.php:858
+#, fuzzy
+#| msgid "Google Calendar"
+msgid "Google Calendar Sync"
+msgstr "Google Kalender"
+
+#: LiteBackendStrings.php:859
+msgid "Zoom/Google Meet"
+msgstr ""
+
+#: LiteBackendStrings.php:860
+#, fuzzy
+#| msgid "Service Duration"
+msgid "Custom Service Duration"
+msgstr "Ydelsevarighed"
+
+#: LiteBackendStrings.php:872
+msgid "Amelia Plans Comparison"
+msgstr ""
+
+#: LiteBackendStrings.php:873
+msgid ""
+"Upgrade to any of our three premium versions and unlock a world of exclusive "
+"features and benefits, tailored to enhance your experience and maximize the "
+"value you get from our product."
+msgstr ""
+
+#: LiteBackendStrings.php:874
+msgid "Upgrade now"
+msgstr ""
+
+#: LiteBackendStrings.php:875
+msgid "Support is only available through forum"
+msgstr ""
+
+#: LiteBackendStrings.php:887
+msgid "Amount"
+msgstr "Beløb"
+
+#: LiteBackendStrings.php:888
+msgid "Booking Start"
+msgstr "Bookingstart"
+
+#: LiteBackendStrings.php:890 LiteBackendStrings.php:951
+msgid "Customer Email"
+msgstr "Kundens Email"
+
+#: LiteBackendStrings.php:891
+msgid "Employee Email"
+msgstr "Behandlermail"
+
+#: LiteBackendStrings.php:892
+msgid ""
+"You can use this option to export payments in CSV file<br/>for the selected "
+"date range."
+msgstr ""
+"Du kan bruge denne indstilling til at eksportere betalinger i CSV-fil<br/"
+">for det valgte datointerval."
+
+#: LiteBackendStrings.php:893
+msgid "Method"
+msgstr "Metode"
+
+#: LiteBackendStrings.php:894
+msgid "New Coupon"
+msgstr "Ny kupon"
+
+#: LiteBackendStrings.php:895
+msgid "You don't have any coupons here yet"
+msgstr "Du har ikke nogen kuponer her endnu"
+
+#: LiteBackendStrings.php:896
+msgid "You don't have any payments here yet"
+msgstr "Du har ikke nogen betalinger her endnu"
+
+#: LiteBackendStrings.php:897
+msgid "Payment date"
+msgstr "Betalingsdato"
+
+#: LiteBackendStrings.php:899
+msgid "payments"
+msgstr "betaling"
+
+#: LiteBackendStrings.php:911
+msgid "Appointment Date"
+msgstr "Booking dato"
+
+#: LiteBackendStrings.php:912
+msgid "Appointment Info"
+msgstr "Aftale Info"
+
+#: LiteBackendStrings.php:913
+msgid "Event Date"
+msgstr "Begivenhedsdato"
+
+#: LiteBackendStrings.php:914
+msgid "Are you sure you want to delete this payment?"
+msgstr "Er du sikker på, at du vil slette denne betaling?"
+
+#: LiteBackendStrings.php:915
+msgid "Discount"
+msgstr "Rabat"
+
+#: LiteBackendStrings.php:916
+msgid "Due"
+msgstr "Betalings Dato"
+
+#: LiteBackendStrings.php:917
+msgid "Enter new payment amount"
+msgstr "Indtast nyt betalingsbeløb"
+
+#: LiteBackendStrings.php:918
+msgid "Finance"
+msgstr "Finans"
+
+#: LiteBackendStrings.php:919
+msgid "Payment has been deleted"
+msgstr "Indbetalingen findes ikke længere"
+
+#: LiteBackendStrings.php:920
+msgid "Payment Details"
+msgstr "Betalingsoplysninger"
+
+#: LiteBackendStrings.php:921
+msgid "Payment has been saved"
+msgstr "Betalingen er gemt"
+
+#: LiteBackendStrings.php:922
+msgid "Payments have been deleted"
+msgstr "Betalingerne er blevet slettet"
+
+#: LiteBackendStrings.php:923
+msgid "Payment Type"
+msgstr ""
+
+#: LiteBackendStrings.php:924 LiteBackendStrings.php:1174
+msgid "Service Price"
+msgstr "Servicepris"
+
+#: LiteBackendStrings.php:925 LiteBackendStrings.php:1214
+#: LiteFrontendStrings.php:250
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: LiteBackendStrings.php:926
+msgid "Total Price"
+msgstr ""
+
+#: LiteBackendStrings.php:938
+msgid "Appointment has been deleted"
+msgstr "Aftalen er blevet slettet"
+
+#: LiteBackendStrings.php:939
+msgid "Appointment has been saved"
+msgstr "Aftalen er gemt"
+
+#: LiteBackendStrings.php:940
+msgid "Appointment status has been changed to "
+msgstr "Udnævnelsesstatus er ændret til "
+
+#: LiteBackendStrings.php:941
+msgid "Appointments have been deleted"
+msgstr "Aftaler er blevet slettet"
+
+#: LiteBackendStrings.php:942
+msgid "Search for Customers, Employees, Services..."
+msgstr "Søg efter kunder, medarbejdere, tjenester ..."
+
+#: LiteBackendStrings.php:943
+msgid "Assigned to"
+msgstr "Tildelt til"
+
+#: LiteBackendStrings.php:945
+msgid "Change group status"
+msgstr "Skift gruppestatus"
+
+#: LiteBackendStrings.php:946
+msgid "Are you sure you want to delete this appointment?"
+msgstr "Er du sikker på, at du vil slette denne aftale?"
+
+#: LiteBackendStrings.php:947
+msgid "Are you sure you want to delete these appointments?"
+msgstr ""
+
+#: LiteBackendStrings.php:948
+msgid "Are you sure you want to duplicate this appointment?"
+msgstr "Er du sikker på, at du vil kopiere denne aftale?"
+
+#: LiteBackendStrings.php:949
+msgid "Create Customer"
+msgstr "Opret kunde"
+
+#: LiteBackendStrings.php:950 LiteBackendStrings.php:1120
+msgid "Custom Fields"
+msgstr "Brugerdefinerede felter"
+
+#: LiteBackendStrings.php:952
+msgid "Customer(s)"
+msgstr "Kunde(r)"
+
+#: LiteBackendStrings.php:953
+msgid ""
+"Here you can define the number of people that are coming<br/>with this "
+"customer. The number you can choose depends<br/>on the service and employee "
+"capacity."
+msgstr ""
+"Her kan du definere antallet af personer, der kommer <br/> med denne kunde. "
+"Det nummer, du kan vælge, afhænger af <br/>service-og medarbejder "
+"kapaciteten."
+
+#: LiteBackendStrings.php:954
+#, fuzzy
+#| msgid "Payment Details"
+msgid "Edit Payment Details"
+msgstr "Betalingsoplysninger"
+
+#: LiteBackendStrings.php:955
+msgid "Edit Appointment"
+msgstr "Redigér aftale"
+
+#: LiteBackendStrings.php:956
+msgid "End Time"
+msgstr "Sluttid"
+
+#: LiteBackendStrings.php:957
+msgid ""
+"You can use this option to export appointments in CSV file<br/>for the "
+"selected date range."
+msgstr ""
+"Du kan bruge denne indstilling til at eksportere aftaler i CSV-fil <br/> for "
+"det valgte datointerval."
+
+#: LiteBackendStrings.php:958
+msgid ""
+"You can use this option to export attendees in CSV file<br/>for the selected "
+"event."
+msgstr ""
+"Du kan bruge denne indstilling til at eksportere deltagere i CSV-fil <br/> "
+"for den valgte begivenhed."
+
+#: LiteBackendStrings.php:959
+msgid "New Appointment"
+msgstr "Ny booking"
+
+#: LiteBackendStrings.php:960
+msgid "Notify the attendee(s)"
+msgstr "Underret kunden / kunderne"
+
+#: LiteBackendStrings.php:961
+msgid ""
+"Check this checkbox if you want your attendee(s) to<br/>receive an email "
+"about the event’s updated information."
+msgstr ""
+"Marker dette afkrydsningsfelt, hvis du vil have din kunde til <br/> modtag "
+"en e-mail om den planlagte aftale."
+
+#: LiteBackendStrings.php:962
+msgid "Notify the customer(s)"
+msgstr "Underret kunden / kunderne"
+
+#: LiteBackendStrings.php:963
+msgid ""
+"Check this checkbox if you want your customer(s) to<br/>receive an email "
+"about the scheduled appointment."
+msgstr ""
+"Marker dette afkrydsningsfelt, hvis du vil have din kunde til <br/> modtag "
+"en e-mail om den planlagte aftale."
+
+#: LiteBackendStrings.php:964
+msgid "Schedule"
+msgstr "Tidsplan"
+
+#: LiteBackendStrings.php:965
+msgid "Select Customer(s)"
+msgstr "Vælg Kunde(r)"
+
+#: LiteBackendStrings.php:966
+msgid "Maximum number of places is"
+msgstr "Maksimalt antal steder er"
+
+#: LiteBackendStrings.php:967 LiteBackendStrings.php:1135
+#: LiteBackendStrings.php:1436 LiteFrontendStrings.php:249
+msgid "Select Service"
+msgstr "Vælg Service"
+
+#: LiteBackendStrings.php:968
+msgid "Select Service Category"
+msgstr "Vælg Servicekategori"
+
+#: LiteBackendStrings.php:969
+msgid "Selected Customers"
+msgstr "Udvalgte Kunder"
+
+#: LiteBackendStrings.php:970
+msgid "This service does not have any extras"
+msgstr "Denne service har ingen ekstramateriale"
+
+#: LiteBackendStrings.php:971
+msgid "Start Time"
+msgstr "Starttid"
+
+#: LiteBackendStrings.php:973 LiteFrontendStrings.php:121
+msgid "Time slot is unavailable"
+msgstr "Tidsinterval er ikke tilgængeligt"
+
+#: LiteBackendStrings.php:974
+msgid "Appointment can't be canceled"
+msgstr "Aftalen kan ikke annulleres"
+
+#: LiteBackendStrings.php:975
+msgid "Appointment can't be rescheduled"
+msgstr "Aftalen kan ikke omplanlægges"
+
+#: LiteBackendStrings.php:976
+msgid "WooCommerce"
+msgstr ""
+
+#: LiteBackendStrings.php:987
+msgid "Deposit Payment"
+msgstr ""
+
+#: LiteBackendStrings.php:988
+msgid "Custom Pricing"
+msgstr ""
+
+#: LiteBackendStrings.php:989
+msgid "Custom Duration and Pricing"
+msgstr ""
+
+#: LiteBackendStrings.php:1001
+msgid "Are you sure you want to delete selected attendee?"
+msgstr "Er du sikker på, at du vil slette den valgte deltager?"
+
+#: LiteBackendStrings.php:1002
+msgid "Are you sure you want to delete selected attendees?"
+msgstr "Er du sikker på, at du vil slette valgte deltagere?"
+
+#: LiteBackendStrings.php:1003
+msgid "Are you sure you want to delete this event?"
+msgstr "Er du sikker på, at du vil slette dette arrangement?"
+
+#: LiteBackendStrings.php:1004
+msgid "Are you sure you want to duplicate this event?"
+msgstr ""
+
+#: LiteBackendStrings.php:1005
+msgid "Are you sure you want to cancel this event?"
+msgstr "Er du sikker på, at du vil aflyse dette arrangement?"
+
+#: LiteBackendStrings.php:1006
+msgid "Are you sure you want to open this event?"
+msgstr "Er du sikker på, at du vil åbne dette arrangement?"
+
+#: LiteBackendStrings.php:1007
+msgid "Please cancel the event first before deleting it."
+msgstr "Annullér arrangementet først, før du sletter det."
+
+#: LiteBackendStrings.php:1008 LiteBackendStrings.php:1121
+msgid "Customize"
+msgstr "Tilpas"
+
+#: LiteBackendStrings.php:1011 LiteBackendStrings.php:1168
+#: LiteFrontendStrings.php:91
+msgid "Full"
+msgstr ""
+
+#: LiteBackendStrings.php:1012 LiteBackendStrings.php:1170
+#: LiteFrontendStrings.php:92
+msgid "Upcoming"
+msgstr ""
+
+#: LiteBackendStrings.php:1013
+msgid "Edit Event"
+msgstr "Rediger begivenhed"
+
+#: LiteBackendStrings.php:1014
+msgid "Attendees"
+msgstr "Deltagere"
+
+#: LiteBackendStrings.php:1015
+msgid "Add Attendee"
+msgstr "Tilføj fremmøde"
+
+#: LiteBackendStrings.php:1018
+msgid "Number of tickets"
+msgstr ""
+
+#: LiteBackendStrings.php:1019
+msgid "Edit Attendee"
+msgstr "Rediger deltager"
+
+#: LiteBackendStrings.php:1020
+msgid "The price will multiply by the number of people/spots"
+msgstr "Prisen ganges med antallet af mennesker"
+
+#: LiteBackendStrings.php:1021
+msgid "Attendee has been saved"
+msgstr "Deltageren er blevet gemt"
+
+#: LiteBackendStrings.php:1022
+msgid "Remove Attendee"
+msgstr "Fjern deltageren"
+
+#: LiteBackendStrings.php:1023
+msgid "Find Attendees"
+msgstr "Find deltagere"
+
+#: LiteBackendStrings.php:1024
+msgid "Attendee have been deleted"
+msgstr "Deltageren er blevet slettet"
+
+#: LiteBackendStrings.php:1025
+msgid "Attendees have been deleted"
+msgstr "Deltagere er blevet slettet"
+
+#: LiteBackendStrings.php:1026
+msgid "Allow the same customer to book more than once"
+msgstr ""
+
+#: LiteBackendStrings.php:1027
+msgid "Allow bringing more people"
+msgstr ""
+
+#: LiteBackendStrings.php:1028
+msgid "Cancel Event"
+msgstr "Annuller arrangement"
+
+#: LiteBackendStrings.php:1029
+msgid "Close Event after certain minimum is reached"
+msgstr ""
+
+#: LiteBackendStrings.php:1030
+msgid "Minimum of attendees"
+msgstr ""
+
+#: LiteBackendStrings.php:1031
+msgid "Minimum of bookings"
+msgstr ""
+
+#: LiteBackendStrings.php:1032
+msgid "One spot is equal to one attendee."
+msgstr ""
+
+#: LiteBackendStrings.php:1033
+msgid "One booking can have multiple attendees/spots in it."
+msgstr ""
+
+#: LiteBackendStrings.php:1034
+msgid "Set Minimum"
+msgstr ""
+
+#: LiteBackendStrings.php:1035
+msgid "Custom Address"
+msgstr "Brugerdefineret adresse"
+
+#: LiteBackendStrings.php:1036
+msgid "Delete Event"
+msgstr "Slet arrangement"
+
+#: LiteBackendStrings.php:1037
+msgid "Event has been deleted"
+msgstr "Begivenheden findes ikke længere"
+
+#: LiteBackendStrings.php:1038
+msgid "Duplicate Event"
+msgstr ""
+
+#: LiteBackendStrings.php:1039
+msgid "Name:"
+msgstr "Navn:"
+
+#: LiteBackendStrings.php:1040
+msgid "Booking closes:"
+msgstr "Booking lukker:"
+
+#: LiteBackendStrings.php:1041
+msgid "Booking opens:"
+msgstr "Booking åbner:"
+
+#: LiteBackendStrings.php:1042
+msgid "Closes on:"
+msgstr "Lukker den:"
+
+#: LiteBackendStrings.php:1043
+msgid "Opens on:"
+msgstr "Åbner den:"
+
+#: LiteBackendStrings.php:1044
+msgid "Booking closes when event starts"
+msgstr "Booking lukkes, når arrangementet starter"
+
+#: LiteBackendStrings.php:1045
+msgid "Booking opens immediately"
+msgstr "Reservation åbnes med det samme"
+
+#: LiteBackendStrings.php:1048
+msgid "Open Event"
+msgstr "Åbn arrangement"
+
+#: LiteBackendStrings.php:1049
+msgid "Recurring:"
+msgstr "Tilbagevendende:"
+
+#: LiteBackendStrings.php:1050
+msgid "This is a recurring event"
+msgstr ""
+
+#: LiteBackendStrings.php:1051
+msgid "Event has been opened"
+msgstr "Begivenheden er åbnet"
+
+#: LiteBackendStrings.php:1052
+msgid "Event has been canceled"
+msgstr "Begivenheden er aflyst"
+
+#: LiteBackendStrings.php:1053
+msgid "Event has been saved"
+msgstr "Begivenheden er gemt"
+
+#: LiteBackendStrings.php:1054
+msgid "Search Events..."
+msgstr "Søg i begivenheder ..."
+
+#: LiteBackendStrings.php:1055
+msgid "Maximum allowed spots"
+msgstr "Maksimalt tilladte pletter"
+
+#: LiteBackendStrings.php:1056
+msgid "Select Address"
+msgstr "Vælg adresse"
+
+#: LiteBackendStrings.php:1057
+msgid "Staff"
+msgstr "Medarbejdere"
+
+#: LiteBackendStrings.php:1058
+msgid "Organizer"
+msgstr ""
+
+#: LiteBackendStrings.php:1059
+msgid ""
+"Here you can choose the employee that will be added as Organizer of the "
+"Google/Outlook Event. <br>Other employees chosen under the Staff option will "
+"be added as guests."
+msgstr ""
+
+#: LiteBackendStrings.php:1060
+msgid "Dates:"
+msgstr "Datoer:"
+
+#: LiteBackendStrings.php:1061
+msgid "Tags"
+msgstr "Tags"
+
+#: LiteBackendStrings.php:1062
+msgid "Select or Create Tag"
+msgstr ""
+
+#: LiteBackendStrings.php:1063
+msgid "Enter Event Name"
+msgstr ""
+
+#: LiteBackendStrings.php:1064
+msgid "Event Gallery:"
+msgstr "Begivenhedsgalleri:"
+
+#: LiteBackendStrings.php:1065
+msgid "Event Colors:"
+msgstr "Begivenhedsfarver:"
+
+#: LiteBackendStrings.php:1066
+msgid "Preset Colors"
+msgstr "Forudindstillede farver"
+
+#: LiteBackendStrings.php:1067
+msgid "Custom Color"
+msgstr "Brugerdefineret farve"
+
+#: LiteBackendStrings.php:1068
+msgid "Show event on site"
+msgstr "Vis begivenhed på stedet"
+
+#: LiteBackendStrings.php:1069
+msgid "Booking status has been changed to "
+msgstr "Reservation status er ændret til "
+
+#: LiteBackendStrings.php:1070
+msgid "There are no attendees yet..."
+msgstr "Der er endnu ingen deltagere ..."
+
+#: LiteBackendStrings.php:1071
+msgid "New Event"
+msgstr "Ny begivenhed"
+
+#: LiteBackendStrings.php:1074
+msgid "Maximum capacity is reached"
+msgstr "Maksimal kapacitet er nået"
+
+#: LiteBackendStrings.php:1086
+msgid "This will change the time of the appointment. Continue?"
+msgstr "Dette ændrer tidspunktet for aftalen. Fortsæt?"
+
+#: LiteBackendStrings.php:1087
+msgid "Appointment can't be moved in past time period"
+msgstr "Aftalen kan ikke flyttes i den allerede forløbne periode"
+
+#: LiteBackendStrings.php:1088
+msgid "Appointment has been rescheduled"
+msgstr "Aftalen er genplanlagt"
+
+#: LiteBackendStrings.php:1090 LiteFrontendStrings.php:93
+msgid "Confirm"
+msgstr "Bekræft"
+
+#: LiteBackendStrings.php:1103
+msgid "Add Custom Field"
+msgstr "Tilføj brugerdefineret felt"
+
+#: LiteBackendStrings.php:1106
+msgid "Are you sure you want to reset your form settings?"
+msgstr ""
+
+#: LiteBackendStrings.php:1107
+msgid "Your current changes will be lost."
+msgstr ""
+
+#: LiteBackendStrings.php:1108
+msgid "Yes, Reset"
+msgstr "Nulstil"
+
+#: LiteBackendStrings.php:1109
+msgid "No, Cancel"
+msgstr "Annuller"
+
+#: LiteBackendStrings.php:1110
+msgid "Reset Form"
+msgstr ""
+
+#: LiteBackendStrings.php:1111
+msgid "Available in package"
+msgstr ""
+
+#: LiteBackendStrings.php:1112
+msgid "Bringing Anyone with You?"
+msgstr "Tager du nogen med dig?"
+
+#: LiteBackendStrings.php:1113
+msgid "Buttons"
+msgstr ""
+
+#: LiteBackendStrings.php:1115
+msgid "Default Label"
+msgstr ""
+
+#: LiteBackendStrings.php:1117
+msgid "Checkbox"
+msgstr "Afkrydsningsfelt"
+
+#: LiteBackendStrings.php:1118
+msgid "Start by clicking the Add Custom Field button"
+msgstr "Start med at klikke på knappen Tilføj brugerdefineret felt"
+
+#: LiteBackendStrings.php:1119
+msgid "Text Content"
+msgstr "Tekst indhold"
+
+#: LiteBackendStrings.php:1122
+msgid "Font"
+msgstr "Skrifttype"
+
+#: LiteBackendStrings.php:1123
+msgid "You don't have any custom fields here yet..."
+msgstr "Du har ikke nogen brugerdefinerede felter her endnu..."
+
+#: LiteBackendStrings.php:1124
+msgid "Options"
+msgstr "Indstillinger"
+
+#: LiteBackendStrings.php:1125
+msgid "Pick date & time"
+msgstr "Vælg dato og tid"
+
+#: LiteBackendStrings.php:1126 LiteFrontendStrings.php:160
+msgid "Please select service"
+msgstr "Vælg service"
+
+#: LiteBackendStrings.php:1127
+msgid "Primary Color"
+msgstr "Primær farve"
+
+#: LiteBackendStrings.php:1128
+msgid "Success Color"
+msgstr "Succes"
+
+#: LiteBackendStrings.php:1129
+msgid "Warning Color"
+msgstr "Primær farve"
+
+#: LiteBackendStrings.php:1130
+msgid "Error Color"
+msgstr "Primær farve"
+
+#: LiteBackendStrings.php:1131
+msgid "Radio Buttons"
+msgstr "Radioknapper"
+
+#: LiteBackendStrings.php:1132
+msgid "Reset"
+msgstr "Nulstil"
+
+#: LiteBackendStrings.php:1133
+msgid "Selectbox"
+msgstr "Selectbox"
+
+#: LiteBackendStrings.php:1134
+msgid "Steps"
+msgstr ""
+
+#: LiteBackendStrings.php:1136 LiteBackendStrings.php:1292
+msgid "Text"
+msgstr "Tekst"
+
+#: LiteBackendStrings.php:1137
+msgid "Text Area"
+msgstr "Tekstområde"
+
+#: LiteBackendStrings.php:1138
+msgid "Text Color"
+msgstr "Tekstfarve"
+
+#: LiteBackendStrings.php:1139
+msgid "Placeholder Color"
+msgstr "SMS-pladsholdere"
+
+#: LiteBackendStrings.php:1140
+msgid "Text Color on Background"
+msgstr "Tekstfarve på baggrund"
+
+#: LiteBackendStrings.php:1141
+msgid "Attachment"
+msgstr "Vedhæftning"
+
+#: LiteBackendStrings.php:1142
+msgid "Date Picker"
+msgstr ""
+
+#: LiteBackendStrings.php:1143
+msgid "Preview"
+msgstr ""
+
+#: LiteBackendStrings.php:1144 LiteBackendStrings.php:1236
+msgid "Background Color"
+msgstr ""
+
+#: LiteBackendStrings.php:1145
+msgid "Background Gradient Color 1"
+msgstr ""
+
+#: LiteBackendStrings.php:1146
+msgid "Background Gradient Color 2"
+msgstr ""
+
+#: LiteBackendStrings.php:1147
+msgid "Background Gradient Angle"
+msgstr ""
+
+#: LiteBackendStrings.php:1148
+msgid "Input Color"
+msgstr ""
+
+#: LiteBackendStrings.php:1149
+msgid "Input Text Color"
+msgstr ""
+
+#: LiteBackendStrings.php:1150
+msgid "Dropdown Color"
+msgstr ""
+
+#: LiteBackendStrings.php:1151
+msgid "Dropdown Text Color"
+msgstr ""
+
+#: LiteBackendStrings.php:1152
+msgid "Image Color"
+msgstr ""
+
+#: LiteBackendStrings.php:1153
+msgid "Repeat this appointment"
+msgstr "Dato for arrangementet"
+
+#: LiteBackendStrings.php:1156
+msgid "Last Name Input Field"
+msgstr ""
+
+#: LiteBackendStrings.php:1158
+msgid "Email Input Field"
+msgstr ""
+
+#: LiteBackendStrings.php:1160
+msgid "Phone Input Field"
+msgstr ""
+
+#: LiteBackendStrings.php:1161 LiteBackendStrings.php:1326
+#: LiteFrontendStrings.php:233
+msgid "Go Back"
+msgstr ""
+
+#: LiteBackendStrings.php:1163
+msgid "Display Field:"
+msgstr ""
+
+#: LiteBackendStrings.php:1164
+msgid "Mandatory Field:"
+msgstr ""
+
+#: LiteBackendStrings.php:1165
+msgid "Event Type"
+msgstr "Arrangement type"
+
+#: LiteBackendStrings.php:1167 LiteFrontendStrings.php:115
+msgid "Open"
+msgstr "Åben"
+
+#: LiteBackendStrings.php:1169
+msgid "From"
+msgstr "Fra"
+
+#: LiteBackendStrings.php:1171 LiteBackendStrings.php:1351
+msgid "Free"
+msgstr "Gratis"
+
+#: LiteBackendStrings.php:1172
+msgid "Event Price"
+msgstr "Arrangementspris"
+
+#: LiteBackendStrings.php:1173
+msgid "Service Badge"
+msgstr "Servicenavn"
+
+#: LiteBackendStrings.php:1175
+msgid "Package Name"
+msgstr ""
+
+#: LiteBackendStrings.php:1176
+msgid "Congratulations!"
+msgstr ""
+
+#: LiteBackendStrings.php:1177 LiteFrontendStrings.php:78
+msgid "Add to Calendar"
+msgstr "Tilføj til kalenderen"
+
+#: LiteBackendStrings.php:1178 LiteFrontendStrings.php:108
+msgid "Finish"
+msgstr "Afslut"
+
+#: LiteBackendStrings.php:1179
+msgid "Step By Step Booking Form"
+msgstr ""
+
+#: LiteBackendStrings.php:1180
+msgid "Event Status"
+msgstr ""
+
+#: LiteBackendStrings.php:1181 LiteFrontendStrings.php:194
+msgid "Filters"
+msgstr ""
+
+#: LiteBackendStrings.php:1182 LiteFrontendStrings.php:191
+msgid "Book event"
+msgstr ""
+
+#: LiteBackendStrings.php:1184
+msgid "Form"
+msgstr ""
+
+#: LiteBackendStrings.php:1185
+msgid "Form Flow"
+msgstr ""
+
+#: LiteBackendStrings.php:1186
+msgid "Use Global Colors"
+msgstr ""
+
+#: LiteBackendStrings.php:1187 LiteBackendStrings.php:1270
+#: LiteFrontendStrings.php:158
+msgid "Service Selection"
+msgstr ""
+
+#: LiteBackendStrings.php:1191
+msgid "No matching data"
+msgstr ""
+
+#: LiteBackendStrings.php:1193
+msgid "Bringing Anyone With You"
+msgstr ""
+
+#: LiteBackendStrings.php:1194
+msgid "Show more"
+msgstr ""
+
+#: LiteBackendStrings.php:1195
+msgid "Show less"
+msgstr ""
+
+#: LiteBackendStrings.php:1197 LiteFrontendStrings.php:163
+msgid "Date & Time"
+msgstr ""
+
+#: LiteBackendStrings.php:1198
+msgid "All slots are selected"
+msgstr ""
+
+#: LiteBackendStrings.php:1199 LiteBackendStrings.php:1385
+#: LiteFrontendStrings.php:164 LiteFrontendStrings.php:201
+msgid "Your Information"
+msgstr ""
+
+#: LiteBackendStrings.php:1200 LiteFrontendStrings.php:165
+msgid "Enter first name"
+msgstr ""
+
+#: LiteBackendStrings.php:1202 LiteFrontendStrings.php:166
+msgid "Enter last name"
+msgstr ""
+
+#: LiteBackendStrings.php:1204 LiteFrontendStrings.php:167
+msgid "Enter email"
+msgstr ""
+
+#: LiteBackendStrings.php:1205
+msgid "Please enter valid email"
+msgstr ""
+
+#: LiteBackendStrings.php:1206 LiteFrontendStrings.php:168
+msgid "Enter phone"
+msgstr ""
+
+#: LiteBackendStrings.php:1207
+msgid "Please enter phone"
+msgstr ""
+
+#: LiteBackendStrings.php:1210 LiteFrontendStrings.php:154
+msgid "Summary"
+msgstr ""
+
+#: LiteBackendStrings.php:1212
+msgid "Service Subtotal"
+msgstr ""
+
+#: LiteBackendStrings.php:1213
+msgid "people"
+msgstr ""
+
+#: LiteBackendStrings.php:1215 LiteBackendStrings.php:1218
+msgid "Total Amount"
+msgstr ""
+
+#: LiteBackendStrings.php:1216 LiteFrontendStrings.php:150
+msgid "The payment will be done on-site."
+msgstr ""
+
+#: LiteBackendStrings.php:1217 LiteFrontendStrings.php:173
+msgid "Appointment ID"
+msgstr ""
+
+#: LiteBackendStrings.php:1220 LiteFrontendStrings.php:156
+msgid "Your Name"
+msgstr ""
+
+#: LiteBackendStrings.php:1221 LiteFrontendStrings.php:147
+msgid "Email Address"
+msgstr ""
+
+#: LiteBackendStrings.php:1222 LiteFrontendStrings.php:151
+msgid "Phone Number"
+msgstr ""
+
+#: LiteBackendStrings.php:1224 LiteFrontendStrings.php:177
+msgid "Local Time"
+msgstr ""
+
+#: LiteBackendStrings.php:1228
+msgid "Choose a Form"
+msgstr ""
+
+#: LiteBackendStrings.php:1229
+msgid ""
+"Choose a form you want to customize. The Step-by-Step 2.0 form is the new "
+"and improved version which provides you with better design and user "
+"experience, as well as better speed."
+msgstr ""
+
+#: LiteBackendStrings.php:1230
+msgid "Step-by-Step Booking Form 2.0"
+msgstr ""
+
+#: LiteBackendStrings.php:1231
+msgid "Booking Forms 1.0"
+msgstr ""
+
+#: LiteBackendStrings.php:1232
+msgid ""
+"Redesigned and upgraded Step-by-Step Booking form with a better user "
+"experience, animations, improved speed, and a stand-out design!"
+msgstr ""
+
+#: LiteBackendStrings.php:1233
+msgid ""
+"Step-by-Step 1.0 Booking, Catalog Booking, Search Booking, Event List and "
+"Event Calendar Bookings."
+msgstr ""
+
+#: LiteBackendStrings.php:1234
+msgid "Primary and state colors"
+msgstr ""
+
+#: LiteBackendStrings.php:1235 LiteBackendStrings.php:1281
+msgid "Sidebar"
+msgstr ""
+
+#: LiteBackendStrings.php:1237
+msgid "Content"
+msgstr ""
+
+#: LiteBackendStrings.php:1238
+msgid "Heading Text Color"
+msgstr "Tekstfarve"
+
+#: LiteBackendStrings.php:1239
+msgid "Content Text Color"
+msgstr "Tekstfarve"
+
+#: LiteBackendStrings.php:1240
+msgid "Input Fields"
+msgstr ""
+
+#: LiteBackendStrings.php:1241
+msgid "Border Color"
+msgstr "Forudindstillede farver"
+
+#: LiteBackendStrings.php:1242
+msgid "Dropdowns"
+msgstr ""
+
+#: LiteBackendStrings.php:1243
+msgid "Init Cell"
+msgstr ""
+
+#: LiteBackendStrings.php:1244
+msgid "Init Cell Text"
+msgstr ""
+
+#: LiteBackendStrings.php:1245
+msgid "Cell Selected Background"
+msgstr ""
+
+#: LiteBackendStrings.php:1246
+msgid "Cell Selected Text"
+msgstr ""
+
+#: LiteBackendStrings.php:1247
+msgid "Cell Disabled Background"
+msgstr ""
+
+#: LiteBackendStrings.php:1248
+msgid "Cell Disabled Text"
+msgstr ""
+
+#: LiteBackendStrings.php:1249
+msgid "Primary Button Background Color"
+msgstr ""
+
+#: LiteBackendStrings.php:1250
+msgid "Primary Button Text Color"
+msgstr "Primær farve"
+
+#: LiteBackendStrings.php:1251
+msgid "Secondary Button Background Color"
+msgstr ""
+
+#: LiteBackendStrings.php:1252
+msgid "Secondary Button Text Color"
+msgstr ""
+
+#: LiteBackendStrings.php:1253
+msgid "Layout & Inputs"
+msgstr ""
+
+#: LiteBackendStrings.php:1254
+msgid "Colors"
+msgstr ""
+
+#: LiteBackendStrings.php:1255
+msgid "Fonts"
+msgstr ""
+
+#: LiteBackendStrings.php:1256
+msgid "Order"
+msgstr ""
+
+#: LiteBackendStrings.php:1257
+msgid "Step Title"
+msgstr ""
+
+#: LiteBackendStrings.php:1258
+msgid "Footer Buttons"
+msgstr ""
+
+#: LiteBackendStrings.php:1259
+msgid "Step Content"
+msgstr ""
+
+#: LiteBackendStrings.php:1260 LiteBackendStrings.php:1302
+msgid "Finish Button Type"
+msgstr ""
+
+#: LiteBackendStrings.php:1261 LiteBackendStrings.php:1303
+msgid "Panel Button Type"
+msgstr ""
+
+#: LiteBackendStrings.php:1262
+msgid "Summary Segment"
+msgstr ""
+
+#: LiteBackendStrings.php:1263
+msgid "Payment Segment"
+msgstr ""
+
+#: LiteBackendStrings.php:1264
+msgid "Heading Title"
+msgstr ""
+
+#: LiteBackendStrings.php:1265
+msgid "Sub Steps"
+msgstr ""
+
+#: LiteBackendStrings.php:1268
+msgid "Fonts and colors"
+msgstr ""
+
+#: LiteBackendStrings.php:1269
+msgid "Set up Sidebar visibility and its content"
+msgstr ""
+
+#: LiteBackendStrings.php:1271
+msgid "Set up Services, Locations, Employees selection options"
+msgstr ""
+
+#: LiteBackendStrings.php:1272
+msgid "Date & Time Selection"
+msgstr "Dato og tidsperiode for arrangementet"
+
+#: LiteBackendStrings.php:1273
+msgid "Set up Calendar layout and Recurring popup options"
+msgstr ""
+
+#: LiteBackendStrings.php:1274
+msgid "Customer Information"
+msgstr "Besked fra køber"
+
+#: LiteBackendStrings.php:1275 LiteBackendStrings.php:1369
+msgid "Field order, mandatory fields, labels and display options"
+msgstr ""
+
+#: LiteBackendStrings.php:1276
+msgid "Payment Summary"
+msgstr "Betalingshistorik"
+
+#: LiteBackendStrings.php:1277 LiteBackendStrings.php:1371
+msgid "Set up labels and buttons"
+msgstr ""
+
+#: LiteBackendStrings.php:1278 LiteBackendStrings.php:1373
+msgid "Set up button types and labels"
+msgstr ""
+
+#: LiteBackendStrings.php:1280
+msgid "Global Settings"
+msgstr ""
+
+#: LiteBackendStrings.php:1282
+msgid "Section"
+msgstr "Handling"
+
+#: LiteBackendStrings.php:1283
+msgid "Field Order"
+msgstr ""
+
+#: LiteBackendStrings.php:1284 LiteBackendStrings.php:1372
+#: LiteBackendStrings.php:1392 LiteFrontendStrings.php:94
+#: LiteFrontendStrings.php:199
+msgid "Congratulations"
+msgstr "Tillykke"
+
+#: LiteBackendStrings.php:1286
+msgid "Footer"
+msgstr ""
+
+#: LiteBackendStrings.php:1287 LiteFrontendStrings.php:148
+msgid "Get in Touch"
+msgstr ""
+
+#: LiteBackendStrings.php:1288
+msgid "Collapse Menu"
+msgstr ""
+
+#: LiteBackendStrings.php:1290
+msgid "Filled"
+msgstr ""
+
+#: LiteBackendStrings.php:1291
+msgid "Plain"
+msgstr ""
+
+#: LiteBackendStrings.php:1294
+msgid "Continue Button Type"
+msgstr ""
+
+#: LiteBackendStrings.php:1295
+msgid "Calendar Slot End Time"
+msgstr ""
+
+#: LiteBackendStrings.php:1296
+msgid "Show Busy Time Slots"
+msgstr ""
+
+#: LiteBackendStrings.php:1297
+msgid "Calendar Time Zone"
+msgstr ""
+
+#: LiteBackendStrings.php:1304
+msgid "Sidebar Visibility"
+msgstr ""
+
+#: LiteBackendStrings.php:1305
+msgid "Publish Form"
+msgstr ""
+
+#: LiteBackendStrings.php:1307 LiteFrontendStrings.php:228
+msgid "View All"
+msgstr "Vis"
+
+#: LiteBackendStrings.php:1309
+msgid "Set up categories cards"
+msgstr "Vis alle kategorier"
+
+#: LiteBackendStrings.php:1310
+msgid "Cards"
+msgstr ""
+
+#: LiteBackendStrings.php:1311
+msgid "Card Button Type"
+msgstr "Radioknapper"
+
+#: LiteBackendStrings.php:1312
+msgid "Services Overview"
+msgstr "Servicepris"
+
+#: LiteBackendStrings.php:1313
+msgid "Set up Services view"
+msgstr "Sorter Services:"
+
+#: LiteBackendStrings.php:1314
+msgid "Service Details"
+msgstr "Serviceoplysninger"
+
+#: LiteBackendStrings.php:1315
+msgid "Set up Service detailed view"
+msgstr "Serviceoplysninger"
+
+#: LiteBackendStrings.php:1316
+msgid "Booking Form"
+msgstr "Booking"
+
+#: LiteBackendStrings.php:1317
+msgid "Set options, colors and labels for booking form"
+msgstr ""
+
+#: LiteBackendStrings.php:1319
+msgid "Catalog Booking Form 2.0"
+msgstr ""
+
+#: LiteBackendStrings.php:1320
+msgid ""
+"Modernized Catalog Booking Form 2.0 with better user experience, improved "
+"speed, animation and a stand-out design!"
+msgstr ""
+
+#: LiteBackendStrings.php:1323
+msgid "Total Number of Services"
+msgstr "Antal personer i alt:"
+
+#: LiteBackendStrings.php:1324
+msgid "Back Button"
+msgstr "Radioknapper"
+
+#: LiteBackendStrings.php:1325
+msgid "“Back” Button Type"
+msgstr ""
+
+#: LiteBackendStrings.php:1327
+msgid "“Book Now” Button Type"
+msgstr ""
+
+#: LiteBackendStrings.php:1330
+msgid "Main Category Button"
+msgstr "Kategori navn"
+
+#: LiteBackendStrings.php:1331
+msgid "Category Card Side Color"
+msgstr ""
+
+#: LiteBackendStrings.php:1335
+msgid "Filter Menu Button Type"
+msgstr ""
+
+#: LiteBackendStrings.php:1336 LiteBackendStrings.php:1338
+msgid "Categories Sidebar"
+msgstr "Kategorier"
+
+#: LiteBackendStrings.php:1337
+msgid "Filters Block"
+msgstr ""
+
+#: LiteBackendStrings.php:1339
+msgid "Page Header"
+msgstr ""
+
+#: LiteBackendStrings.php:1340
+msgid "Main Content"
+msgstr ""
+
+#: LiteBackendStrings.php:1341
+msgid "Service Category"
+msgstr "Service Katagori"
+
+#: LiteBackendStrings.php:1342
+msgid "Service Duration"
+msgstr "Ydelsevarighed"
+
+#: LiteBackendStrings.php:1343 LiteBackendStrings.php:1353
+#: LiteFrontendStrings.php:231
+msgid "About Service"
+msgstr "Tilføj Service"
+
+#: LiteBackendStrings.php:1344
+msgid "“Search” option"
+msgstr "Søg kuponer"
+
+#: LiteBackendStrings.php:1346 LiteFrontendStrings.php:229
+msgid "Search"
+msgstr "Søg"
+
+#: LiteBackendStrings.php:1347 LiteFrontendStrings.php:247
+msgid "Available"
+msgstr "Tilgængelig"
+
+#: LiteBackendStrings.php:1350
+msgid "No results"
+msgstr "resultater"
+
+#: LiteBackendStrings.php:1352 LiteFrontendStrings.php:230
+msgid "Book Now"
+msgstr "Book"
+
+#: LiteBackendStrings.php:1354 LiteFrontendStrings.php:232
+msgid "View all photos"
+msgstr "Vis alle butikker"
+
+#: LiteBackendStrings.php:1356
+msgid "Support Heading:"
+msgstr "Afventer"
+
+#: LiteBackendStrings.php:1357
+msgid "Company Phone:"
+msgstr "Firmatelefon"
+
+#: LiteBackendStrings.php:1358
+msgid "Company Email:"
+msgstr "Firmanavn"
+
+#: LiteBackendStrings.php:1361
+#, fuzzy
+#| msgid "Booking Form"
+msgid "Event List Booking Form 2.0"
+msgstr "Booking"
+
+#: LiteBackendStrings.php:1362
+msgid ""
+"Modernized Event List Booking Form 2.0 with better user experience, improved "
+"speed, animation and a stand-out design!"
+msgstr ""
+
+#: LiteBackendStrings.php:1364
+msgid "Events List"
+msgstr ""
+
+#: LiteBackendStrings.php:1365
+msgid ""
+"Set up Location, Images, Filters, Capacity, Price, and Status visibility "
+"options"
+msgstr ""
+
+#: LiteBackendStrings.php:1366 LiteBackendStrings.php:1389
+#: LiteFrontendStrings.php:107
+msgid "Event Info"
+msgstr "Beskrivelse"
+
+#: LiteBackendStrings.php:1367
+msgid "Set up Staff, Location, Gallery and other Event information visibility"
+msgstr ""
+
+#: LiteBackendStrings.php:1368
+#, fuzzy
+#| msgid "Customer note"
+msgid "Customer Info"
+msgstr "Besked fra køber"
+
+#: LiteBackendStrings.php:1375 LiteFrontendStrings.php:203
+#, fuzzy
+#| msgid "Available"
+msgid "Events Available"
+msgstr "Tilgængelig"
+
+#: LiteBackendStrings.php:1376 LiteFrontendStrings.php:204
+#, fuzzy
+#| msgid "Available"
+msgid "Event Available"
+msgstr "Tilgængelig"
+
+#: LiteBackendStrings.php:1377
+msgid "Page"
+msgstr ""
+
+#: LiteBackendStrings.php:1378 LiteFrontendStrings.php:205
+#, fuzzy
+#| msgid "Search Events..."
+msgid "Search for Events"
+msgstr "Søg i begivenheder ..."
+
+#: LiteBackendStrings.php:1379
+msgid "Begins"
+msgstr ""
+
+#: LiteBackendStrings.php:1380 LiteFrontendStrings.php:206
+msgid "slot left"
+msgstr ""
+
+#: LiteBackendStrings.php:1381 LiteFrontendStrings.php:207
+msgid "slots left"
+msgstr ""
+
+#: LiteBackendStrings.php:1382 LiteFrontendStrings.php:208
+#, fuzzy
+#| msgid "View more"
+msgid "Learn more"
+msgstr "Se mere"
+
+#: LiteBackendStrings.php:1383 LiteFrontendStrings.php:209
+#, fuzzy
+#| msgid "View more"
+msgid "Read more"
+msgstr "Se mere"
+
+#: LiteBackendStrings.php:1387 LiteFrontendStrings.php:174
+#, fuzzy
+#| msgid "Event Day"
+msgid "Event ID"
+msgstr "Begivenhedsdato"
+
+#: LiteBackendStrings.php:1388
+msgid "About"
+msgstr ""
+
+#: LiteBackendStrings.php:1390 LiteFrontendStrings.php:210
+#, fuzzy
+#| msgid "Timeline"
+msgid "Timetable"
+msgstr "Tidslinje"
+
+#: LiteBackendStrings.php:1393 LiteFrontendStrings.php:202
+#, fuzzy
+#| msgid "About this Event"
+msgid "About Event"
+msgstr "Om denne begivenhed"
+
+#: LiteBackendStrings.php:1394 LiteFrontendStrings.php:195
+#, fuzzy
+#| msgid "Event Date"
+msgid "Event Starts"
+msgstr "Begivenhedsdato"
+
+#: LiteBackendStrings.php:1395 LiteFrontendStrings.php:196
+#, fuzzy
+#| msgid "Events"
+msgid "Event Ends"
+msgstr "Begivenheder"
+
+#: LiteBackendStrings.php:1396 LiteFrontendStrings.php:197
+msgid "at"
+msgstr "Dato"
+
+#: LiteBackendStrings.php:1397 LiteFrontendStrings.php:211
+msgid "How many attendees do you want to book event for?"
+msgstr ""
+
+#: LiteBackendStrings.php:1400
+#, fuzzy
+#| msgid "Search Filters"
+msgid "Step Filters"
+msgstr "Søge kriterier"
+
+#: LiteBackendStrings.php:1401
+#, fuzzy
+#| msgid "Event Day"
+msgid "Event Card"
+msgstr "Begivenhedsdato"
+
+#: LiteBackendStrings.php:1402
+msgid "Step Pagination"
+msgstr ""
+
+#: LiteBackendStrings.php:1403
+#, fuzzy
+#| msgid "Spots capacity"
+msgid "Event Slots Capacity"
+msgstr "Kapacitet"
+
+#: LiteBackendStrings.php:1404
+#, fuzzy
+#| msgid "Card Button Type"
+msgid "Filters Button Type"
+msgstr "Radioknapper"
+
+#: LiteBackendStrings.php:1405
+#, fuzzy
+#| msgid "Card Button Type"
+msgid "Read More Button Type"
+msgstr "Radioknapper"
+
+#: LiteBackendStrings.php:1406
+#, fuzzy
+#| msgid "Card Button Type"
+msgid "Learn More Button Type"
+msgstr "Radioknapper"
+
+#: LiteBackendStrings.php:1407
+#, fuzzy
+#| msgid "Event name"
+msgid "Event Tab Image"
+msgstr "Arrangementsnavn"
+
+#: LiteBackendStrings.php:1408
+msgid "Step Header"
+msgstr ""
+
+#: LiteBackendStrings.php:1409
+msgid "Step Info Tab"
+msgstr ""
+
+#: LiteBackendStrings.php:1410
+#, fuzzy
+#| msgid "Booking Start"
+msgid "Booking Event Button"
+msgstr "Bookingstart"
+
+#: LiteBackendStrings.php:1411
+#, fuzzy
+#| msgid "Finish"
+msgid "Finish Button"
+msgstr "Afslut"
+
+#: LiteBackendStrings.php:1412
+msgid "Close Event Button"
+msgstr ""
+
+#: LiteBackendStrings.php:1413
+#, fuzzy
+#| msgid "Event Gallery:"
+msgid "Event Gallery"
+msgstr "Begivenhedsgalleri:"
+
+#: LiteBackendStrings.php:1414
+msgid "Event Description"
+msgstr "Begivenhedsbeskrivelse"
+
+#: LiteBackendStrings.php:1424
+msgid "Catalog"
+msgstr "Katalog"
+
+#: LiteBackendStrings.php:1425
+msgid "Choose Category"
+msgstr ""
+
+#: LiteBackendStrings.php:1426
+msgid "Choose Service"
+msgstr ""
+
+#: LiteBackendStrings.php:1427
+msgid "Choose Package"
+msgstr ""
+
+#: LiteBackendStrings.php:1428
+msgid "Preselect Booking Parameters"
+msgstr "Forudvælg booking parametre"
+
+#: LiteBackendStrings.php:1429
+#, fuzzy
+#| msgid "Categories"
+msgid "Skip Categories step"
+msgstr "Kategorier"
+
+#: LiteBackendStrings.php:1430
+msgid "Insert Amelia Booking Shortcode"
+msgstr "Indsæt Amelia Booking genvejskode"
+
+#: LiteBackendStrings.php:1431
+msgid "Select Catalog View"
+msgstr "Vælg katalogvisning"
+
+#: LiteBackendStrings.php:1432
+msgid "Select Category"
+msgstr "Vælg kategori"
+
+#: LiteBackendStrings.php:1433
+msgid "Select Employee"
+msgstr ""
+"Vælg \n"
+"Medarbejder"
+
+#: LiteBackendStrings.php:1434
+msgid "Select Location"
+msgstr "Vælg Lokation"
+
+#: LiteBackendStrings.php:1435
+msgid "Select Package"
+msgstr ""
+
+#: LiteBackendStrings.php:1437
+msgid "Select Event"
+msgstr "Vælg hold"
+
+#: LiteBackendStrings.php:1438
+msgid "Select Tag"
+msgstr "Vælg Tag"
+
+#: LiteBackendStrings.php:1439
+msgid "Select View"
+msgstr "Vælg visning"
+
+#: LiteBackendStrings.php:1441
+msgid "Show All"
+msgstr ""
+
+#: LiteBackendStrings.php:1442
+msgid "Load booking form manually"
+msgstr ""
+
+#: LiteBackendStrings.php:1443
+msgid ""
+"Add element (button, link...) ID, that will manually load amelia shortcode "
+"content"
+msgstr ""
+
+#: LiteBackendStrings.php:1444
+msgid "Show all categories"
+msgstr "Vis alle kategorier"
+
+#: LiteBackendStrings.php:1445
+msgid "Show all employees"
+msgstr "Vis alle ansatte"
+
+#: LiteBackendStrings.php:1446
+msgid "Show all locations"
+msgstr "Vis alle butikker"
+
+#: LiteBackendStrings.php:1447
+msgid "Show all services"
+msgstr "Vis alle behandlinger"
+
+#: LiteBackendStrings.php:1448
+msgid "Show all events"
+msgstr "Vis alle hold"
+
+#: LiteBackendStrings.php:1449
+msgid "Show all packages"
+msgstr "Vis alle tags"
+
+#: LiteBackendStrings.php:1450
+msgid "Show all tags"
+msgstr "Vis alle tags"
+
+#: LiteBackendStrings.php:1451
+msgid "Show catalog of all categories"
+msgstr "Vis katalog over alle kategorier"
+
+#: LiteBackendStrings.php:1452
+msgid "Show specific category"
+msgstr "Vis specifik kategori"
+
+#: LiteBackendStrings.php:1453
+#, fuzzy
+#| msgid "Show specific category"
+msgid "Show specific categories"
+msgstr "Vis specifik kategori"
+
+#: LiteBackendStrings.php:1454
+msgid "Show specific package"
+msgstr ""
+
+#: LiteBackendStrings.php:1455
+#, fuzzy
+#| msgid "Show specific category"
+msgid "Show specific packages"
+msgstr "Vis specifik kategori"
+
+#: LiteBackendStrings.php:1456
+msgid "Show event"
+msgstr "Vis hold"
+
+#: LiteBackendStrings.php:1457
+msgid "Show Type"
+msgstr ""
+
+#: LiteBackendStrings.php:1458
+msgid "List (default)"
+msgstr ""
+
+#: LiteBackendStrings.php:1460
+msgid "Show tag"
+msgstr "Vis tag"
+
+#: LiteBackendStrings.php:1461
+msgid "Show specific service"
+msgstr "Vis specifik behandling"
+
+#: LiteBackendStrings.php:1462
+#, fuzzy
+#| msgid "Show specific service"
+msgid "Show specific services"
+msgstr "Vis specifik behandling"
+
+#: LiteBackendStrings.php:1463
+msgid "Trigger type"
+msgstr ""
+
+#: LiteBackendStrings.php:1464
+msgid "Id"
+msgstr ""
+
+#: LiteBackendStrings.php:1465
+msgid "Class"
+msgstr ""
+
+#: LiteBackendStrings.php:1466
+msgid "Trigger by attribute"
+msgstr ""
+
+#: LiteBackendStrings.php:1467
+msgid "Step Booking"
+msgstr ""
+
+#: LiteBackendStrings.php:1468
+msgid "Catalog Booking"
+msgstr "Gennemsnitlige bookinger"
+
+#: LiteBackendStrings.php:1469
+#, fuzzy
+#| msgid "Event Booked"
+msgid "Events List Booking"
+msgstr "Arrangementet er reserveret"
+
+#: LiteBackendStrings.php:1470
+msgid "Show recurring events"
+msgstr "Vis tilbagevendende hold"
+
+#: LiteBackendStrings.php:1471
+msgid "Show in Amelia Popup"
+msgstr ""
+
+#: LiteBackendStrings.php:1473
+msgid "AM - Booking view"
+msgstr ""
+
+#: LiteBackendStrings.php:1474
+msgid "AM - Step Booking"
+msgstr ""
+
+#: LiteBackendStrings.php:1475
+msgid "AM - Catalog Booking"
+msgstr "Amelia - Visning af katalog"
+
+#: LiteBackendStrings.php:1476
+msgid "AM - Catalog view"
+msgstr ""
+
+#: LiteBackendStrings.php:1477
+msgid "AM - Events view"
+msgstr ""
+
+#: LiteBackendStrings.php:1478
+#, fuzzy
+#| msgid "AM - Catalog Booking"
+msgid "AM - Events List Booking"
+msgstr "Amelia - Visning af katalog"
+
+#: LiteBackendStrings.php:1480
+msgid "Amelia - Booking view"
+msgstr "Amelia - Bookingvisning"
+
+#: LiteBackendStrings.php:1481
+msgid ""
+"Step-By-Step Booking Wizard gives your customers the option to choose "
+"everything about the booking in a few steps"
+msgstr ""
+"Trin-for-trin reservationsguide giver dine kunder muligheden for at vælge "
+"alt om reservationen i et par trin"
+
+#: LiteBackendStrings.php:1484
+msgid "Amelia - Step-By-Step Booking"
+msgstr ""
+
+#: LiteBackendStrings.php:1485
+msgid ""
+"Step-by-Step booking view guides the customers through several steps in "
+"order to make their bookings."
+msgstr ""
+
+#: LiteBackendStrings.php:1488
+msgid "Amelia - Catalog Booking"
+msgstr "Amelia - Visning af katalog"
+
+#: LiteBackendStrings.php:1489
+msgid ""
+"Front-end Booking Catalog is shortcode when you want to show your service in "
+"a form of a catalog"
+msgstr ""
+"Fronting Booking Catalog er en kort kode, når du vil vise din service i form "
+"af en katalog"
+
+#: LiteBackendStrings.php:1492
+msgid "Amelia - Catalog view"
+msgstr "Amelia - Visning af katalog"
+
+#: LiteBackendStrings.php:1493
+msgid ""
+"Front-end Booking Catalog is shortcode when you want to show your service in "
+"a form of a cataloge"
+msgstr ""
+"Fronting Booking Catalog er en kort kode, når du vil vise din service i form "
+"af en katalog"
+
+#: LiteBackendStrings.php:1496
+msgid "Amelia - Events"
+msgstr "Amelia - Begivenheder"
+
+#: LiteBackendStrings.php:1497 LiteBackendStrings.php:1501
+msgid ""
+"Event Booking is shortcode that gives your customers the option to book one "
+"of the events that you've created on the back-end in a simple event list "
+"view."
+msgstr ""
+"Begivenhedsreservation er en kort kode, der giver dine kunder mulighed for "
+"at booke en af de begivenheder, som du har oprettet på bagsiden i en simpel "
+"begivenhedslistevisning."
+
+#: LiteBackendStrings.php:1500
+#, fuzzy
+#| msgid "Amelia - Events"
+msgid "Amelia - Events List"
+msgstr "Amelia - Begivenheder"
+
+#: LiteBackendStrings.php:1521
+msgid "Recurring Appointments"
+msgstr "Ventende aftaler"
+
+#: LiteFrontendStrings.php:79
+msgid ""
+"It seems like there are no employees or services created, or no  employees "
+"are assigned to the service, at this moment."
+msgstr ""
+
+#: LiteFrontendStrings.php:80
+msgid "If you are the admin of this page, see how to"
+msgstr ""
+
+#: LiteFrontendStrings.php:81
+msgid "Add services"
+msgstr ""
+
+#: LiteFrontendStrings.php:82
+msgid "employees."
+msgstr ""
+
+#: LiteFrontendStrings.php:83
+msgid "Back"
+msgstr "Tilbage"
+
+#: LiteFrontendStrings.php:84
+msgid "Base Price:"
+msgstr "Basispris:"
+
+#: LiteFrontendStrings.php:85
+msgid "Thank you! Your booking is completed."
+msgstr "Tak skal du have! Din reservation er afsluttet."
+
+#: LiteFrontendStrings.php:86
+msgid "Maximum bookings reached"
+msgstr "Maksimal kapacitet er nået"
+
+#: LiteFrontendStrings.php:89 LiteFrontendStrings.php:193
+msgid "Capacity:"
+msgstr "Kapacitet:"
+
+#: LiteFrontendStrings.php:95
+msgid "You have already booked this appointment"
+msgstr "Du har allerede reserveret denne aftale"
+
+#: LiteFrontendStrings.php:96
+msgid "You have already booked this event"
+msgstr ""
+
+#: LiteFrontendStrings.php:98
+msgid "Duration:"
+msgstr "Varighed:"
+
+#: LiteFrontendStrings.php:100
+msgid "Email already exists with different name. Please check your name."
+msgstr "E-mail findes allerede med andet navn. Kontroller dit navn."
+
+#: LiteFrontendStrings.php:104
+msgid "Please enter phone number"
+msgstr "Indtast venligst telefonnummer"
+
+#: LiteFrontendStrings.php:106
+msgid "Please enter a valid phone number"
+msgstr "Indtast et gyldigt telefonnummer"
+
+#: LiteFrontendStrings.php:109
+msgid "First Name:"
+msgstr "Fornavn:"
+
+#: LiteFrontendStrings.php:111
+msgid "Last Name:"
+msgstr "Efternavn:"
+
+#: LiteFrontendStrings.php:114
+msgid "Oops..."
+msgstr ""
+
+#: LiteFrontendStrings.php:117
+msgid "Price:"
+msgstr "Pris:"
+
+#: LiteFrontendStrings.php:118
+msgid "Select Calendar"
+msgstr "Vælg kalender"
+
+#: LiteFrontendStrings.php:119
+msgid "services"
+msgstr "services"
+
+#: LiteFrontendStrings.php:120
+msgid "Local Time:"
+msgstr "Lokal tid:"
+
+#: LiteFrontendStrings.php:122
+msgid "Total Cost:"
+msgstr "Udgifter i alt:"
+
+#: LiteFrontendStrings.php:123
+msgid "Total Number of People:"
+msgstr ""
+
+#: LiteFrontendStrings.php:149
+msgid "Collapse menu"
+msgstr ""
+
+#: LiteFrontendStrings.php:152
+msgid "Pick date & time:"
+msgstr "Vælg dato og tid:"
+
+#: LiteFrontendStrings.php:153
+msgid "Please select"
+msgstr "Vælg venligst"
+
+#: LiteFrontendStrings.php:155
+msgid "Total Amount:"
+msgstr ""
+
+#: LiteFrontendStrings.php:171
+msgid "person"
+msgstr ""
+
+#: LiteFrontendStrings.php:192
+msgid "Book this event"
+msgstr "Book denne begivenhed"
+
+#: LiteFrontendStrings.php:224
+msgid "Category:"
+msgstr "Kategori:"
+
+#: LiteFrontendStrings.php:226
+msgid "Info"
+msgstr "Info"
+
+#: LiteFrontendStrings.php:227
+msgid "View More"
+msgstr "Se mere"
+
+#: LiteFrontendStrings.php:248
+msgid "Booking can't be canceled"
+msgstr "Bookingen kan ikke annulleres"
+
+#~ msgid "All"
+#~ msgstr "Alle"
+
+#~ msgid "All Locations"
+#~ msgstr "Alle lokationer"
+
+#~ msgid "All events"
+#~ msgstr "Alle arrangementer"
+
+#~ msgid "Booking"
+#~ msgstr "Booking"
+
+#~ msgid "Create"
+#~ msgstr "Opret"
+
+#~ msgid "Semicolon (;)"
+#~ msgstr "Semikolon (;)"
+
+#~ msgid "The coupon you entered is not valid"
+#~ msgstr "Den indtastede kupon er ikke gyldig"
+
+#, fuzzy
+#~| msgid "You have already booked this appointment"
+#~ msgid "Customer has already booked this appointment"
+#~ msgstr "Du har allerede reserveret denne aftale"
+
+#~ msgid "Specific Date"
+#~ msgstr "Vis specifik kategori"
+
+#~ msgid "Day"
+#~ msgstr "Dag"
+
+#~ msgid "Days"
+#~ msgstr "Faste fridage"
+
+#~ msgid "Week"
+#~ msgstr "Uge"
+
+#~ msgid "Weeks"
+#~ msgstr "Uge"
+
+#~ msgid "Month"
+#~ msgstr "Måned"
+
+#~ msgid "Months"
+#~ msgstr "Måned"
+
+#~ msgid "Discard"
+#~ msgstr "Kassér"
+
+#~ msgid "Discount (%)"
+#~ msgstr "Rabat (%)"
+
+#~ msgid "New Space"
+#~ msgstr "Ny service"
+
+#~ msgid "You don't have any employees here yet..."
+#~ msgstr "Du har ikke nogen ansatte her endnu ..."
+
+#~ msgid "OK"
+#~ msgstr "OK"
+
+#~ msgid "Here you can enable/disable On-Site payments for this service"
+#~ msgstr ""
+#~ "Her kan du aktivere / deaktivere betalinger på stedet for denne service"
+
+#~ msgid ""
+#~ "Here you can select which payment methods will be available.<br/>If you "
+#~ "disable all payment methods,<br/>then the default payment method from "
+#~ "general settings will be used."
+#~ msgstr ""
+#~ "Her kan du vælge, hvilke betalingsmetoder der vil være tilgængelige.<br/"
+#~ ">Hvis du deaktiverer alle betalingsmetoder,<br/>bruges standard "
+#~ "betalingsmetode fra generelle indstillinger."
+
+#~ msgid ""
+#~ "You have disabled all available payment methods. This means that default "
+#~ "payment method from general settings will be used."
+#~ msgstr ""
+#~ "Du har deaktiveret alle tilgængelige betalingsmetoder. Dette betyder, at "
+#~ "standard betalingsmetode fra generelle indstillinger bruges."
+
+#~ msgid ""
+#~ "Some services/events have all payment methods disabled. This means that "
+#~ "default payment method will be used for those services/events."
+#~ msgstr ""
+#~ "Nogle tjenester / begivenheder har alle betalingsmetoder deaktiveret. "
+#~ "Dette betyder, at standardbetalingsmetode bruges til disse tjenester / "
+#~ "begivenheder."
+
+#~ msgid "Period"
+#~ msgstr "Periode"
+
+#~ msgid ""
+#~ "<p>The <strong>Amelia</strong> plugin requires PHP version 5.5 or greater."
+#~ "</p>"
+#~ msgstr ""
+#~ "<p><strong>Amelia</strong> pluginnet kræver PHP version 5.5 eller højere. "
+#~ "</p>"
+
+#~ msgid "Plugin Activation Error"
+#~ msgstr "Plugin aktiveringsfejl"
+
+#~ msgid "Pick a date range"
+#~ msgstr "Vælg et datointerval"
+
+#~ msgid "Recurring"
+#~ msgstr "Tilbagevendende:"
+
+#~ msgid "Daily"
+#~ msgstr "Daglig"
+
+#~ msgid "Monthly"
+#~ msgstr "Månedlig"
+
+#~ msgid "Weekly"
+#~ msgstr "Ugentlig"
+
+#~ msgid "Yearly"
+#~ msgstr "Årlig"
+
+#~ msgid "This field is required"
+#~ msgstr "Feltet er påkrævet"
+
+#~ msgid "Every:"
+#~ msgstr "Begivenhedsgalleri:"
+
+#~ msgid "Select Time"
+#~ msgstr "Vælg Tidspunkt"
+
+#~ msgid "Sort"
+#~ msgstr "Sorter"
+
+#~ msgid "Type"
+#~ msgstr "Type"
+
+#~ msgid "Zoom Join Link (Participants)"
+#~ msgstr "Zoom tilmeldingslink (deltagere)"
+
+#~ msgid "Zoom Start Link (Host)"
+#~ msgstr "Zoom startlink (vært)"
+
+#~ msgid "Zoom User"
+#~ msgstr "Zoom bruger"
+
+#~ msgid "Select Zoom User"
+#~ msgstr "Vælg Zoom bruger"
+
+#~ msgid "Unlimited"
+#~ msgstr "Ubegrænset"
+
+#, fuzzy
+#~| msgid "New Catalog 2.0 Booking Form"
+#~ msgid "New Event List 2.0 Booking Form"
+#~ msgstr "Gennemsnitlige bookinger"
+
+#~ msgid "Close forever"
+#~ msgstr "Lukker den:"
+
+#~ msgid "Yes, Sure!"
+#~ msgstr "Nulstil"
+
+#~ msgid "Plugin has been activated"
+#~ msgstr "Plugin er aktiveret"
+
+#~ msgid "Plugin has been deactivated"
+#~ msgstr "Plugin er deaktiveret"
+
+#~ msgid "You have reached maximum number of registered domains"
+#~ msgstr "Du har nået det maksimale antal registrerede domæner"
+
+#~ msgid "The purchase code is invalid or it has expired"
+#~ msgstr "Købskoden er ugyldig, eller den er udløbet"
+
+#~ msgid "Add New Role"
+#~ msgstr "Tilføj ny rolle"
+
+#~ msgid ""
+#~ "If this is disabled, your front-end customers won't be able to book "
+#~ "appointment with Pending status above the maximum capacity.<br/>Once the "
+#~ "maximum capacity is reached appointment will close and time slot will "
+#~ "become unavailable."
+#~ msgstr ""
+#~ "Hvis dette er deaktiveret, kan dine front-end kunder ikke booke aftale "
+#~ "med status Venter over den maksimale kapacitet. <br/>Når den maksimale "
+#~ "kapacitet er nået, lukkes aftalen, og tidsvinduet bliver utilgængeligt."
+
+#~ msgid ""
+#~ "If this is disabled, your front-end customers won't be able to submit a "
+#~ "booking unless they fill in the minimum service capacity,<br/>but once "
+#~ "they book for any capacity above minimum, the time slot will become "
+#~ "unavailable for booking for others.<br/>If enabled, multiple customers "
+#~ "will be able to book the same time slot, without having to fill in the "
+#~ "minimum capacity."
+#~ msgstr ""
+#~ "Hvis dette er deaktiveret, vil dine frontkunder ikke kunne indsende en "
+#~ "reservation, medmindre de udfylder den minimale servicekapacitet, <br/> "
+#~ "men når de først har booket for kapacitet over minimum, vil tidsvinduet "
+#~ "ikke være tilgængelig til reservation for andre. <br/> Hvis det er "
+#~ "aktiveret, vil flere kunder være i stand til at booke det samme tidsrum "
+#~ "uden at skulle udfylde minimumskapaciteten."
+
+#~ msgid ""
+#~ "Enable this option if you want to allow your customers to delete their "
+#~ "profile data (bookings won't be deleted)."
+#~ msgstr ""
+#~ "Aktivér denne indstilling, hvis du vil tillade dine kunder at slette "
+#~ "deres profildata (bookinger slettes ikke)."
+
+#~ msgid "Amelia Role"
+#~ msgstr "Amelia Rolle"
+
+#~ msgid "Please enter email address"
+#~ msgstr "Indtast venligst e-mail adresse"
+
+#~ msgid "CodeCanyon Purchase Code"
+#~ msgstr "CodeCanyon købskode"
+
+#, fuzzy
+#~| msgid "Event price"
+#~ msgid "Highest price"
+#~ msgstr "Arrangementspris"
+
+#, fuzzy
+#~| msgid "Event price"
+#~ msgid "Lowest price"
+#~ msgstr "Arrangementspris"
+
+#, fuzzy
+#~| msgid ""
+#~| "If this option is enabled customers will be able to pay via email "
+#~| "notifications or through their Customer panel."
+#~ msgid ""
+#~ "If this option is enabled, customers will be able to book multiple "
+#~ "services in a single booking process."
+#~ msgstr ""
+#~ "Hvis denne indstilling er deaktiveret, er service kun tilgængelig til "
+#~ "reservation fra back-end-sider."
+
+#~ msgid "Add/edit custom fields"
+#~ msgstr "Tilføj/redigér brugerdefinerede felter"
+
+#~ msgid "Custom fields settings"
+#~ msgstr "Brugerdefinerede felter indstillinger"
+
+#~ msgid ""
+#~ "Enable this option if you want your employees to see<br/>in the event "
+#~ "customers that attend the appointment."
+#~ msgstr ""
+#~ "Aktivér denne mulighed, hvis du vil have dine medarbejdere til at se <br/"
+#~ "> hvilke kunder, der deltager i aftalen."
+
+#~ msgid ""
+#~ "Enter here URL of the page with [ameliacustomerpanel] shortcode if you "
+#~ "want to send it to your customers in notifications.<br/>Make sure to also "
+#~ "add the placeholder in notification so the URL can be sent."
+#~ msgstr ""
+#~ "Indtast her URL på siden med [ameliacustomerpanel] kode, hvis du vil "
+#~ "sende den til dine kunder i underretninger. <br/>Sørg for også at tilføje "
+#~ "pladsholderen i underretningen, så URL'en kan sendes."
+
+#~ msgid "1 day"
+#~ msgstr "1 dag"
+
+#~ msgid "2 days"
+#~ msgstr "2 dage"
+
+#~ msgid "3 days"
+#~ msgstr "3 dage"
+
+#~ msgid "4 days"
+#~ msgstr "4 dage"
+
+#~ msgid "5 days"
+#~ msgstr "5 dage"
+
+#~ msgid "6 days"
+#~ msgstr "6 dage"
+
+#~ msgid "Days Off Settings"
+#~ msgstr "Indstillinger for fridage"
+
+#~ msgid ""
+#~ "Use these settings to set company working hours and days off which will "
+#~ "be applied for every employee"
+#~ msgstr ""
+#~ "Brug disse indstillinger for firmaets åbningstider og fridage, der vil "
+#~ "blive brugt for alle medarbejdere"
+
+#~ msgid "Deactivate"
+#~ msgstr "Deaktiver"
+
+#~ msgid "Enabled"
+#~ msgstr "Aktiveret"
+
+#~ msgid "Please enter a valid URL with protocol (http:// or https://)"
+#~ msgstr "Angiv en gyldig URL-adresse med protokol (https://)"
+
+#~ msgid "Activated with Envato"
+#~ msgstr "Aktiveret med Envato"
+
+#~ msgid ""
+#~ "Description of the event that will be displayed in the Google Calendar."
+#~ "<br/>You can find available placeholders on the Notifications page."
+#~ msgstr ""
+#~ "Beskrivelse af begivenheden, der vises i Google Kalender. <br/> Du kan "
+#~ "finde tilgængelige pladsholdere på siden Meddelelser."
+
+#~ msgid "Event Title"
+#~ msgstr "Begivenheds overskrift"
+
+#~ msgid ""
+#~ "Title of the event that will be displayed in the Google Calendar.<br/>You "
+#~ "can find available placeholders on the Notifications page."
+#~ msgstr ""
+#~ "Titel på begivenhed, der vil blive vist i Google kalender. <br/> Du kan "
+#~ "finde tilgængelige pladsholdere på siden meddelelser."
+
+#~ msgid ""
+#~ "Title of the meeting that will be displayed in the Zoom.<br/>You can find "
+#~ "available placeholders on the Notifications page."
+#~ msgstr ""
+#~ "Titel på mødet, der vises i zoom. <br/> Du kan finde tilgængelige "
+#~ "pladsholdere på siden Meddelelser."
+
+#~ msgid ""
+#~ "Agenda of the meeting that will be displayed in the Zoom.<br/>You can "
+#~ "find available placeholders on the Notifications page."
+#~ msgstr ""
+#~ "Dagsorden for mødet, der vises i zoom. <br/> Du kan finde tilgængelige "
+#~ "pladsholdere på siden Meddelelser."
+
+#, fuzzy
+#~| msgid "General"
+#~ msgid "Generate"
+#~ msgstr "Generelt"
+
+#, fuzzy
+#~| msgid "Use these settings to manage frontend bookings"
+#~ msgid "Use this setting to manage API keys for Amelia endpoints"
+#~ msgstr "Brug disse indstillinger til at være synlige på hjemmesiden"
+
+#~ msgid "Google Calendar Settings"
+#~ msgstr "Indstillinger for Google Kalender"
+
+#~ msgid ""
+#~ "Allow synchronizing employee's calendar with Google Calendar for smoother "
+#~ "personal scheduling"
+#~ msgstr ""
+#~ "Tillad at synkronisere medarbejdernes kalender med Google Kalender for at "
+#~ "få en jævnere personlig planlægning"
+
+#~ msgid "Zoom Settings"
+#~ msgstr "Zoomindstillinger"
+
+#~ msgid "Click here to see how to obtain<br/>Google Client ID and Secret"
+#~ msgstr "Klik her for at se, hvordan du får<br/>Google Klient ID og Secret"
+
+#~ msgid "Action"
+#~ msgstr "Handling"
+
+#~ msgid "Label"
+#~ msgstr "Label"
+
+#~ msgid ""
+#~ "This is the path in your application that users are redirected to "
+#~ "after<br/>they have authenticated with Google. Add this URI in your "
+#~ "Google<br/>project credentials under \"Authorized redirect URIs\"."
+#~ msgstr ""
+#~ "Dette er den sti i dit program, som brugerne er omdirigeres til <br/>, "
+#~ "når de har godkendt med Google. Tilføj denne URI i dine Google <br/>-"
+#~ "projekt oplysninger under \"autoriserede omdirigeringsURI'er\"."
+
+#~ msgid "Click here to see how to obtain<br/>Zoom API Key and Secret"
+#~ msgstr ""
+#~ "Klik her for at se, hvordan du får tak <br/> Zoom API-nøgle og hemmelighed"
+
+#~ msgid ""
+#~ "Click here to see how to obtain<br/>Zoom Application ID, Client ID and "
+#~ "Client Secret"
+#~ msgstr "Klik her for at se, hvordan du får<br/>Google Klient ID og Secret"
+
+#~ msgid "Appointment date and time"
+#~ msgstr "Booking dato"
+
+#~ msgid "Booking date and time"
+#~ msgstr "Vælg kunde og service"
+
+#~ msgid "Event start date and time"
+#~ msgstr "Vælg kunde og service"
+
+#~ msgid "Number of events"
+#~ msgstr "Antal personer"
+
+#~ msgid ""
+#~ "Enable this option if you want your employees to see<br/>appointments "
+#~ "with pending status in their calendar."
+#~ msgstr ""
+#~ "Aktivér denne indstilling, hvis du vil have dine medarbejdere til at se "
+#~ "<br/> aftaler med afventende status i deres kalender."
+
+#~ msgid ""
+#~ "Enable this option if you want to create zoom meetings for appointments "
+#~ "with pending status."
+#~ msgstr ""
+#~ "Aktivér denne indstilling, hvis du vil oprette zoommøder til aftaler med "
+#~ "status som verserende."
+
+#~ msgid "Instructions"
+#~ msgstr "Instruktioner"
+
+#~ msgid ""
+#~ "Use these settings to register URLs to which booking information will be "
+#~ "sent when booking action occurs."
+#~ msgstr ""
+#~ "Brug disse indstillinger til at registrere webadresser, som "
+#~ "reservationsoplysninger sendes til, når der foretages en bookinghandling."
+
+#~ msgid "Limit Number of Fetched Events"
+#~ msgstr "Begræns antallet af hentede begivenheder"
+
+#~ msgid "Live Client ID"
+#~ msgstr "Live klient ID"
+
+#~ msgid "Live Publishable Key"
+#~ msgstr "Direkte udgivelses nøgle"
+
+#~ msgid "Live Secret"
+#~ msgstr "Live Secret"
+
+#~ msgid "Live Secret Key"
+#~ msgstr "Live hemmelige nøgle"
+
+#~ msgid "Mailgun API Key"
+#~ msgstr "Mailgun API-nøgle"
+
+#~ msgid "Please enter Mailgun API key"
+#~ msgstr "Indtast Mailgun API-nøgle"
+
+#~ msgid "Mailgun Domain"
+#~ msgstr "Mailgun-domæne"
+
+#~ msgid "Please enter Mailgun Domain"
+#~ msgstr "Indtast mailgun-domænet"
+
+#~ msgid "3 months"
+#~ msgstr "3 måneder"
+
+#~ msgid "6 months"
+#~ msgstr "6 måneder"
+
+#~ msgid ""
+#~ "Maximum number of events returned on one result page.<br/>It is "
+#~ "recommended to use smaller number of returned<br/>events if your server "
+#~ "performance is not so good."
+#~ msgstr ""
+#~ "Maksimum antal begivenheder, der er returneret på en resultatside. <br/> "
+#~ "Det anbefales at bruge et mindre antal returnerede <br/> begivenheder, "
+#~ "hvis din serverydelse ikke er så god."
+
+#~ msgid "Number of packages"
+#~ msgstr "Antal personer"
+
+#~ msgid "Allow customer to pay via Customers Panel"
+#~ msgstr "Tillad kunden, at se deltagerliste"
+
+#~ msgid ""
+#~ "If this option is enabled customers will be able to pay via email "
+#~ "notifications or through their Customer panel."
+#~ msgstr ""
+#~ "Hvis denne indstilling er deaktiveret, er service kun tilgængelig til "
+#~ "reservation fra back-end-sider."
+
+#~ msgid "Redirect URL after Payment"
+#~ msgstr "Omdiriger URL efter reservation"
+
+#~ msgid ""
+#~ "Customer will be redirected to this URL once the payment from the link is "
+#~ "processed."
+#~ msgstr ""
+#~ "Kunden vil blive omdirigeret til denne webadresse, når de har booket en "
+#~ "aftale."
+
+#~ msgid "PayPal"
+#~ msgstr "PayPal"
+
+#~ msgid "Please enter live ClientId"
+#~ msgstr "Indtast venligst Live klient-Id"
+
+#~ msgid "Please enter live Secret"
+#~ msgstr "Angiv Live Secret"
+
+#~ msgid "PayPal Service"
+#~ msgstr "PayPal service"
+
+#~ msgid "Please enter test ClientId"
+#~ msgstr "Angiv test-ClientId"
+
+#~ msgid "Please enter test Secret"
+#~ msgstr "Angiv test-Secret"
+
+#, php-format
+#~ msgid ""
+#~ "To receive automatic updates license activation is required. Please visit "
+#~ "%s to activate Amelia."
+#~ msgstr ""
+#~ "For at modtage automatiske opdateringer kræves licensaktivering. Besøg %s "
+#~ "for at aktivere Amelia."
+
+#, fuzzy
+#~| msgid ""
+#~| "Customer will be redirected to this URL once he schedules the "
+#~| "appointment."
+#~ msgid ""
+#~ "Customer will be redirected to this URL once he schedules the appointment "
+#~ "or package."
+#~ msgstr ""
+#~ "Kunden vil blive omdirigeret til denne webadresse, når de har booket en "
+#~ "aftale."
+
+#~ msgid ""
+#~ "Enable this option if you want to remove busy slots in<br/>Google "
+#~ "Calendar from Employee's working schedule."
+#~ msgstr ""
+#~ "Aktivér denne indstilling, hvis du vil fjerne optaget slots i <br/> "
+#~ "Google kalender fra medarbejderens arbejdsplan."
+
+#~ msgid ""
+#~ "If you disable this option buffer time for scheduled appointments<br/"
+#~ ">will not be added to the Google Calendar events."
+#~ msgstr ""
+#~ "Hvis du aktiverer denne mulighed, hver gang en ny kunde planlægger "
+#~ "aftalen<br/>vil der blive givet en Amelia brugerrolle og automatisk e-"
+#~ "mail med login-oplysninger."
+
+#~ msgid "Recurring placeholders"
+#~ msgstr "E-mail pladsholdere"
+
+#~ msgid ""
+#~ "Placeholders for recurring appointments that will be sent in email.<br/"
+#~ ">You can find available placeholders on the Notifications page."
+#~ msgstr ""
+#~ "Titel på mødet, der vises i zoom. <br/> Du kan finde tilgængelige "
+#~ "pladsholdere på siden Meddelelser."
+
+#~ msgid ""
+#~ "If you disable this option, your customers will be able to access "
+#~ "customer panel with link that is sent to their email account."
+#~ msgstr ""
+#~ "Hvis du deaktiverer denne indstilling, vil dine kunder kunne få adgang "
+#~ "til kundepanelet med et link, der sendes til deres e-mail-konto."
+
+#~ msgid "Rest App Client ID"
+#~ msgstr "Rest App Client ID"
+
+#~ msgid "Rest App Secret"
+#~ msgstr "Rest App Secret"
+
+#~ msgid "Sandbox Mode"
+#~ msgstr "Sandbox Mode"
+
+#~ msgid ""
+#~ "Enable this option if you want your customers to<br/>receive an email "
+#~ "about the event."
+#~ msgstr ""
+#~ "Aktivér denne mulighed, hvis du vil have dine kunder til<br/>at mod tage "
+#~ "en e-mail om eventen."
+
+#~ msgid "settings"
+#~ msgstr "indstillinger"
+
+#~ msgid ""
+#~ "Enable this option if you want your customers to see<br/>all attendees in "
+#~ "the appointment in their google calendar."
+#~ msgstr ""
+#~ "Aktivér denne indstilling, hvis dine kunder skal kunne se <br/> alle "
+#~ "deltagere for aftalen i deres google kalender."
+
+#~ msgid "SMTP Host"
+#~ msgstr "SMTP vært"
+
+#~ msgid "Please enter SMTP host"
+#~ msgstr "Indtast SMTP-vært"
+
+#~ msgid "SMTP Password"
+#~ msgstr "SMTP adgangskode"
+
+#~ msgid "Please enter SMTP password"
+#~ msgstr "Indtast SMTP-adgangskode"
+
+#~ msgid "SMTP Port"
+#~ msgstr "SMTP Port"
+
+#~ msgid "Please enter SMTP port"
+#~ msgstr "Angiv SMTP-port"
+
+#~ msgid "SMTP Secure"
+#~ msgstr "SMTP Secure"
+
+#~ msgid "SSL"
+#~ msgstr "SSL"
+
+#~ msgid "TLS"
+#~ msgstr "TLS"
+
+#~ msgid "SMTP Username"
+#~ msgstr "SMTP Brugernavn"
+
+#~ msgid "Please enter SMTP username"
+#~ msgstr "Indtast SMTP-brugernavn"
+
+#~ msgid "Stripe"
+#~ msgstr "Stripe"
+
+#~ msgid "Please enter live publishable key"
+#~ msgstr "Indtast venligst den nøgle, der kan offentliggøres"
+
+#~ msgid "Please enter live secret key"
+#~ msgstr "Angiv live hemmelig nøgle"
+
+#~ msgid "Stripe Service"
+#~ msgstr "Stripe service"
+
+#~ msgid ""
+#~ "SSL (HTTPS) is not enabled. You will not be able to process live Stripe "
+#~ "transactions until SSL is enabled."
+#~ msgstr ""
+#~ "SSL (HTTPS) er ikke aktiveret. Du kan ikke behandle live stripe-"
+#~ "transaktioner, før SSL er aktiveret."
+
+#~ msgid "Please enter test publishable key"
+#~ msgstr "Indtast venligst test publiceret nøgle"
+
+#~ msgid "Please enter test secret key"
+#~ msgstr "Indtast venligst test secret nøgle"
+
+#~ msgid "Template for Event Title"
+#~ msgstr "Skabelon til begivenhed titel"
+
+#~ msgid "Test Client ID"
+#~ msgstr "Test klient-ID"
+
+#~ msgid "Test Mode"
+#~ msgstr "Test mode"
+
+#~ msgid "Test Publishable Key"
+#~ msgstr "Test udgivelses nøgle"
+
+#~ msgid "Test Secret"
+#~ msgstr "Test Secret"
+
+#~ msgid "Test Secret Key"
+#~ msgstr "Test hemmelig nøgle"
+
+#~ msgid "Time frame"
+#~ msgstr "Tidsinterval:"
+
+#, fuzzy
+#~| msgid "Event name"
+#~ msgid "Event Parameter"
+#~ msgstr "Arrangementsnavn"
+
+#~ msgid "2 Way Sync"
+#~ msgstr "2-vejs-synkronisering"
+
+#~ msgid "Unable to deactivate plugin. Please try again later."
+#~ msgstr "Kan ikke deaktivere plugin. Prøv igen senere."
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#, fuzzy
+#~| msgid "View Roles Settings"
+#~ msgid "View API keys Settings"
+#~ msgstr "Se rolle indstillinger"
+
+#~ msgid "View Working Hours & Days Off Settings"
+#~ msgstr "Se indstillinger for arbejdstimer og fridage"
+
+#~ msgid "View Google Calendar Settings"
+#~ msgstr "Se indstillinger for Google Kalender"
+
+#~ msgid "View Web Hooks Settings"
+#~ msgstr "Se indstillinger for webhooks"
+
+#~ msgid "Enable integration with WooCommerce"
+#~ msgstr "Aktiver integration med shoppen"
+
+#~ msgid "Select WooCommerce product"
+#~ msgstr "Vælg WooCommerce-produkt"
+
+#~ msgid ""
+#~ "Here you can choose the product that will be used for WooCommerce "
+#~ "integration."
+#~ msgstr ""
+#~ "Her kan du vælge det produkt, der skal bruges til WooCommerce-integration."
+
+#~ msgid "Failed"
+#~ msgstr "Mislykket"
+
+#~ msgid "Web Hooks Settings"
+#~ msgstr "Webhooks-indstillinger"
+
+#~ msgid "Are you sure you want to delete this web hook"
+#~ msgstr "Er du sikker på, at du vil slette denne webkrok"
+
+#~ msgid "Please select action"
+#~ msgstr "Vælg handling"
+
+#~ msgid "Please enter booking type"
+#~ msgstr "Indtast venligst reservationstype"
+
+#~ msgid "Booking Completed"
+#~ msgstr "Reservation er afsluttet"
+
+#~ msgid "Booking Rescheduled"
+#~ msgstr "Reservationen er genplanlagt"
+
+#~ msgid "Booking Canceled"
+#~ msgstr "Reservation annulleret"
+
+#~ msgid "Booking Status Changed"
+#~ msgstr "Reservationsstatus ændret"
+
+#~ msgid "1 week"
+#~ msgstr "1 uge"
+
+#~ msgid "2 weeks"
+#~ msgstr "2 uger"
+
+#~ msgid "3 weeks"
+#~ msgstr "3 uger"
+
+#~ msgid "4 weeks"
+#~ msgstr "4 uger"
+
+#~ msgid "Working Hours & Days Off"
+#~ msgstr "Arbejdstider og fridage"
+
+#~ msgid "WP Role"
+#~ msgstr "WP Rolle"
+
+#, fuzzy
+#~| msgid "Create New"
+#~ msgid "What's New"
+#~ msgstr "Opret ny"
+
+#~ msgid "Accepted"
+#~ msgstr "Accepteret"
+
+#~ msgid "Already have an account?"
+#~ msgstr "Har du allerede en konto?"
+
+#~ msgid "Amount:"
+#~ msgstr "Beløb:"
+
+#~ msgid "This payment cannot be completed"
+#~ msgstr "Denne betaling kan ikke gennemføres"
+
+#~ msgid ""
+#~ "This payment cannot be completed and your account has not been charged"
+#~ msgstr ""
+#~ "Denne betaling kan ikke gennemføres, og din konto er ikke blevet debiteret"
+
+#~ msgid "Configure"
+#~ msgstr "Bekræft"
+
+#~ msgid "To send this notification please add the following line in your cron"
+#~ msgstr ""
+#~ "For at sende denne notifikation, skal du tilføje følgende linje i din cron"
+
+#~ msgid "Custom Amount"
+#~ msgstr "Tilpasset beløb"
+
+#~ msgid "Delivered"
+#~ msgstr "Leveret"
+
+#~ msgid "Details Changed"
+#~ msgstr "Detaljer"
+
+#~ msgid "Email Placeholders"
+#~ msgstr "E-mail pladsholdere"
+
+#~ msgid "This email address is already being used"
+#~ msgstr "Denne mailadresse bruges allerede"
+
+#~ msgid "Please enter recipient email"
+#~ msgstr "Indtast modtagerens mail"
+
+#~ msgid "Invalid Token"
+#~ msgstr "Ugyldig Token"
+
+#~ msgid "Loading..."
+#~ msgstr "Indlæser..."
+
+#~ msgid "There are no SMS messages..."
+#~ msgstr "Der er ingen sms-beskeder..."
+
+#~ msgid "Notification has not been saved"
+#~ msgstr "Underretningen er ikke gemt"
+
+#~ msgid "Password"
+#~ msgstr "Adgangskode"
+
+#~ msgid "Past event"
+#~ msgstr "Gentag Event"
+
+#~ msgid "Password has been changed"
+#~ msgstr "Adgangskoden er ændret"
+
+#~ msgid "Password must have a length between 5 and 40 characters"
+#~ msgstr "Adgangskoden skal have en længde mellem 5 og 40 tegn"
+
+#~ msgid "Your password has been reset successfully"
+#~ msgstr "Din adgangskode er nu blevet nulstillet"
+
+#~ msgid "Password must not contain whitespace"
+#~ msgstr "Adgangskode må ikke indeholde mellemrum"
+
+#~ msgid "Passwords do not match"
+#~ msgstr "Adgangskoder matcher ikke"
+
+#~ msgid "Unable to retrieve payments results"
+#~ msgstr "Kan ikke hente betalingsresultater"
+
+#~ msgid "Payment ID"
+#~ msgstr "Betalings-ID"
+
+#~ msgid "Payment ID:"
+#~ msgstr "Betalings ID:"
+
+#~ msgid "Cancel Appointment Link"
+#~ msgstr "Annullér aftale-link"
+
+#, fuzzy
+#~| msgid "Approved Appointments"
+#~ msgid "Approve Appointment Link"
+#~ msgstr "Godkendte aftaler"
+
+#, fuzzy
+#~| msgid "Cancel Appointment Link"
+#~ msgid "Reject Appointment Link"
+#~ msgstr "Annullér aftale-link"
+
+#~ msgid "Initial Date of the appointment"
+#~ msgstr "Dato for arrangementet"
+
+#~ msgid "Initial Date & Time of the appointment"
+#~ msgstr "Dato og klokkeslæt for aftalen"
+
+#~ msgid "Initial Start time of the appointment"
+#~ msgstr "Starttidspunkt for aftalen"
+
+#~ msgid "Initial End time of the appointment"
+#~ msgstr "Sluttidspunktet for aftalen"
+
+#~ msgid "Payment link for PayPal"
+#~ msgstr "Betalingshistorik"
+
+#~ msgid "Payment link for Razorpay"
+#~ msgstr "Betalingshistorik"
+
+#~ msgid "Payment link for WooCommerce"
+#~ msgstr "Aktiver integration med shoppen"
+
+#, fuzzy
+#~| msgid "Group appointment details"
+#~ msgid "Cart appointments details"
+#~ msgstr "Gruppeaftale"
+
+#~ msgid "Used Coupon"
+#~ msgstr "Brugt kupon"
+
+#~ msgid "Customer Panel Access Link"
+#~ msgstr "Kundepanelets adgangslink"
+
+#~ msgid "Employee photo"
+#~ msgstr "Medarbejderfoto"
+
+#~ msgid "Cancel Event Link"
+#~ msgstr "Annuller arrangement-link"
+
+#~ msgid "Initial Start date of the event"
+#~ msgstr "Begyndelsesdato for begivenheden"
+
+#~ msgid "Initial Start date & time of the event"
+#~ msgstr "Begyndelsesdato og tidspunkt for begivenheden"
+
+#~ msgid "Initial Start time of the event"
+#~ msgstr "Begyndelsestid for begivenheden"
+
+#~ msgid "Initial End date of the event"
+#~ msgstr "Begivenheds slutdato"
+
+#~ msgid "Initial End date & time of the event"
+#~ msgstr "Slutdato og tidspunkt for begivenheden"
+
+#~ msgid "Initial End time of the event"
+#~ msgstr "Begivenhedens sluttid"
+
+#, fuzzy
+#~| msgid "Select the Extras you'd like"
+#~ msgid "Selected extras details"
+#~ msgstr "Vælg de ekstra funktioner, du ønsker"
+
+#, fuzzy
+#~| msgid "Group appointment details"
+#~ msgid "Cart appointments details placeholder set up"
+#~ msgstr "Gruppeaftale"
+
+#~ msgid "Group appointment details"
+#~ msgstr "Gruppeaftale"
+
+#~ msgid "Location address"
+#~ msgstr "Placering adresse"
+
+#~ msgid "Location description"
+#~ msgstr "Placeringsbeskrivelse"
+
+#~ msgid "Location name"
+#~ msgstr "Lokationsnavn"
+
+#~ msgid "Location phone"
+#~ msgstr "Placeringstelefon"
+
+#~ msgid "Recurring appointments details"
+#~ msgstr "Kommende aftaler"
+
+#~ msgid "Service or Event description"
+#~ msgstr "Service eller begivenhedsbeskrivelse"
+
+#~ msgid "Service or Event name"
+#~ msgstr "Service eller begivenhedsnavn"
+
+#~ msgid "Zoom Start Meeting (Hosts) Link"
+#~ msgstr "Zoom Start møde (værter) Link"
+
+#~ msgid "Date periods of the event with Zoom start links"
+#~ msgstr "Datoperioder for arrangementer med Zoom-startlink"
+
+#~ msgid "Date & Time periods of the event with Zoom start links"
+#~ msgstr "Dato & tidsperioder for begivenheden med Zoom-startlink"
+
+#~ msgid "Zoom Join Meeting (Participants) Link"
+#~ msgstr "Zoom Deltag i møde (deltagere) Link"
+
+#~ msgid "Date periods of the event with Zoom join links"
+#~ msgstr "Datoperioder for begivenheden med Zoom-forbindelseslink"
+
+#~ msgid "Date & Time periods of the event with Zoom join links"
+#~ msgstr "Dato & tidsperioder for begivenheden med Zoom tilslutningslink"
+
+#~ msgid "Date periods of the event with Google Meet join links"
+#~ msgstr "Datoperioder for begivenheden med Zoom-forbindelseslink"
+
+#~ msgid "Date & Time periods of the event with Google Meet join links"
+#~ msgstr "Dato & tidsperioder for begivenheden med Zoom tilslutningslink"
+
+#~ msgid "Prepared"
+#~ msgstr "Forberedt"
+
+#~ msgid "Unable to retrieve pricing"
+#~ msgstr "Kan ikke hente priser"
+
+#~ msgid "Recharge Custom Amount"
+#~ msgstr "Genopfyld brugerdefineret beløb"
+
+#~ msgid "Recipient Phone"
+#~ msgstr "Modtager telefon"
+
+#~ msgid "Account recovery email has been sent"
+#~ msgstr "E-mail til kontogendannelse er blevet sendt"
+
+#~ msgid "Reset Password"
+#~ msgstr "Nulstil Kodeord"
+
+#~ msgid "Scheduled After Appointment"
+#~ msgstr "Planlagt efter aftale"
+
+#~ msgid "Scheduled For Before Appointment"
+#~ msgstr "Planlagt til før aftale"
+
+#~ msgid "Scheduled For"
+#~ msgstr "Planlagt til"
+
+#~ msgid "Please select email template"
+#~ msgstr "Vælg e-mail skabelon"
+
+#~ msgid "Special characters are not allowed"
+#~ msgstr "Specialtegn er ikke tilladt"
+
+#~ msgid "Sender ID supports up to 11 characters"
+#~ msgstr "Afsender-id understøtter op til 11 tegn"
+
+#~ msgid "Your ID must include at least one letter"
+#~ msgstr "Dit id skal indeholde mindst et bogstav"
+
+#~ msgid "Alpha Sender ID can't be empty"
+#~ msgstr "Alpha sender-ID må ikke være tom"
+
+#~ msgid "Alpha Sender ID has been saved"
+#~ msgstr "Alpha-sender-ID er blevet gemt"
+
+#~ msgid "Sent"
+#~ msgstr "Sendt"
+
+#~ msgid "</> Show Email Placeholders"
+#~ msgstr "</> Vis e-mail-pladsholdere"
+
+#~ msgid "</> Show SMS Placeholders"
+#~ msgstr "</> Vis SMS-pladsholdere"
+
+#~ msgid "SMS Placeholders"
+#~ msgstr "SMS-pladsholdere"
+
+#~ msgid "SMS has not been sent"
+#~ msgstr "SMS er ikke sendt"
+
+#~ msgid "SMS has been sent"
+#~ msgstr "SMS er sendt"
+
+#~ msgid "Token has been expired"
+#~ msgstr "Token er udløbet"
+
+#~ msgid "Type:"
+#~ msgstr "Type:"
+
+#~ msgid "Undelivered"
+#~ msgstr "Ikke leverede"
+
+#~ msgid "View Message"
+#~ msgstr "Vis meddelelse"
+
+#, fuzzy
+#~| msgid "Add Image"
+#~ msgid "Image:"
+#~ msgstr "Tilføj Billede"
+
+#~ msgid "Average Bookings"
+#~ msgstr "Gennemsnitlige bookinger"
+
+#~ msgid ""
+#~ "Shows the average number of bookings per day<br/>for the selected date "
+#~ "range."
+#~ msgstr ""
+#~ "Viser det gennemsnitlige antal bookinger pr. Dag <br/> for det valgte "
+#~ "datointerval."
+
+#~ msgid "There are no appointments for today"
+#~ msgstr "Der er ingen aftaler for i dag"
+
+#~ msgid ""
+#~ "Shows the number of pending appointments<br/>in the selected date range."
+#~ msgstr "Vis antallet af ventende aftaler<br/>for det valgte datointerval."
+
+#~ msgid "Today's appointments"
+#~ msgstr "Dagens aftaler"
+
+#~ msgid "Add Break"
+#~ msgstr "Tilføj pause"
+
+#~ msgid "Enter holiday or day off name"
+#~ msgstr "Indtast ferie eller fridag navn"
+
+#~ msgid "Add Period"
+#~ msgstr "Tilføj periode"
+
+#~ msgid "Company Days off"
+#~ msgstr "Virksomhedsdage"
+
+#~ msgid "Company Days Off Settings"
+#~ msgstr "Virksomhedens fridage indstillinger"
+
+#~ msgid "Company Working Hours Settings"
+#~ msgstr "Virksomhedens arbejdstidsindstillinger"
+
+#~ msgid ""
+#~ "You will change working hours setting which is also set for each employee "
+#~ "separately. Do you want to update it for all employees?"
+#~ msgstr ""
+#~ "Vil du ændre arbejdstiden, for hver enkelt medarbejder separat eller vil "
+#~ "du lave en update for alle medarbejdere samtidigt?"
+
+#~ msgid "Repeat Yearly"
+#~ msgstr "Gentag årligt"
+
+#~ msgid "Edit Company Days off"
+#~ msgstr "Rediger virksomhedens fridage"
+
+#~ msgid "Employee Days off"
+#~ msgstr "Medarbejderdage fri"
+
+#~ msgid "Pick a date or range"
+#~ msgstr "Vælg en dato eller et interval"
+
+#~ msgid "Pick a year"
+#~ msgstr "Vælg et år"
+
+#~ msgid "Reflects on"
+#~ msgstr "Reflekterer over"
+
+#~ msgid "Save Special Day"
+#~ msgstr "Gem Speciel Dag"
+
+#~ msgid "Set Break Time"
+#~ msgstr "Vælg tid på pause"
+
+#~ msgid "Set Work Time"
+#~ msgstr "Angive arbejdstid"
+
+#~ msgid "Working Hours & Days Off Settings"
+#~ msgstr "Indstillinger for arbejdstid og fridage"
+
+#~ msgid "Please Wait"
+#~ msgstr "Vent venligst"
+
+#~ msgid "Visible"
+#~ msgstr "Synlig"
+
+#~ msgid "Start by clicking the Add Location button"
+#~ msgstr "Start med at klikke på knappen Tilføj placering"
+
+#~ msgid "Are you sure you want to delete this location?"
+#~ msgstr "Er du sikker på, at du vil slette denne placering?"
+
+#~ msgid "Are you sure you want to duplicate this location?"
+#~ msgstr "Er du sikker på, at du vil duplikere dette sted?"
+
+#~ msgid "Are you sure you want to hide this location?"
+#~ msgstr "Er du sikker på, at du vil skjule denne placering?"
+
+#~ msgid "Are you sure you want to show this location?"
+#~ msgstr "Er du sikker på, at du vil vise dette sted?"
+
+#~ msgid "Edit Location"
+#~ msgstr "Rediger placering"
+
+#~ msgid "Please enter address"
+#~ msgstr "Indtast venligst adresse"
+
+#~ msgid "Latitude"
+#~ msgstr "Breddegrad"
+
+#~ msgid "Location Address"
+#~ msgstr "Lokation adresse"
+
+#~ msgid "Location has been deleted"
+#~ msgstr "Placeringen er blevet slettet"
+
+#~ msgid "Your Location is hidden"
+#~ msgstr "Din placering er skjult"
+
+#~ msgid "Location has been saved"
+#~ msgstr "Placeringen er gemt"
+
+#~ msgid "Your Location is visible"
+#~ msgstr "Din placering er synlig"
+
+#~ msgid "locations"
+#~ msgstr "placeringer"
+
+#~ msgid "Longitude"
+#~ msgstr "Længdegrad"
+
+#~ msgid "Map"
+#~ msgstr "Kort"
+
+#~ msgid "New Location"
+#~ msgstr "Ny lokation"
+
+#~ msgid "You don't have any locations here yet..."
+#~ msgstr "Du har ikke nogen lokationer her endnu..."
+
+#~ msgid "This is not the right address?"
+#~ msgstr "Er dette ikke den rigtige adresse?"
+
+#~ msgid "Pin Icon"
+#~ msgstr "Pin-ikon"
+
+#~ msgid "All Employees"
+#~ msgstr "Alle medarbejdere"
+
+#~ msgid "Available Images"
+#~ msgstr "Tilgængelige Billeder"
+
+#~ msgid "Show \"Bringing anyone with you\" option"
+#~ msgstr "Vis \"Tager du en ven med\" valgmulighed"
+
+#~ msgid ""
+#~ "Hide this option to allow only individual people to<br/>book a group "
+#~ "appointment without the possibility<br/>to come with somebody."
+#~ msgstr ""
+#~ "Skjul denne mulighed for at tillade kun enkeltpersoner at<br/>bestille en "
+#~ "gruppeaftale uden mulighed<br/>at komme med nogen."
+
+#~ msgid "Unable to delete category"
+#~ msgstr "Kan ikke slette kategorien"
+
+#~ msgid "Unable to save categories positions"
+#~ msgstr "Kan ikke gemme kategoripositioner"
+
+#~ msgid "Unable to add category"
+#~ msgstr "Kan ikke tilføje kategori"
+
+#~ msgid "Unable to save category"
+#~ msgstr "Kan ikke gemme kategori"
+
+#~ msgid "Are you sure you want to delete this resource?"
+#~ msgstr "Er du sikker på, at du vil slette denne service?"
+
+#~ msgid "Are you sure you want to delete these resources?"
+#~ msgstr "Er du sikker på, at du vil slette denne service?"
+
+#~ msgid "Are you sure you want to duplicate this resource?"
+#~ msgstr "Er du sikker på, at du vil duplikere denne service?"
+
+#~ msgid "Are you sure you want to hide this resource?"
+#~ msgstr "Er du sikker på, at du vil skjule denne service?"
+
+#~ msgid "Are you sure you want to show this resource?"
+#~ msgstr "Er du sikker på, at du vil vise denne service?"
+
+#~ msgid "Are you sure you want to delete this extra"
+#~ msgstr "Er du sikker på, at du vil slette dette ekstra"
+
+#~ msgid "Edit Resource"
+#~ msgstr "Rediger service"
+
+#~ msgid "Please enter extra name"
+#~ msgstr "Indtast venligst ekstra navn"
+
+#~ msgid "Please enter extra price"
+#~ msgstr "Angiv ekstra pris"
+
+#~ msgid "Price must be non-negative number"
+#~ msgstr "Prisen skal være ikke-negativt tal"
+
+#~ msgid "Please enter price"
+#~ msgstr "Angiv pris"
+
+#~ msgid "Unable to delete extra"
+#~ msgstr "Kan ikke slette ekstra"
+
+#~ msgid "Maximum Quantity"
+#~ msgstr "Maksimum antal"
+
+#~ msgid "The price will multiply by the number of people"
+#~ msgstr "Prisen ganges med antallet af mennesker"
+
+#~ msgid ""
+#~ "If you disable this option the price will be the same<br/>regardless of "
+#~ "how many customers book in the group appointment."
+#~ msgstr ""
+#~ " Hvis du deaktiverer denne indstilling, vil prisen være den samme <br/> "
+#~ "uanset hvor mange kunder der booker i gruppeaftalen."
+
+#~ msgid "New Package Booking"
+#~ msgstr "Gennemsnitlige bookinger"
+
+#~ msgid "New Resource"
+#~ msgstr "Ny service"
+
+#~ msgid "You don't have any categories here yet..."
+#~ msgstr "Du har ikke nogen kategorier her endnu..."
+
+#~ msgid "Notify the customer"
+#~ msgstr "Underret kunden / kunderne"
+
+#~ msgid ""
+#~ "Check this checkbox if you want your customer to<br/>receive an email "
+#~ "about the booked package."
+#~ msgstr ""
+#~ "Marker dette afkrydsningsfelt, hvis du vil have din kunde til <br/> "
+#~ "modtag en e-mail om den planlagte aftale."
+
+#~ msgid "Book Appointment"
+#~ msgstr "Book aftale"
+
+#~ msgid "Package Booking has been saved"
+#~ msgstr "Betalingen er gemt"
+
+#~ msgid "Allow customers to choose employee on the customer panel"
+#~ msgstr "Tillad kunden, at se deltagerliste"
+
+#~ msgid ""
+#~ "Enable this option if you want to count resource quantity usage for each "
+#~ "additional person added during the booking"
+#~ msgstr ""
+#~ "Aktivér denne indstilling, hvis du vil sætte tidsintervallet til <br/> "
+#~ "det samme som servicevarighed i bookingprocessen"
+
+#~ msgid "Resource has been deleted"
+#~ msgstr "Servicen er blevet slettet"
+
+#~ msgid "Resource is hidden"
+#~ msgstr "Servicen er skjult"
+
+#~ msgid "Please enter the name of the resource"
+#~ msgstr "Angiv test-Secret"
+
+#~ msgid "Resource has not been deleted"
+#~ msgstr "Kuponen er ikke blevet slettet"
+
+#~ msgid "Resource has been saved"
+#~ msgstr "Servicen er blevet gemt"
+
+#~ msgid "Search Resources..."
+#~ msgstr "Søg efter kunder ..."
+
+#~ msgid "View less"
+#~ msgstr "Vis meddelelse"
+
+#~ msgid "View more"
+#~ msgstr "Se mere"
+
+#~ msgid "Resource is visible"
+#~ msgstr "Servicen er synlig"
+
+#~ msgid "Quantity"
+#~ msgstr "Maksimum antal"
+
+#~ msgid "Resources have been deleted"
+#~ msgstr "Kunder er blevet slettet"
+
+#~ msgid "Resources have not been deleted"
+#~ msgstr "Kuponer er ikke blevet slettet"
+
+#~ msgid "Search for a Resource..."
+#~ msgstr "Søg efter placeringer ..."
+
+#~ msgid "Select Customer"
+#~ msgstr "Vælg Kunde(r)"
+
+#~ msgid "Please select category"
+#~ msgstr "Vælg kategori"
+
+#~ msgid "Please select select at least one employee"
+#~ msgstr "Vælg venligst mindst en medarbejder"
+
+#~ msgid "Provider has appointments for this service"
+#~ msgstr "Udbyderen har aftaler for denne service"
+
+#~ msgid ""
+#~ "If this option is disabled, service will be available for booking from "
+#~ "back-end pages only."
+#~ msgstr ""
+#~ "Hvis denne indstilling er deaktiveret, er service kun tilgængelig til "
+#~ "reservation fra back-end-sider."
+
+#~ msgid "Handle recurring appointment payments"
+#~ msgstr "Administrer deres aftaler"
+
+#~ msgid "Customers will have to pay only for the first appointment"
+#~ msgstr "Kunderne kunne ikke slettes på grund af fremtidige aftaler"
+
+#~ msgid "Total Number of Appointments"
+#~ msgstr "Antal aftaler"
+
+#~ msgid "Add Employee"
+#~ msgstr "Tilføj medarbejder"
+
+#~ msgid "Away"
+#~ msgstr "Væk"
+
+#~ msgid "On Break"
+#~ msgstr "Har pause"
+
+#~ msgid "Busy"
+#~ msgstr "Optaget"
+
+#~ msgid "Start by clicking the Add Employee button"
+#~ msgstr "Start med at klikke på knappen Tilføj medarbejder"
+
+#~ msgid "Are you sure you want to delete this employee?"
+#~ msgstr "Er du sikker på, at du vil slette denne medarbejder?"
+
+#~ msgid "Are you sure you want to duplicate this employee?"
+#~ msgstr "Er du sikker på, at du vil duplikere denne medarbejder?"
+
+#~ msgid "Are you sure you want to hide this employee?"
+#~ msgstr "Er du sikker på, at du vil skjule denne medarbejder?"
+
+#~ msgid "Are you sure you want to show this employee?"
+#~ msgstr "Er du sikker på, at du vil vise denne medarbejder?"
+
+#~ msgid "Connect"
+#~ msgstr "Tilslut"
+
+#~ msgid "Day Off"
+#~ msgstr "Fridag"
+
+#~ msgid "Disconnect"
+#~ msgstr "Afbryd"
+
+#~ msgid "Edit Employee"
+#~ msgstr "Rediger medarbejder"
+
+#~ msgid "Employee has been deleted"
+#~ msgstr "Medarbejderen er blevet slettet"
+
+#~ msgid "Employee is hidden"
+#~ msgstr "Medarbejderen er skjult"
+
+#~ msgid "Employee can not be deleted because of the future appointment"
+#~ msgstr "Medarbejderen kan ikke slettes på grund af den fremtidige aftale"
+
+#~ msgid "Search Employees..."
+#~ msgstr "Søg i medarbejdere ..."
+
+#~ msgid "Employee is visible"
+#~ msgstr "Medarbejderen er synlig"
+
+#~ msgid "Employees have been deleted"
+#~ msgstr "Medarbejdere er blevet slettet"
+
+#~ msgid "employees"
+#~ msgstr "medarbejdere"
+
+#~ msgid "Employees could not be deleted because of the future appointment"
+#~ msgstr "Medarbejderen kunne ikke slettes på grund af fremtidige aftale"
+
+#~ msgid "Please select location"
+#~ msgstr "Vælg placering"
+
+#~ msgid "Unable to connect to Google Calendar"
+#~ msgstr "Der kunne ikke oprette forbindelse til Google kalender"
+
+#~ msgid "Grid View"
+#~ msgstr "Gittervisning"
+
+#~ msgid "New Employee"
+#~ msgstr "Ny medarbejder"
+
+#~ msgid "Applied for default employee location"
+#~ msgstr "Anvendes til standardmedarbejderplacering"
+
+#~ msgid "Select specific location for this period."
+#~ msgstr "Vælg specifik placering for denne periode."
+
+#~ msgid "Select specific location for each period."
+#~ msgstr "Vælg specifik placering for hver periode."
+
+#~ msgid "Select specific services for each period."
+#~ msgstr "Vælg specifikke tjenester for hver periode."
+
+#~ msgid "Provider has appointments for"
+#~ msgstr "Udbyder har aftaler for"
+
+#~ msgid "Reflect On"
+#~ msgstr "Reflektere over"
+
+#~ msgid "Table View"
+#~ msgstr "Tabelvisning"
+
+#~ msgid "Password must be longer than 3 characters"
+#~ msgstr "Adgangskoden skal være længere end 3 tegn"
+
+#~ msgid ""
+#~ "Here you can select Zoom User,<br/>so once the appointment is scheduled,"
+#~ "<br/>zoom meeting will be automatically created."
+#~ msgstr ""
+#~ "Her kan du vælge Zoom bruger, <br/> så når aftalen er planlagt, <br/> "
+#~ "zoommøde oprettes automatisk."
+
+#~ msgid "Customer can not be deleted because of the future booking"
+#~ msgstr "Kunden kan ikke slettes på grund af fremtidige aftaler"
+
+#~ msgid "Customers could not be deleted because of the future bookings"
+#~ msgstr "Kunderne kunne ikke slettes på grund af fremtidige aftaler"
+
+#, fuzzy
+#~| msgid "Need Help"
+#~ msgid "Need Help?"
+#~ msgstr "Brug for hjælp"
+
+#, fuzzy
+#~| msgid "Amelia - Catalog view"
+#~ msgid "Amelia Changelog"
+#~ msgstr "Amelia - Visning af katalog"
+
+#~ msgid "Code"
+#~ msgstr "Kode"
+
+#~ msgid ""
+#~ "Here you need to define a coupon code which customers will<br/>enter in "
+#~ "their booking so they can get a discount."
+#~ msgstr ""
+#~ "Her skal du definere en kupon kode, som kunderne vil <br/> indtaste i "
+#~ "deres booking, så de kan få en rabat."
+
+#~ msgid "Are you sure you want to delete this coupon?"
+#~ msgstr "Er du sikker på, at du vil slette denne kupon?"
+
+#~ msgid "Are you sure you want to duplicate this coupon?"
+#~ msgstr "Er du sikker på, at du vil duplikere denne kupon?"
+
+#~ msgid "Are you sure you want to hide this coupon?"
+#~ msgstr "Er du sikker på, at du vil skjule denne kupon?"
+
+#~ msgid "Are you sure you want to show this coupon?"
+#~ msgstr "Er du sikker på, at du vil vise denne kupon?"
+
+#~ msgid "Coupon has been deleted"
+#~ msgstr "Kuponen er blevet slettet"
+
+#~ msgid "Your Coupon is hidden"
+#~ msgstr "Din kupon er skjult"
+
+#~ msgid "Coupon has not been deleted"
+#~ msgstr "Kuponen er ikke blevet slettet"
+
+#~ msgid "Coupon has been saved"
+#~ msgstr "Kuponen er gemt"
+
+#~ msgid "Coupon usage limit must be at least 1"
+#~ msgstr "Begrænsning af kuponforbrug skal være mindst 1"
+
+#~ msgid "Your Coupon is active"
+#~ msgstr "Din kupon er aktiv"
+
+#~ msgid "Coupons have been deleted"
+#~ msgstr "Kuponer er blevet slettet"
+
+#~ msgid "coupons"
+#~ msgstr "rabatkode"
+
+#~ msgid " & Other Services"
+#~ msgstr " og andre tjenester"
+
+#~ msgid " & Other Events"
+#~ msgstr " og andre begivenheder"
+
+#~ msgid "Coupons have not been deleted"
+#~ msgstr "Kuponer er ikke blevet slettet"
+
+#~ msgid "Deduction"
+#~ msgstr "Fradrag"
+
+#~ msgid "Edit Coupon"
+#~ msgstr "Rediger kupon"
+
+#~ msgid "Please enter code"
+#~ msgstr "Indsæt venligst kode"
+
+#~ msgid "You can use this option to export coupons in CSV file."
+#~ msgstr "Du kan bruge denne indstilling til at eksportere kuponer i CSV-fil."
+
+#~ msgid "Search Coupons"
+#~ msgstr "Søg kuponer"
+
+#~ msgid "Limit"
+#~ msgstr "Grænse"
+
+#~ msgid "Coupon needs to have discount or deduction"
+#~ msgstr "Kuponen skal have rabat eller fradrag"
+
+#~ msgid "Select at least one service or event"
+#~ msgstr "Vælg mindst en tjeneste eller begivenhed"
+
+#~ msgid "Select the packages for which the coupon can be used."
+#~ msgstr "Vælg de services, som Kuponen kan bruges til."
+
+#~ msgid "Notification interval"
+#~ msgstr "Underretningsinterval"
+
+#~ msgid ""
+#~ "Here you can set the number of approved bookings after which the customer "
+#~ "will automatically receive the coupon in notification.<br/>Please note "
+#~ "that the coupon placeholder needs to be set in the notification template "
+#~ "in order for this to work."
+#~ msgstr ""
+#~ "Her kan du indstille antallet af godkendte bookinger, hvorefter kunden "
+#~ "automatisk modtager kuponen ved anmeldelse. <br/> Bemærk, at "
+#~ "kuponpladsholderen skal indstilles i underretningsskabelonen for at dette "
+#~ "kan fungere."
+
+#~ msgid "Recurring notification"
+#~ msgstr "Gentagende anmeldelse"
+
+#~ msgid "Here you can define if notification interval will repeat."
+#~ msgstr "Her kan du definere, om meddelelsesintervallet gentages."
+
+#~ msgid "Select All Service"
+#~ msgstr "Vælg Alle ydelser"
+
+#~ msgid "Select All Packages"
+#~ msgstr "Vælg alle begivenheder"
+
+#~ msgid "Select the services for which the coupon can be used."
+#~ msgstr "Vælg de services, som Kuponen kan bruges til."
+
+#~ msgid "Select All Events"
+#~ msgstr "Vælg alle begivenheder"
+
+#~ msgid "Select the events for which the coupon can be used."
+#~ msgstr "Vælg de begivenheder, som kuponen kan bruges til."
+
+#~ msgid "Times Used"
+#~ msgstr "Anvendt tid"
+
+#~ msgid "Usage Limit"
+#~ msgstr "Forbrugs Grænse"
+
+#~ msgid ""
+#~ "Here you need to define the number of coupons for use. After the<br/"
+#~ ">limit is reached your coupon will become unavailable."
+#~ msgstr ""
+#~ "Her skal du angive antallet af kuponer til brug. Når grænsen<br/>er nået, "
+#~ "bliver din kupon utilgængelig."
+
+#~ msgid "Maximum Usage Per Customer"
+#~ msgstr "Maksimal anvendelse pr. Kunde"
+
+#~ msgid ""
+#~ "Here you can define the maximum number of coupons for use for single "
+#~ "customer. After the<br/>limit is reached for single customer, your coupon "
+#~ "will become unavailable for that customer."
+#~ msgstr ""
+#~ "Her kan du definere det maksimale antal kuponer, der skal bruges til en "
+#~ "enkelt kunde. Efter <br/> grænsen er nået for en enkelt kunde, vil din "
+#~ "kupon ikke være tilgængelig for den pågældende kunde."
+
+#~ msgid "Used"
+#~ msgstr "Brugt"
+
+#, fuzzy
+#~| msgid "Are you sure you want to delete this payment?"
+#~ msgid "Are you sure you want to refund this payment?"
+#~ msgstr "Er du sikker på, at du vil slette denne betaling?"
+
+#~ msgid "Payment has not been deleted"
+#~ msgstr "Betalingen er ikke blevet slettet"
+
+#, fuzzy
+#~| msgid "Payment date"
+#~ msgid "Payment refund failed"
+#~ msgstr "Betalingsdato"
+
+#~ msgid "Payments have not been deleted"
+#~ msgstr "Betalingerne er ikke blevet slettet"
+
+#~ msgid "Appointment has not been deleted"
+#~ msgstr "Aftalen er ikke blevet slettet"
+
+#~ msgid "Appointment have not been deleted"
+#~ msgstr "Aftalen er ikke blevet slettet"
+
+#~ msgid "Assigned"
+#~ msgstr "Tildelt"
+
+#~ msgid "Cancel Appointment"
+#~ msgstr "Annuller aftalen"
+
+#~ msgid "Choose a group service"
+#~ msgstr "Vælg en gruppetjeneste"
+
+#~ msgid "Start by clicking the New Appointment button"
+#~ msgstr "Start med at klikke på knappen Ny aftale"
+
+#~ msgid "Customer Phone"
+#~ msgstr "Kundes telefonnummer"
+
+#~ msgid "Multiple Emails"
+#~ msgstr "Flere mails"
+
+#~ msgid "You don't have any appointments here yet..."
+#~ msgstr "Du har ikke nogen aftaler her endnu..."
+
+#~ msgid "There are no selected customers"
+#~ msgstr "Der er ingen valgte kunder"
+
+#~ msgid "Select customer, employee and service"
+#~ msgstr "Vælg kunde, medarbejder og service"
+
+#~ msgid "Select date and time"
+#~ msgstr "Vælg kunde og service"
+
+#~ msgid "Select customer and service"
+#~ msgstr "Vælg kunde og service"
+
+#~ msgid "Please select at least one customer"
+#~ msgstr "Vælg mindst én kunde"
+
+#~ msgid "Please select employee"
+#~ msgstr "Vælg venligst medarbejder"
+
+#~ msgid "Select Payment Method for link"
+#~ msgstr "Standard betalingsmetode"
+
+#~ msgid "Start by clicking the New Event button"
+#~ msgstr "Start med at klikke på knappen Nyt arrangement"
+
+#~ msgid "Do you want to delete following canceled events?"
+#~ msgstr "Vil du slette efterfølgende annullerede arrangementer?"
+
+#~ msgid "Do you want to cancel following events?"
+#~ msgstr "Vil du annullere efterfølgende arrangementer?"
+
+#~ msgid "Do you want to open following events?"
+#~ msgstr "Vil du åbne efterfølgende arrangementer?"
+
+#~ msgid "Do you want to update following events?"
+#~ msgstr "Vil du opdatere efterfølgende arrangementer?"
+
+#~ msgid "Remove Selected"
+#~ msgstr "Fjern valgte"
+
+#~ msgid "Attendee have not been deleted"
+#~ msgstr "Deltageren er ikke blevet slettet"
+
+#~ msgid "Attendees have not been deleted"
+#~ msgstr "Deltagere er ikke blevet slettet"
+
+#~ msgid "Spots:"
+#~ msgstr "Steder:"
+
+#~ msgid "Location:"
+#~ msgstr "Lokation:"
+
+#~ msgid "Repeat Event"
+#~ msgstr "Gentag Event"
+
+#~ msgid "How many times?"
+#~ msgstr "Hvor mange gange?"
+
+#~ msgid "Until when?"
+#~ msgstr "Indtil hvornår?"
+
+#~ msgid "Event booking has been deleted"
+#~ msgstr "Arrangementsreservation er blevet slettet"
+
+#~ msgid "Event booking has not been deleted"
+#~ msgstr "Begivenhedsreservation er ikke blevet slettet"
+
+#~ msgid "You don't have any events here yet..."
+#~ msgstr "Du har ikke nogen begivenheder her endnu ..."
+
+#~ msgid "Select"
+#~ msgstr "Vælg"
+
+#~ msgid "No, just this one"
+#~ msgstr "Nej, bare denne"
+
+#~ msgid "Update following"
+#~ msgstr "Opdatering efterfølgende"
+
+#~ msgid "Delete following"
+#~ msgstr "Slet efterfølgende"
+
+#~ msgid "Cancel following"
+#~ msgstr "Annuller efterfølgende"
+
+#~ msgid "Open following"
+#~ msgstr "Åben efterfølgende"
+
+#~ msgid "All employees"
+#~ msgstr "Alle medarbejdere"
+
+#~ msgid ""
+#~ "Appointment can't be moved because of employee break in the selected "
+#~ "period"
+#~ msgstr ""
+#~ "Aftalen kan ikke flyttes på grund af medarbejderpause i den valgte periode"
+
+#~ msgid ""
+#~ "There is already an appointment for this employee in selected time period"
+#~ msgstr ""
+#~ "Der er allerede en aftale for denne medarbejder i den valgte periode"
+
+#~ msgid ""
+#~ "Appointment can't be moved because the employee doesn't provide this "
+#~ "service at the selected time"
+#~ msgstr ""
+#~ "Aftalen kan ikke flyttes, fordi medarbejderen ikke leverer denne service "
+#~ "på det valgte tidspunkt"
+
+#~ msgid "Appointment can't be moved out of employee working hours"
+#~ msgstr "Aftalen kan ikke flyttes udenfor medarbejderens arbejdstid"
+
+#~ msgid "Group appointment"
+#~ msgstr "Gruppeaftale"
+
+#~ msgid "List"
+#~ msgstr "Liste"
+
+#~ msgid "No appointments to display"
+#~ msgstr "Ingen aftaler at vise"
+
+#~ msgid "Timeline"
+#~ msgstr "Tidslinje"
+
+#~ msgid "Add Option"
+#~ msgstr "Tilføj Option"
+
+#, fuzzy
+#~| msgid "Select Location"
+#~ msgid "Google/Outlook Location"
+#~ msgstr "Vælg Lokation"
+
+#~ msgid "All services"
+#~ msgstr "Alle ydelser"
+
+#~ msgid "Any Employee"
+#~ msgstr "Alle behandlere"
+
+#~ msgid "Person"
+#~ msgstr "Person"
+
+#~ msgid "Colors & Fonts"
+#~ msgstr "Farver & skrift typer"
+
+#, fuzzy
+#~| msgid "Location Input Field"
+#~ msgid "Coupon Input Field"
+#~ msgstr "Lokationsnavn"
+
+#~ msgid "Custom field has been added"
+#~ msgstr "Brugerdefineret felt er blevet tilføjet"
+
+#~ msgid "Custom field has been deleted"
+#~ msgstr "Brugerdefineret felt er blevet slettet"
+
+#~ msgid "Unable to save custom fields positions"
+#~ msgstr "Kan ikke gemme brugerdefinerede feltpositioner"
+
+#~ msgid "Notification Placeholder"
+#~ msgstr "Notifikation placeholder"
+
+#~ msgid "Primary Gradient"
+#~ msgstr "Primær gradient"
+
+#~ msgid "Required"
+#~ msgstr "Påkrævet"
+
+#~ msgid "Repeat:"
+#~ msgstr "Gentag Event"
+
+#~ msgid "Time(s):"
+#~ msgstr "Tid:"
+
+#~ msgid "You can edit or delete each appointment"
+#~ msgstr "Er du sikker på, at du vil slette denne aftale?"
+
+#~ msgid "Payment Method:"
+#~ msgstr "Betalingsmetode:"
+
+#~ msgid "Credit Card"
+#~ msgstr "Kreditkort"
+
+#~ msgid "Credit or debit card:"
+#~ msgstr "Kredit- eller betalingskort:"
+
+#~ msgid "About this Event"
+#~ msgstr "Om denne begivenhed"
+
+#~ msgid "Package Badge"
+#~ msgstr "Gennemsnitlige bookinger"
+
+#~ msgid "Package Services List"
+#~ msgstr "PayPal service"
+
+#~ msgid "Maximum Quantity:"
+#~ msgstr "Maksimum antal:"
+
+#~ msgid "Description:"
+#~ msgstr "Beskrivelse:"
+
+#~ msgid ""
+#~ "Thank you! Your booking is completed and now is pending confirmation."
+#~ msgstr ""
+#~ "Tak skal du have! Din reservation er afsluttet, og nu afventer "
+#~ "bekræftelse."
+
+#~ msgid "Spot"
+#~ msgstr "Steder:"
+
+#~ msgid "Spots capacity"
+#~ msgstr "Kapacitet"
+
+#~ msgid "Event Day"
+#~ msgstr "Begivenhedsdato"
+
+#~ msgid "Bringing anyone with you?"
+#~ msgstr "Tager du nogen med dig?"
+
+#~ msgid "First"
+#~ msgstr "Fornavn"
+
+#~ msgid "Last"
+#~ msgstr "Efternavn"
+
+#~ msgid "on"
+#~ msgstr "Skrifttype"
+
+#, fuzzy
+#~| msgid "Book Now"
+#~ msgid "Book another"
+#~ msgstr "Book"
+
+#, fuzzy
+#~| msgid "View more"
+#~ msgid "View Cart"
+#~ msgstr "Se mere"
+
+#, fuzzy
+#~| msgid "Card Button Type"
+#~ msgid "Cancel Cart Button Type"
+#~ msgstr "Radioknapper"
+
+#, fuzzy
+#~| msgid "Card Button Type"
+#~ msgid "Book Another Button Type"
+#~ msgstr "Radioknapper"
+
+#~ msgid "Extras Selection"
+#~ msgstr "Vælg handling"
+
+#, fuzzy
+#~| msgid "Extras Selection"
+#~ msgid "Cart Selection"
+#~ msgstr "Vælg handling"
+
+#, fuzzy
+#~| msgid "Event description"
+#~ msgid "Cart description"
+#~ msgstr "Service beskrivelse"
+
+#~ msgid "placeholder"
+#~ msgstr "SMS-pladsholdere"
+
+#~ msgid "Booked Appointments Preview"
+#~ msgstr "Book aftale"
+
+#~ msgid "Location Input Field"
+#~ msgstr "Lokationsnavn"
+
+#~ msgid "Employee Input Field"
+#~ msgstr "Medarbejdernotat"
+
+#~ msgid "Heading"
+#~ msgstr "Afventer"
+
+#~ msgid "Popup Heading"
+#~ msgstr "Afventer"
+
+#~ msgid "Total Number of Packages"
+#~ msgstr "Antal personer"
+
+#~ msgid "Employee Dialog"
+#~ msgstr "Medarbejders e-mail"
+
+#~ msgid "Book This Service"
+#~ msgstr "Book denne begivenhed"
+
+#~ msgid "Book This Package"
+#~ msgstr "Book denne begivenhed"
+
+#~ msgid "Package Category"
+#~ msgstr "Ny kategori"
+
+#~ msgid "Package Duration"
+#~ msgstr "Varighed"
+
+#~ msgid "Package Capacity"
+#~ msgstr "Kapacitet"
+
+#~ msgid "Package Location"
+#~ msgstr "Ny lokation"
+
+#~ msgid "Service Capacity"
+#~ msgstr "Service Katagori"
+
+#~ msgid "Service Location"
+#~ msgstr "Ydelsevarighed"
+
+#~ msgid "Packages Block"
+#~ msgstr "Gennemsnitlige bookinger"
+
+#~ msgid "Filter by Employee"
+#~ msgstr "Rediger medarbejder"
+
+#~ msgid "Filter by Location"
+#~ msgstr "Rediger placering"
+
+#~ msgid "View Employees"
+#~ msgstr "Ny medarbejder"
+
+#~ msgid "View More Packages"
+#~ msgstr "Se mere"
+
+#~ msgid "View Less Packages"
+#~ msgstr "Vis meddelelse"
+
+#~ msgid "Employee Price"
+#~ msgstr "Medarbejdernotat"
+
+#~ msgid "Extras Cost:"
+#~ msgstr "Ekstra omkostninger:"
+
+#~ msgid "Subtotal:"
+#~ msgstr "Subtotal:"
+
+#~ msgid "Recurring Appointments:"
+#~ msgstr "Ventende aftaler"
+
+#, fuzzy
+#~| msgid "Event Title"
+#~ msgid "Event Tickets"
+#~ msgstr "Begivenheds overskrift"
+
+#, fuzzy
+#~| msgid "Select Time"
+#~ msgid "Select Tickets"
+#~ msgstr "Vælg Tidspunkt"
+
+#, fuzzy
+#~| msgid "Event Type"
+#~ msgid "Ticket Types"
+#~ msgstr "Arrangement type"
+
+#, fuzzy
+#~| msgid "Sort Services:"
+#~ msgid "Total Services Booked"
+#~ msgstr "Sorter Services:"
+
+#, fuzzy
+#~| msgid "Customer Phone"
+#~ msgid "Customer Panel Button"
+#~ msgstr "Kundes telefonnummer"
+
+#, fuzzy
+#~| msgid "Edit Employee"
+#~ msgid "Event Employees"
+#~ msgstr "Rediger medarbejder"
+
+#, fuzzy
+#~| msgid "Segments:"
+#~ msgid "Coupon Segment"
+#~ msgstr "Segmenter:"
+
+#~ msgid "Preselect Current Date"
+#~ msgstr "Forvælg aktuel dato"
+
+#~ msgid "Amelia - Search view"
+#~ msgstr "Amelia - Søgevisning"
+
+#~ msgid ""
+#~ "Front-end Booking Search is shortcode that give your customers the "
+#~ "possibility to search for appointment by selecting several filters so "
+#~ "that they could find the best time slots and services for their needs."
+#~ msgstr ""
+#~ "Front-booking-søgning er en kort kode, der giver dine kunder muligheden "
+#~ "for at søge efter aftale ved at vælge flere filtre, så de kan finde de "
+#~ "bedste tidspunkter og tjenester til deres behov."
+
+#~ msgid "Amelia - Customer Panel"
+#~ msgstr "Amelia - Kundepanel"
+
+#~ msgid ""
+#~ "Front-end Customer Panel is a shortcode that gives your customers the "
+#~ "possibility to manage their bookings and profile information."
+#~ msgstr ""
+#~ "Front-end kundepanel er en kort kode, der giver dine kunder muligheden "
+#~ "for at administrere deres bookinger og profiloplysninger."
+
+#~ msgid "Automatically create Amelia Customers from WP Users "
+#~ msgstr "Opret automatisk Amelia kundebruger"
+
+#~ msgid "Create Amelia Customers"
+#~ msgstr "Opret kunde"
+
+#~ msgid "Number of adjusted time slots: "
+#~ msgstr "Antal af ekstra personer:"
+
+#~ msgid "Check this option if you want to create recurring appointments"
+#~ msgstr ""
+#~ "Aktivér denne indstilling, hvis du vil oprette zoommøder til aftaler med "
+#~ "status som verserende."
+
+#~ msgid "Add Coupon"
+#~ msgstr "Tilføj kupon"
+
+#~ msgid "Book"
+#~ msgstr "Book"
+
+#~ msgid "An email with details of your booking has been sent to you."
+#~ msgstr "Der er sendt en e-mail med oplysninger om din reservation."
+
+#~ msgid "Client Time:"
+#~ msgstr "Klienttid:"
+
+#~ msgid "This coupon is not valid anymore"
+#~ msgstr "Denne kupon er ikke længere gyldig"
+
+#~ msgid "Please enter coupon"
+#~ msgstr "Angiv kupon"
+
+#~ msgid "You can use this coupon for next booking: "
+#~ msgstr "Du kan bruge denne kupon til næste reservation: "
+
+#~ msgid "Used coupon"
+#~ msgstr "Brugte kupon"
+
+#~ msgid "Unfortunately a server error occurred and your email was not sent."
+#~ msgstr "Desværre opstod der en serverfejl, og din e-mail blev ikke sendt."
+
+#~ msgid "employee"
+#~ msgstr "medarbejdere"
+
+#~ msgid "Event booking is unavailable"
+#~ msgstr "Tidsinterval er ikke tilgængeligt"
+
+#~ msgid "Drop file here or click to upload"
+#~ msgstr "Slip filen her, eller klik for at uploade"
+
+#~ msgid "Please upload the file"
+#~ msgstr "Upload filen"
+
+#~ msgid "This file is forbidden for upload"
+#~ msgstr "Denne fil er forbudt at uploade"
+
+#~ msgid "Your card's security code is incomplete"
+#~ msgstr "Dit korts sikkerhedskode er ufuldstændig"
+
+#~ msgid "Your card's expiration date is incomplete"
+#~ msgstr "Dit korts udløbsdato er ufuldstændig"
+
+#~ msgid "Your card number is incomplete"
+#~ msgstr "Dit kortnummer er ufuldstændigt"
+
+#~ msgid "Your postal code is incomplete"
+#~ msgstr "Din postnummer er ufuldstændig"
+
+#~ msgid "Your card's expiration year is in the past"
+#~ msgstr "Dit korts udløbsår er i fortiden"
+
+#~ msgid "Your card number is invalid"
+#~ msgstr "Dit kortnummer er ugyldigt"
+
+#~ msgid ""
+#~ "Sorry, there was an error processing your payment. Please try again later."
+#~ msgstr ""
+#~ "Beklager, der opstod en fejl ved behandling af din betaling. Prøv igen "
+#~ "senere."
+
+#~ msgid ""
+#~ "Sorry, there was an error creating a payment link. Please try again later."
+#~ msgstr ""
+#~ "Beklager, der opstod en fejl ved behandling af din betaling. Prøv igen "
+#~ "senere."
+
+#~ msgid "service"
+#~ msgstr "service"
+
+#~ msgid "Waiting for payment"
+#~ msgstr "Venter på betaling"
+
+#~ msgid "On-line"
+#~ msgstr "On-line"
+
+#~ msgid "Appointment is removed from the cart."
+#~ msgstr "Aftalen fjernes fra kurven."
+
+#~ msgid "Sorry, there was an error while adding booking to WooCommerce cart."
+#~ msgstr ""
+#~ "Beklager, der var en fejl, mens du tilføjer Booking til butikkens kurv."
+
+#~ msgid "Appointment Date:"
+#~ msgstr "Udnævnelsesdato:"
+
+#~ msgid "Please enter appointment date..."
+#~ msgstr "Angiv aftaledato ..."
+
+#~ msgid "Next"
+#~ msgstr "Næste"
+
+#~ msgid "No results found..."
+#~ msgstr "Ingen resultater fundet..."
+
+#~ msgid "Please refine your search criteria"
+#~ msgstr "Forbedre dine søgekriterier"
+
+#~ msgid "results"
+#~ msgstr "resultater"
+
+#~ msgid "Search..."
+#~ msgstr "Søg..."
+
+#~ msgid "Search Filters"
+#~ msgstr "Søge kriterier"
+
+#~ msgid "Search Results"
+#~ msgstr "Søgeresultater"
+
+#~ msgid "Select the Appointment Time"
+#~ msgstr "Vælg aftaletid"
+
+#~ msgid "Select the Extras you'd like"
+#~ msgstr "Vælg de ekstra funktioner, du ønsker"
+
+#~ msgid "Time Range:"
+#~ msgstr "Tidsinterval:"
+
+#~ msgid "To"
+#~ msgstr "Til"
+
+#~ msgid "Add extra"
+#~ msgstr "Tilføj ekstra"
+
+#~ msgid "Any"
+#~ msgstr "Enhver"
+
+#~ msgid "Extra:"
+#~ msgstr "Ekstra:"
+
+#~ msgid "Appointments from the first package expire on:"
+#~ msgstr "Aftalenoter"
+
+#~ msgid "Qty:"
+#~ msgstr "Antal:"
+
+#~ msgid "Do you want to delete this appointment?"
+#~ msgstr "Er du sikker på, at du vil slette denne aftale?"
+
+#, fuzzy
+#~| msgid "Subtotal"
+#~ msgid "Event Subtotal"
+#~ msgstr "Subtotal"
+
+#~ msgid "Show from date"
+#~ msgstr "Vis fra dato"
+
+#~ msgid "Booking Appointment"
+#~ msgstr "Book aftale"
+
+#~ msgid "Buffer Time"
+#~ msgstr "Buffertid"
+
+#~ msgid ""
+#~ "To reschedule your appointment, select an available date time from the "
+#~ "calendar, then click Confirm."
+#~ msgstr ""
+#~ "For at planlægge din aftale igen skal du vælge en tilgængelig dato i "
+#~ "kalenderen og derefter klikke på Bekræft."
+
+#~ msgid "Cancel Package"
+#~ msgstr "Annulleret"
+
+#~ msgid "Are you sure you want to cancel this appointment?"
+#~ msgstr "Er du sikker på at du vil slette denne aftale?"
+
+#~ msgid "Are you sure you want to cancel your attendance?"
+#~ msgstr "Er du sikker på, at du vil annullere dit deltagelse?"
+
+#~ msgid "Delete profile"
+#~ msgstr "Slet profil"
+
+#~ msgid ""
+#~ "Are you sure you want to delete your profile? You will lose access to all "
+#~ "your bookings and access to the customer panel."
+#~ msgstr ""
+#~ "Er du sikker på, at du vil slette din profil? Du mister adgangen til alle "
+#~ "dine bookinger og adgang til kundepanelet."
+
+#~ msgid "Email or Username"
+#~ msgstr "E-mail eller brugernavn"
+
+#~ msgid "This is recurring event"
+#~ msgstr "Dette er et tilbagevendende arrangement"
+
+#~ msgid "Incorrect email or password"
+#~ msgstr "Forkert email eller kodeord"
+
+#~ msgid "Login"
+#~ msgstr "Log ind"
+
+#~ msgid "Enter your password"
+#~ msgstr "Indtast din adgangskode"
+
+#~ msgid ""
+#~ "Check this checkbox if you want your customer to<br/>receive an email "
+#~ "about the scheduled appointment."
+#~ msgstr ""
+#~ "Marker dette afkrydsningsfelt, hvis du vil have din kunde til <br/> "
+#~ "modtag en e-mail om den planlagte aftale."
+
+#~ msgid "Appointments in this package"
+#~ msgstr "Aftalenoter"
+
+#~ msgid "Pay"
+#~ msgstr "Dag"
+
+#~ msgid "Profile deleted"
+#~ msgstr "Profilen blev slettet"
+
+#~ msgid "Email with access link has been sent"
+#~ msgstr "E-mail med adgangslink er sendt"
+
+#~ msgid "Reschedule"
+#~ msgstr "Omlæg"
+
+#~ msgid "Send Access Link"
+#~ msgstr "Send adgangslink"
+
+#~ msgid "Set Password"
+#~ msgstr "Indstil Adgangskode"
+
+#, fuzzy
+#~| msgid "Check this option if you want to create recurring appointments"
+#~ msgid "The refund will apply to all recurring appointments"
+#~ msgstr ""
+#~ "Aktivér denne indstilling, hvis du vil oprette zoommøder til aftaler med "
+#~ "status som verserende."
+
+#~ msgid "View Payment Details"
+#~ msgstr "Se betalings oplysninger"
+
+#~ msgid "Discount:"
+#~ msgstr "Rabat:"
+
+#~ msgid ""
+#~ "Here you can set the maximum number of persons<br/>per one appointment."
+#~ msgstr "Her kan du indstille det maksimale antal personer <br/> pr. aftale."
+
+#~ msgid ""
+#~ "Here you can set the minimum number of persons<br/>per one booking of "
+#~ "this service."
+#~ msgstr ""
+#~ "Her kan du indstille det mindste antal personer <br/> pr. booking af "
+#~ "denne service."
+
+#~ msgid "Minimum number of persons for bookings to approve appointment is"
+#~ msgstr "Det mindste antal personer, der booker for at godkende aftale, er"
+
+#~ msgid "Persons"
+#~ msgstr "Personer"
+
+#~ msgid "persons"
+#~ msgstr "personer"
+
+#~ msgid "Number of Additional Persons:"
+#~ msgstr "Antal af ekstra personer:"
+
+#~ msgid "Start by clicking the Add Customer button"
+#~ msgstr "Start med at klikke på knappen Tilføj kunde"
+
+#~ msgid ""
+#~ "Enter your account email address and we will send you access link to your "
+#~ "inbox."
+#~ msgstr ""
+#~ "Indtast din kontos e-mail-adresse, så sender vi dig adgangslink til din "
+#~ "indbakke."
+
+#~ msgid "Minimum time required before canceling/rescheduling"
+#~ msgstr "Minimum krævet tid inden annullering/om-planlægning"
+
+#~ msgid ""
+#~ "Set the time before the appointment when customers<br/>will not be able "
+#~ "to cancel/reschedule the appointment."
+#~ msgstr ""
+#~ "Indstil klokkeslættet før aftalen, når kunder <br/> vil ikke være i stand "
+#~ "til at annullere/om-planlægge aftalen."
+
+#~ msgid ""
+#~ "Here you can enter additional email addresses where all notifications "
+#~ "will be sent."
+#~ msgstr ""
+#~ "Her kan du indtaste yderligere e-mail-adresser, hvor alle meddelelser vil "
+#~ "blive sendt."
+
+#~ msgid "It seems you don't have a valid purchase of Amelia"
+#~ msgstr "Det ser ud til, at du ikke har et gyldigt køb af Amelia"
+
+#~ msgid "Manage Google Calendar Integration, Zoom Integration and Web Hooks"
+#~ msgstr ""
+#~ "Administrer Google Kalender-integration, Zoom-integration og Web Hooks"
+
+#~ msgid ""
+#~ "Here you can connect with your Google Calendar,<br/>so once the "
+#~ "appointment is scheduled it will be<br/>automatically added to your "
+#~ "calendar."
+#~ msgstr ""
+#~ "Her kan du oprette forbindelse til din Google-kalender, <br/> når aftalen "
+#~ "er planlagt, vil det blive <br/> automatisk tilføjet til din kalender."
+
+#~ msgid "Location of the event"
+#~ msgstr "Event Adresse"
+
+#~ msgid "Profile saved"
+#~ msgstr "Vi har gemt din information"
+
+#~ msgid "Including PayPal Processing Fee of"
+#~ msgstr "Inkluderer PayPal ekspeditionsgebyr på"
+
+#~ msgid "Total Price:"
+#~ msgstr "Total pris:"
+
+#~ msgid "Scheduled Appointments"
+#~ msgstr "Planlagte aftaler"
